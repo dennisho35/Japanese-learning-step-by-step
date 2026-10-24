@@ -1,0 +1,6635 @@
+{
+  "appInfo": {
+    "name": "日語一步通 Japanese Step-by-Step",
+    "version": "1.0.0",
+    "locale": "zh-TW",
+    "targetLanguage": "ja-JP (Tokyo Standard)"
+  },
+  "kana": [
+    {
+      "id": "kana_seion_a",
+      "order": 1,
+      "category": "seion",
+      "row": "あ行",
+      "romaji": "a",
+      "hiragana": "あ",
+      "katakana": "ア",
+      "hiraganaStrokes": 3,
+      "katakanaStrokes": 2,
+      "origin": "由漢字「安」草書演變",
+      "mnemonic": "平假名「あ」像一個人在打太極（安）；片假名「ア」像注音「ア」或耳朵旁上半部。",
+      "pronunciationTip": "母音 /a/，口型自然張大，舌位放低。",
+      "exampleWord": "あめ (Ame) - 雨 / 糖果",
+      "hiraganaDirections": [
+        "由左至右寫橫畫",
+        "中間偏左寫微彎豎畫",
+        "從右上往左下繞大圈收尾"
+      ],
+      "katakanaDirections": [
+        "橫折往右下斜拉",
+        "從折角處往左下撇出"
+      ],
+      "phoneticMutation": "seion (清音基礎音)"
+    },
+    {
+      "id": "kana_seion_i",
+      "order": 2,
+      "category": "seion",
+      "row": "あ行",
+      "romaji": "i",
+      "hiragana": "い",
+      "katakana": "イ",
+      "hiraganaStrokes": 2,
+      "katakanaStrokes": 2,
+      "origin": "由漢字「以」演變",
+      "mnemonic": "平假名「い」像兩個人並排站立（以）；片假名「イ」就是漢字「伊」的單人旁。",
+      "pronunciationTip": "母音 /i/，嘴角微微向兩側拉開，雙唇不刻意嘟起。",
+      "exampleWord": "いぬ (Inu) - 狗",
+      "hiraganaDirections": [
+        "左邊長弧豎並向上勾",
+        "右邊短弧豎微向下"
+      ],
+      "katakanaDirections": [
+        "由右上往左下撇",
+        "從撇的中間往下寫直豎"
+      ],
+      "phoneticMutation": "seion (清音基礎音)"
+    },
+    {
+      "id": "kana_seion_u",
+      "order": 3,
+      "category": "seion",
+      "row": "あ行",
+      "romaji": "u",
+      "hiragana": "う",
+      "katakana": "ウ",
+      "hiraganaStrokes": 2,
+      "katakanaStrokes": 3,
+      "origin": "由漢字「宇」演變",
+      "mnemonic": "平假名「う」像宇宙飛船的側面；片假名「ウ」是漢字「宇」的寶蓋頭。",
+      "pronunciationTip": "日語 /u/ 雙唇放平不往前圓唇突出，與中文「屋」不同。",
+      "exampleWord": "うみ (Umi) - 海",
+      "hiraganaDirections": [
+        "上方短斜點",
+        "下方由左往右繞彎弧往下撇"
+      ],
+      "katakanaDirections": [
+        "上方短豎",
+        "左邊短豎",
+        "橫折往左下長撇"
+      ],
+      "phoneticMutation": "seion (清音基礎音)"
+    },
+    {
+      "id": "kana_seion_e",
+      "order": 4,
+      "category": "seion",
+      "row": "あ行",
+      "romaji": "e",
+      "hiragana": "え",
+      "katakana": "エ",
+      "hiraganaStrokes": 2,
+      "katakanaStrokes": 3,
+      "origin": "由漢字「衣」与「江」演變",
+      "mnemonic": "平假名「え」像一個人奔跑的姿勢（衣）；片假名「エ」就是漢字「江」的右半邊「工」。",
+      "pronunciationTip": "母音 /e/，口型介於「い」與「あ」之間，發音短促清晰。",
+      "exampleWord": "えき (Eki) - 車站",
+      "hiraganaDirections": [
+        "上方短點",
+        "下方橫折往左下撇後原路折返往右波浪延展"
+      ],
+      "katakanaDirections": [
+        "上橫",
+        "中豎",
+        "下長橫"
+      ],
+      "phoneticMutation": "seion (清音基礎音)"
+    },
+    {
+      "id": "kana_seion_o",
+      "order": 5,
+      "category": "seion",
+      "row": "あ行",
+      "romaji": "o",
+      "hiragana": "お",
+      "katakana": "オ",
+      "hiraganaStrokes": 3,
+      "katakanaStrokes": 3,
+      "origin": "由漢字「於」演變",
+      "mnemonic": "平假名「お」像高爾夫球桿揮桿進洞；片假名「オ」是漢字「才」的字形。",
+      "pronunciationTip": "母音 /o/，雙唇略呈圓形但保持放鬆，不產生滑音。",
+      "exampleWord": "おちゃ (Ocha) - 茶",
+      "hiraganaDirections": [
+        "左上方短橫",
+        "直豎往下後往左繞小三角再往右繞大圈",
+        "右上角點一點"
+      ],
+      "katakanaDirections": [
+        "長橫",
+        "直豎往下勾",
+        "由交叉處往左下撇"
+      ],
+      "phoneticMutation": "seion (清音基礎音)"
+    },
+    {
+      "id": "kana_seion_ka",
+      "order": 6,
+      "category": "seion",
+      "row": "か行",
+      "romaji": "ka",
+      "hiragana": "か",
+      "katakana": "カ",
+      "hiraganaStrokes": 3,
+      "katakanaStrokes": 2,
+      "origin": "由漢字「加」演變",
+      "mnemonic": "平假名「か」就是「加」字右邊的「口」變成一點；片假名「カ」就是「加」的左半邊「力」。",
+      "pronunciationTip": "清音無聲子音 /k/ + /a/。",
+      "exampleWord": "かさ (Kasa) - 雨傘",
+      "hiraganaDirections": [
+        "橫折往下彎勾",
+        "中間偏左長撇",
+        "右方斜長點"
+      ],
+      "katakanaDirections": [
+        "橫折往下彎勾",
+        "中間長撇"
+      ],
+      "phoneticMutation": "seion (清音基礎音)"
+    },
+    {
+      "id": "kana_seion_ki",
+      "order": 7,
+      "category": "seion",
+      "row": "か行",
+      "romaji": "ki",
+      "hiragana": "き",
+      "katakana": "キ",
+      "hiraganaStrokes": 4,
+      "katakanaStrokes": 3,
+      "origin": "由漢字「幾」演變",
+      "mnemonic": "平假名「き」像一把古老的鑰匙（Key）；片假名「キ」是拿掉下方弧線的鑰匙柄。",
+      "pronunciationTip": "子音 /k/ 遇母音 /i/ 時顎化，發音位置偏前。",
+      "exampleWord": "きっぷ (Kippu) - 車票",
+      "hiraganaDirections": [
+        "上短橫",
+        "下短橫",
+        "斜豎向下（印刷體連筆、手寫體分開）",
+        "下方左下弧線"
+      ],
+      "katakanaDirections": [
+        "上橫",
+        "下橫",
+        "斜豎由上貫穿向下"
+      ],
+      "phoneticMutation": "seion (清音基礎音)"
+    },
+    {
+      "id": "kana_seion_ku",
+      "order": 8,
+      "category": "seion",
+      "row": "か行",
+      "romaji": "ku",
+      "hiragana": "く",
+      "katakana": "ク",
+      "hiraganaStrokes": 1,
+      "katakanaStrokes": 2,
+      "origin": "由漢字「久」演變",
+      "mnemonic": "平假名「く」像小鳥張開嘴巴「哭（ku）」或小於符號 `<`；片假名「ク」像「久」字去掉最後一捺。",
+      "pronunciationTip": "子音 /k/ + 平唇母音 /u/。",
+      "exampleWord": "くつ (Kutsu) - 鞋子",
+      "hiraganaDirections": [
+        "由右上往左折再往右下斜拉（一筆完成）"
+      ],
+      "katakanaDirections": [
+        "左短撇",
+        "橫折往左下長撇"
+      ],
+      "phoneticMutation": "seion (清音基礎音)"
+    },
+    {
+      "id": "kana_seion_ke",
+      "order": 9,
+      "category": "seion",
+      "row": "か行",
+      "romaji": "ke",
+      "hiragana": "け",
+      "katakana": "ケ",
+      "hiraganaStrokes": 3,
+      "katakanaStrokes": 3,
+      "origin": "由漢字「計」與「介」演變",
+      "mnemonic": "平假名「け」像「計」字簡化；片假名「ケ」像竹子的一半。",
+      "pronunciationTip": "子音 /k/ + /e/。",
+      "exampleWord": "けいたい (Keitai) - 手機",
+      "hiraganaDirections": [
+        "左邊帶弧度的長豎勾",
+        "右上方短橫",
+        "右中往下微左撇"
+      ],
+      "katakanaDirections": [
+        "左上短撇",
+        "橫畫往右",
+        "由橫畫中間往左下彎撇"
+      ],
+      "phoneticMutation": "seion (清音基礎音)"
+    },
+    {
+      "id": "kana_seion_ko",
+      "order": 10,
+      "category": "seion",
+      "row": "か行",
+      "romaji": "ko",
+      "hiragana": "こ",
+      "katakana": "コ",
+      "hiraganaStrokes": 2,
+      "katakanaStrokes": 2,
+      "origin": "由漢字「己」演變",
+      "mnemonic": "平假名「こ」像上下兩條小蟲；片假名「コ」就是「己」字的上半部方框。",
+      "pronunciationTip": "子音 /k/ + /o/。",
+      "exampleWord": "こども (Kodomo) - 小孩",
+      "hiraganaDirections": [
+        "上方短橫微往下勾",
+        "下方弧線由左往右平拉"
+      ],
+      "katakanaDirections": [
+        "橫折往下豎",
+        "底部由左往右橫畫封口"
+      ],
+      "phoneticMutation": "seion (清音基礎音)"
+    },
+    {
+      "id": "kana_seion_sa",
+      "order": 11,
+      "category": "seion",
+      "row": "さ行",
+      "romaji": "sa",
+      "hiragana": "さ",
+      "katakana": "サ",
+      "hiraganaStrokes": 3,
+      "katakanaStrokes": 3,
+      "origin": "由漢字「左」與「散」演變",
+      "mnemonic": "平假名「さ」像「き」少了一橫；片假名「サ」像草字頭（散的上半部）。",
+      "pronunciationTip": "摩擦清音 /s/ + /a/。",
+      "exampleWord": "さくら (Sakura) - 櫻花",
+      "hiraganaDirections": [
+        "一橫微微右上揚",
+        "斜豎往下（手寫與第三筆分開）",
+        "下方左弧線"
+      ],
+      "katakanaDirections": [
+        "長橫",
+        "左短豎",
+        "右長豎往左下微撇"
+      ],
+      "phoneticMutation": "seion (清音基礎音)"
+    },
+    {
+      "id": "kana_seion_shi",
+      "order": 12,
+      "category": "seion",
+      "row": "さ行",
+      "romaji": "shi",
+      "hiragana": "し",
+      "katakana": "シ",
+      "hiraganaStrokes": 1,
+      "katakanaStrokes": 3,
+      "origin": "由漢字「之」演變",
+      "mnemonic": "平假名「し」像一根吸管（吸 shi）；片假名「シ」是三點水，筆畫由左往右上提（注意與ツ區別）。",
+      "pronunciationTip": "讀作 /ɕi/（類似中文「西」），絕不讀作「思」。",
+      "exampleWord": "しんかんせん (Shinkansen) - 新幹線",
+      "hiraganaDirections": [
+        "直豎往下後往右上彎起（一筆完成）"
+      ],
+      "katakanaDirections": [
+        "左上點（偏平）",
+        "左中點（偏平）",
+        "由左下往右上提揚長弧"
+      ],
+      "phoneticMutation": "seion (清音基礎音)"
+    },
+    {
+      "id": "kana_seion_su",
+      "order": 13,
+      "category": "seion",
+      "row": "さ行",
+      "romaji": "su",
+      "hiragana": "す",
+      "katakana": "ス",
+      "hiraganaStrokes": 2,
+      "katakanaStrokes": 2,
+      "origin": "由漢字「寸」與「須」演變",
+      "mnemonic": "平假名「す」像絲瓜棚下掛著一條捲曲的絲瓜；片假名「ス」像一張小板凳。",
+      "pronunciationTip": "讀音介於中文「斯」與「蘇」之間，雙唇放平。",
+      "exampleWord": "すし (Sushi) - 壽司",
+      "hiraganaDirections": [
+        "上方橫畫",
+        "中豎往下打一個小圈再往下微撇"
+      ],
+      "katakanaDirections": [
+        "橫折往左下長撇",
+        "從撇的中段往右下長點捺"
+      ],
+      "phoneticMutation": "seion (清音基礎音)"
+    },
+    {
+      "id": "kana_seion_se",
+      "order": 14,
+      "category": "seion",
+      "row": "さ行",
+      "romaji": "se",
+      "hiragana": "せ",
+      "katakana": "セ",
+      "hiraganaStrokes": 3,
+      "katakanaStrokes": 2,
+      "origin": "由漢字「世」演變",
+      "mnemonic": "平假名「せ」與片假名「セ」都直接源自漢字「世」的簡化，代表「世界（Sekai）」。",
+      "pronunciationTip": "清音 /s/ + /e/。",
+      "exampleWord": "せんせい (Sensei) - 老師／醫生",
+      "hiraganaDirections": [
+        "長橫",
+        "右邊短豎往下微勾",
+        "左邊豎折往右平拉"
+      ],
+      "katakanaDirections": [
+        "長橫往右折勾",
+        "左豎折往右平拉"
+      ],
+      "phoneticMutation": "seion (清音基礎音)"
+    },
+    {
+      "id": "kana_seion_so",
+      "order": 15,
+      "category": "seion",
+      "row": "さ行",
+      "romaji": "so",
+      "hiragana": "そ",
+      "katakana": "ソ",
+      "hiraganaStrokes": 1,
+      "katakanaStrokes": 2,
+      "origin": "由漢字「曽」演變",
+      "mnemonic": "平假名「そ」像Z字加C字一筆連寫；片假名「ソ」是「曽」字頭上的兩點（由上往下撇，注意與ン區別）。",
+      "pronunciationTip": "清音 /s/ + /o/。",
+      "exampleWord": "そら (Sora) - 空／天空",
+      "hiraganaDirections": [
+        "短橫折往左下再折往右後往下彎弧（一筆完成）"
+      ],
+      "katakanaDirections": [
+        "左上短豎點（偏直）",
+        "右上往左下長撇"
+      ],
+      "phoneticMutation": "seion (清音基礎音)"
+    },
+    {
+      "id": "kana_seion_ta",
+      "order": 16,
+      "category": "seion",
+      "row": "た行",
+      "romaji": "ta",
+      "hiragana": "た",
+      "katakana": "タ",
+      "hiraganaStrokes": 4,
+      "katakanaStrokes": 3,
+      "origin": "由漢字「太」與「多」演變",
+      "mnemonic": "平假名「た」左邊像「太」，右邊像「こ」；片假名「タ」就是漢字「夕（多的一半）」。",
+      "pronunciationTip": "清音 /t/ + /a/。",
+      "exampleWord": "たべもの (Tabemono) - 食物",
+      "hiraganaDirections": [
+        "左上短橫",
+        "長斜撇貫穿短橫",
+        "右上短弧橫",
+        "右下短弧橫"
+      ],
+      "katakanaDirections": [
+        "左上短撇",
+        "橫折往左下長撇",
+        "中間點一點"
+      ],
+      "phoneticMutation": "seion (清音基礎音)"
+    },
+    {
+      "id": "kana_seion_chi",
+      "order": 17,
+      "category": "seion",
+      "row": "た行",
+      "romaji": "chi",
+      "hiragana": "ち",
+      "katakana": "チ",
+      "hiraganaStrokes": 2,
+      "katakanaStrokes": 3,
+      "origin": "由漢字「知」與「千」演變",
+      "mnemonic": "平假名「ち」像阿拉伯數字「5」；片假名「チ」像漢字「千（Chi）」。",
+      "pronunciationTip": "讀作 /tɕi/（類似中文「七」），不讀作「梯」。",
+      "exampleWord": "ちかてつ (Chikatetsu) - 地鐵",
+      "hiraganaDirections": [
+        "上方短橫",
+        "斜豎往下後往右繞半圓弧"
+      ],
+      "katakanaDirections": [
+        "上方往左下短撇",
+        "中長橫",
+        "中豎往下往左微撇"
+      ],
+      "phoneticMutation": "seion (清音基礎音)"
+    },
+    {
+      "id": "kana_seion_tsu",
+      "order": 18,
+      "category": "seion",
+      "row": "た行",
+      "romaji": "tsu",
+      "hiragana": "つ",
+      "katakana": "ツ",
+      "hiraganaStrokes": 1,
+      "katakanaStrokes": 3,
+      "origin": "由漢字「川」演變",
+      "mnemonic": "平假名「つ」像一道海嘯（Tsunami）大浪；片假名「ツ」三筆皆由上往下排列（像刺蝟的刺，與シ水平排列不同）。",
+      "pronunciationTip": "塞擦音 /tsɯ/（類似中文「次」與「粗」之間，雙唇不圓）。",
+      "exampleWord": "つくえ (Tsukue) - 書桌",
+      "hiraganaDirections": [
+        "由左往右大弧彎下往左收尾（一筆完成）"
+      ],
+      "katakanaDirections": [
+        "左上短直點",
+        "中上短直點",
+        "右上往左下長撇（由上往下）"
+      ],
+      "phoneticMutation": "seion (清音基礎音)"
+    },
+    {
+      "id": "kana_seion_te",
+      "order": 19,
+      "category": "seion",
+      "row": "た行",
+      "romaji": "te",
+      "hiragana": "て",
+      "katakana": "テ",
+      "hiraganaStrokes": 1,
+      "katakanaStrokes": 3,
+      "origin": "由漢字「天」演變",
+      "mnemonic": "平假名「て」像「天」字簡化只剩一橫一彎；片假名「テ」像電話亭或天線（T形加一橫）。",
+      "pronunciationTip": "清音 /t/ + /e/。",
+      "exampleWord": "てがみ (Tegami) - 信件",
+      "hiraganaDirections": [
+        "橫畫往右後往左下折彎再往右收（一筆完成）"
+      ],
+      "katakanaDirections": [
+        "上短橫",
+        "中長橫",
+        "由中橫中間往下彎撇"
+      ],
+      "phoneticMutation": "seion (清音基礎音)"
+    },
+    {
+      "id": "kana_seion_to",
+      "order": 20,
+      "category": "seion",
+      "row": "た行",
+      "romaji": "to",
+      "hiragana": "と",
+      "katakana": "ト",
+      "hiraganaStrokes": 2,
+      "katakanaStrokes": 2,
+      "origin": "由漢字「止」演變",
+      "mnemonic": "平假名「と」像小兔子長耳朵或拔刺；片假名「ト」就是漢字「卜（蘿蔔）」。",
+      "pronunciationTip": "清音 /t/ + /o/。",
+      "exampleWord": "とけい (Tokei) - 時鐘／手錶",
+      "hiraganaDirections": [
+        "左上斜短豎",
+        "由右往左繞C字弧線"
+      ],
+      "katakanaDirections": [
+        "直豎",
+        "中段往右下短點捺"
+      ],
+      "phoneticMutation": "seion (清音基礎音)"
+    },
+    {
+      "id": "kana_seion_na",
+      "order": 21,
+      "category": "seion",
+      "row": "な行",
+      "romaji": "na",
+      "hiragana": "な",
+      "katakana": "ナ",
+      "hiraganaStrokes": 4,
+      "katakanaStrokes": 2,
+      "origin": "由漢字「奈」演變",
+      "mnemonic": "平假名「な」像「大」字右邊加上一個小「2」；片假名「ナ」像十字架或「奈」字左上角。",
+      "pronunciationTip": "鼻音 /n/ + /a/。",
+      "exampleWord": "なつ (Natsu) - 夏天",
+      "hiraganaDirections": [
+        "左上短橫",
+        "斜撇往下",
+        "右上斜點",
+        "右下直豎打小結往右收"
+      ],
+      "katakanaDirections": [
+        "長橫",
+        "中豎往下往左撇"
+      ],
+      "phoneticMutation": "seion (清音基礎音)"
+    },
+    {
+      "id": "kana_seion_ni",
+      "order": 22,
+      "category": "seion",
+      "row": "な行",
+      "romaji": "ni",
+      "hiragana": "に",
+      "katakana": "ニ",
+      "hiraganaStrokes": 3,
+      "katakanaStrokes": 2,
+      "origin": "由漢字「仁」演變",
+      "mnemonic": "平假名「に」是「仁」字左邊單人旁加右邊「二」；片假名「ニ」就是漢字「二（Ni）」。",
+      "pronunciationTip": "鼻音 /n/ 遇 /i/ 顎化。",
+      "exampleWord": "にほん (Nihon) - 日本",
+      "hiraganaDirections": [
+        "左邊長弧豎勾",
+        "右上短橫",
+        "右下短橫"
+      ],
+      "katakanaDirections": [
+        "上短橫",
+        "下長橫"
+      ],
+      "phoneticMutation": "seion (清音基礎音)"
+    },
+    {
+      "id": "kana_seion_nu",
+      "order": 23,
+      "category": "seion",
+      "row": "な行",
+      "romaji": "nu",
+      "hiragana": "ぬ",
+      "katakana": "ヌ",
+      "hiraganaStrokes": 2,
+      "katakanaStrokes": 2,
+      "origin": "由漢字「奴」演變",
+      "mnemonic": "平假名「ぬ」來自「奴」，結尾比「め」多打一個小圈（奴隸被綁了一個圈）；片假名「ヌ」是「奴」的右邊「又」。",
+      "pronunciationTip": "鼻音 /n/ + /u/。",
+      "exampleWord": "ぬいぐるみ (Nuigurumi) - 布偶",
+      "hiraganaDirections": [
+        "左斜豎往下",
+        "由右上往左下繞大圈後在右下角打小結"
+      ],
+      "katakanaDirections": [
+        "橫折往左下長撇",
+        "中間往右下長捺點"
+      ],
+      "phoneticMutation": "seion (清音基礎音)"
+    },
+    {
+      "id": "kana_seion_ne",
+      "order": 24,
+      "category": "seion",
+      "row": "な行",
+      "romaji": "ne",
+      "hiragana": "ね",
+      "katakana": "ネ",
+      "hiraganaStrokes": 2,
+      "katakanaStrokes": 4,
+      "origin": "由漢字「祢」演變",
+      "mnemonic": "平假名「ね」像貓咪（Neko）長長的捲尾巴（結尾打圈）；片假名「ネ」就是漢字「示」字旁。",
+      "pronunciationTip": "鼻音 /n/ + /e/。",
+      "exampleWord": "ねこ (Neko) - 貓",
+      "hiraganaDirections": [
+        "左邊長直豎",
+        "橫折往左下再往右上繞過直豎後往下打小結"
+      ],
+      "katakanaDirections": [
+        "上方短點",
+        "橫折往左下長撇",
+        "中段直豎往下",
+        "右側短點"
+      ],
+      "phoneticMutation": "seion (清音基礎音)"
+    },
+    {
+      "id": "kana_seion_no",
+      "order": 25,
+      "category": "seion",
+      "row": "な行",
+      "romaji": "no",
+      "hiragana": "の",
+      "katakana": "ノ",
+      "hiraganaStrokes": 1,
+      "katakanaStrokes": 1,
+      "origin": "由漢字「乃」演變",
+      "mnemonic": "平假名「の」是招牌上最常見的「之／的」字；片假名「ノ」是「乃」的第一筆斜撇。",
+      "pronunciationTip": "鼻音 /n/ + /o/，常用作連體修飾助詞「的」。",
+      "exampleWord": "のみもの (Nomimono) - 飲料",
+      "hiraganaDirections": [
+        "由上往左下斜豎後往右上繞大圓弧收尾"
+      ],
+      "katakanaDirections": [
+        "由右上往左下長撇"
+      ],
+      "phoneticMutation": "seion (清音基礎音)"
+    },
+    {
+      "id": "kana_seion_ha",
+      "order": 26,
+      "category": "seion",
+      "row": "は行",
+      "romaji": "ha",
+      "hiragana": "は",
+      "katakana": "ハ",
+      "hiraganaStrokes": 3,
+      "katakanaStrokes": 2,
+      "origin": "由漢字「波」與「八」演變",
+      "mnemonic": "平假名「は」像「波」的草書；片假名「ハ」就是漢字「八（Ha）」，代表哈哈笑。",
+      "pronunciationTip": "清喉擦音 /h/ + /a/。注意：作為主題助詞時讀作「wa」。",
+      "exampleWord": "はな (Hana) - 花",
+      "hiraganaDirections": [
+        "左邊長弧豎勾",
+        "右上短橫",
+        "中豎往下打小結往右收"
+      ],
+      "katakanaDirections": [
+        "左斜撇",
+        "右斜長點捺"
+      ],
+      "phoneticMutation": "seion (清音基礎音)"
+    },
+    {
+      "id": "kana_seion_hi",
+      "order": 27,
+      "category": "seion",
+      "row": "は行",
+      "romaji": "hi",
+      "hiragana": "ひ",
+      "katakana": "ヒ",
+      "hiraganaStrokes": 1,
+      "katakanaStrokes": 2,
+      "origin": "由漢字「比」演變",
+      "mnemonic": "平假名「ひ」像一個人微笑的嘴巴「嘻（hi）」；片假名「ヒ」就是漢字「比」的右半邊「匕」。",
+      "pronunciationTip": "讀作 /çi/，舌面抬高接近硬顎摩擦發音。",
+      "exampleWord": "ひこうき (Hikouki) - 飛機",
+      "hiraganaDirections": [
+        "短橫往左下繞U型大袋子再往右下收（一筆完成）"
+      ],
+      "katakanaDirections": [
+        "由左往右短橫（或由右往左撇）",
+        "左豎往下折往右平拉"
+      ],
+      "phoneticMutation": "seion (清音基礎音)"
+    },
+    {
+      "id": "kana_seion_fu",
+      "order": 28,
+      "category": "seion",
+      "row": "は行",
+      "romaji": "fu",
+      "hiragana": "ふ",
+      "katakana": "フ",
+      "hiraganaStrokes": 4,
+      "katakanaStrokes": 1,
+      "origin": "由漢字「不」演變",
+      "mnemonic": "平假名「ふ」像富士山（Fuji）的輪廓；片假名「フ」是「不」字的一角。",
+      "pronunciationTip": "雙唇摩擦音 /ɸɯ/，介於 h 與 f 之間，上齒不咬下唇，雙唇微留縫隙吹氣。",
+      "exampleWord": "ふゆ (Fuyu) - 冬天",
+      "hiraganaDirections": [
+        "上方斜點",
+        "中段彎弧往下勾",
+        "左下斜點",
+        "右下斜點"
+      ],
+      "katakanaDirections": [
+        "橫折往左下長撇（一筆完成）"
+      ],
+      "phoneticMutation": "seion (清音基礎音)"
+    },
+    {
+      "id": "kana_seion_he",
+      "order": 29,
+      "category": "seion",
+      "row": "は行",
+      "romaji": "he",
+      "hiragana": "へ",
+      "katakana": "ヘ",
+      "hiraganaStrokes": 1,
+      "katakanaStrokes": 1,
+      "origin": "由漢字「部」旁演變",
+      "mnemonic": "平假名「へ」與片假名「ヘ」形狀幾乎完全相同，像一座小山峰。作為方向助詞時讀作「e」。",
+      "pronunciationTip": "清音 /h/ + /e/。",
+      "exampleWord": "へや (Heya) - 房間",
+      "hiraganaDirections": [
+        "由左下往右上短斜後往右下長斜拉（一筆完成）"
+      ],
+      "katakanaDirections": [
+        "由左下往右上短斜後往右下長斜拉"
+      ],
+      "phoneticMutation": "seion (清音基礎音)"
+    },
+    {
+      "id": "kana_seion_ho",
+      "order": 30,
+      "category": "seion",
+      "row": "は行",
+      "romaji": "ho",
+      "hiragana": "ほ",
+      "katakana": "ホ",
+      "hiraganaStrokes": 4,
+      "katakanaStrokes": 4,
+      "origin": "由漢字「保」演變",
+      "mnemonic": "平假名「ほ」比「は」右邊多一頂帽子（出頭易混淆：ほ不出頭）；片假名「ホ」就是「保」右下方的「木」。",
+      "pronunciationTip": "清音 /h/ + /o/。",
+      "exampleWord": "ほてる / ホテル (Hoteru) - 酒店",
+      "hiraganaDirections": [
+        "左邊長弧豎勾",
+        "右上第一橫",
+        "右中第二橫",
+        "從第一橫下方起豎（不出頭）往下打結"
+      ],
+      "katakanaDirections": [
+        "長橫",
+        "中豎往下勾",
+        "左下點",
+        "右下點"
+      ],
+      "phoneticMutation": "seion (清音基礎音)"
+    },
+    {
+      "id": "kana_seion_ma",
+      "order": 31,
+      "category": "seion",
+      "row": "ま行",
+      "romaji": "ma",
+      "hiragana": "ま",
+      "katakana": "マ",
+      "hiraganaStrokes": 3,
+      "katakanaStrokes": 2,
+      "origin": "由漢字「末」演變",
+      "mnemonic": "平假名「ま」像「末」字兩橫加下面打結（中豎出頭）；片假名「マ」像媽媽（Mama）抱小孩的手臂。",
+      "pronunciationTip": "雙唇鼻音 /m/ + /a/。",
+      "exampleWord": "まど (Mado) - 窗戶",
+      "hiraganaDirections": [
+        "上長橫",
+        "下短橫",
+        "中豎由上貫穿往下打小結"
+      ],
+      "katakanaDirections": [
+        "橫折往左下斜撇",
+        "在撇尾端點一長點"
+      ],
+      "phoneticMutation": "seion (清音基礎音)"
+    },
+    {
+      "id": "kana_seion_mi",
+      "order": 32,
+      "category": "seion",
+      "row": "ま行",
+      "romaji": "mi",
+      "hiragana": "み",
+      "katakana": "ミ",
+      "hiraganaStrokes": 2,
+      "katakanaStrokes": 3,
+      "origin": "由漢字「美」與「三」演變",
+      "mnemonic": "平假名「み」像音樂符號；片假名「ミ」就是斜寫的漢字「三（Mi）」。",
+      "pronunciationTip": "鼻音 /m/ + /i/。",
+      "exampleWord": "みず (Mizu) - 水",
+      "hiraganaDirections": [
+        "橫折往左下繞圈再往右平拉",
+        "右上往左下短撇貫穿右端"
+      ],
+      "katakanaDirections": [
+        "上斜橫",
+        "中斜橫",
+        "下斜橫"
+      ],
+      "phoneticMutation": "seion (清音基礎音)"
+    },
+    {
+      "id": "kana_seion_mu",
+      "order": 33,
+      "category": "seion",
+      "row": "ま行",
+      "romaji": "mu",
+      "hiragana": "む",
+      "katakana": "ム",
+      "hiraganaStrokes": 3,
+      "katakanaStrokes": 2,
+      "origin": "由漢字「武」與「牟」演變",
+      "mnemonic": "平假名「む」像一頭牛（Moo/Mu）轉頭；片假名「ム」是「牟」字上半部的「厶」。",
+      "pronunciationTip": "鼻音 /m/ + /u/。",
+      "exampleWord": "むし (Mushi) - 昆蟲",
+      "hiraganaDirections": [
+        "左上短橫",
+        "中豎往下打圈後往右平拉向上勾",
+        "右上角點一點"
+      ],
+      "katakanaDirections": [
+        "由上往左下折橫往右",
+        "右端往右下點"
+      ],
+      "phoneticMutation": "seion (清音基礎音)"
+    },
+    {
+      "id": "kana_seion_me",
+      "order": 34,
+      "category": "seion",
+      "row": "ま行",
+      "romaji": "me",
+      "hiragana": "め",
+      "katakana": "メ",
+      "hiraganaStrokes": 2,
+      "katakanaStrokes": 2,
+      "origin": "由漢字「女」演變",
+      "mnemonic": "平假名「め」來自「女」字草書，結尾不打圈（與「ぬ」區分：美女臉上沒有疤）；片假名「メ」像一把叉叉或寶劍。",
+      "pronunciationTip": "鼻音 /m/ + /e/。",
+      "exampleWord": "めがね (Megane) - 眼鏡",
+      "hiraganaDirections": [
+        "左斜豎往下",
+        "由右上往左下繞大圓弧往右下收尾（不打圈）"
+      ],
+      "katakanaDirections": [
+        "由右上往左下長撇",
+        "中段往右下交叉短捺點"
+      ],
+      "phoneticMutation": "seion (清音基礎音)"
+    },
+    {
+      "id": "kana_seion_mo",
+      "order": 35,
+      "category": "seion",
+      "row": "ま行",
+      "romaji": "mo",
+      "hiragana": "も",
+      "katakana": "モ",
+      "hiraganaStrokes": 3,
+      "katakanaStrokes": 3,
+      "origin": "由漢字「毛」演變",
+      "mnemonic": "平假名「も」與片假名「モ」都來自漢字「毛（Mo）」，平假名先寫長豎勾再寫兩橫。",
+      "pronunciationTip": "鼻音 /m/ + /o/。",
+      "exampleWord": "もも (Momo) - 桃子",
+      "hiraganaDirections": [
+        "中豎往下往右彎弧向上（先寫豎弧）",
+        "上短橫",
+        "下短橫"
+      ],
+      "katakanaDirections": [
+        "上短橫",
+        "下長橫",
+        "中豎往下折往右平拉"
+      ],
+      "phoneticMutation": "seion (清音基礎音)"
+    },
+    {
+      "id": "kana_seion_ya",
+      "order": 36,
+      "category": "seion",
+      "row": "や行",
+      "romaji": "ya",
+      "hiragana": "や",
+      "katakana": "ヤ",
+      "hiraganaStrokes": 3,
+      "katakanaStrokes": 2,
+      "origin": "由漢字「也」演變",
+      "mnemonic": "平假名「や」與片假名「ヤ」都直接來自漢字「也（Ya）」。",
+      "pronunciationTip": "半母音 /j/ + /a/。",
+      "exampleWord": "やま (Yama) - 山",
+      "hiraganaDirections": [
+        "橫折往右繞彎弧",
+        "右上短點（或短豎）",
+        "中間偏左長斜豎往下"
+      ],
+      "katakanaDirections": [
+        "橫折往左下短撇",
+        "左斜長豎往下"
+      ],
+      "phoneticMutation": "seion (清音基礎音)"
+    },
+    {
+      "id": "kana_seion_yu",
+      "order": 37,
+      "category": "seion",
+      "row": "や行",
+      "romaji": "yu",
+      "hiragana": "ゆ",
+      "katakana": "ユ",
+      "hiraganaStrokes": 2,
+      "katakanaStrokes": 2,
+      "origin": "由漢字「由」演變",
+      "mnemonic": "平假名「ゆ」是日本溫泉錢湯門口布簾上的字（湯 Yu = 熱水）；片假名「ユ」像數字「1」加底線。",
+      "pronunciationTip": "半母音 /j/ + /u/。",
+      "exampleWord": "ゆき (Yuki) - 雪",
+      "hiraganaDirections": [
+        "左豎往下後往右上繞大圓弧",
+        "中偏右長豎由上貫穿往下微撇"
+      ],
+      "katakanaDirections": [
+        "橫折往下豎",
+        "底部長橫往右延伸"
+      ],
+      "phoneticMutation": "seion (清音基礎音)"
+    },
+    {
+      "id": "kana_seion_yo",
+      "order": 38,
+      "category": "seion",
+      "row": "や行",
+      "romaji": "yo",
+      "hiragana": "よ",
+      "katakana": "ヨ",
+      "hiraganaStrokes": 2,
+      "katakanaStrokes": 3,
+      "origin": "由漢字「与」演變",
+      "mnemonic": "平假名「よ」像一把小鑰匙或音符；片假名「ヨ」像反過來的英文字母「E」或漢字「山」轉向。",
+      "pronunciationTip": "半母音 /j/ + /o/。",
+      "exampleWord": "よる (Yoru) - 夜晚",
+      "hiraganaDirections": [
+        "右上短橫（水平）",
+        "中豎往下打小結往右收"
+      ],
+      "katakanaDirections": [
+        "橫折往下豎",
+        "中間短橫",
+        "底部橫畫封口"
+      ],
+      "phoneticMutation": "seion (清音基礎音)"
+    },
+    {
+      "id": "kana_seion_ra",
+      "order": 39,
+      "category": "seion",
+      "row": "ら行",
+      "romaji": "ra",
+      "hiragana": "ら",
+      "katakana": "ラ",
+      "hiraganaStrokes": 2,
+      "katakanaStrokes": 2,
+      "origin": "由漢字「良」演變",
+      "mnemonic": "平假名「ら」像數字「5」上面的一橫飛起來了；片假名「ラ」像啦啦隊（Rara）彩球。",
+      "pronunciationTip": "日語 /r/ 行是閃音 /ɾ/，舌尖輕彈上齒齦一下，介於 l 與 r 之間。",
+      "exampleWord": "らいねん (Rainen) - 明年",
+      "hiraganaDirections": [
+        "上方斜點",
+        "下方豎折往右繞半圓弧"
+      ],
+      "katakanaDirections": [
+        "上方短橫",
+        "下方橫折往左下長撇"
+      ],
+      "phoneticMutation": "seion (清音基礎音)"
+    },
+    {
+      "id": "kana_seion_ri",
+      "order": 40,
+      "category": "seion",
+      "row": "ら行",
+      "romaji": "ri",
+      "hiragana": "り",
+      "katakana": "リ",
+      "hiraganaStrokes": 2,
+      "katakanaStrokes": 2,
+      "origin": "由漢字「利」演變",
+      "mnemonic": "平假名「り」與片假名「リ」都源自「利」字右邊的立刀旁。",
+      "pronunciationTip": "閃音 /ɾ/ + /i/。",
+      "exampleWord": "りんご (Ringo) - 蘋果",
+      "hiraganaDirections": [
+        "左邊短弧豎向上勾",
+        "右邊長弧豎往左下撇"
+      ],
+      "katakanaDirections": [
+        "左短直豎",
+        "右長豎往左下彎撇"
+      ],
+      "phoneticMutation": "seion (清音基礎音)"
+    },
+    {
+      "id": "kana_seion_ru",
+      "order": 41,
+      "category": "seion",
+      "row": "ら行",
+      "romaji": "ru",
+      "hiragana": "る",
+      "katakana": "ル",
+      "hiraganaStrokes": 1,
+      "katakanaStrokes": 2,
+      "origin": "由漢字「留」与「流」演變",
+      "mnemonic": "平假名「る」像數字「3」結尾打一個小圈（留住一個圈）；片假名「ル」是「流」字右下方的「儿」。",
+      "pronunciationTip": "閃音 /ɾ/ + /u/。",
+      "exampleWord": "るす (Rusu) - 不在家",
+      "hiraganaDirections": [
+        "橫折往左下再往右繞大弧並在末端打小圈（一筆完成）"
+      ],
+      "katakanaDirections": [
+        "左斜撇",
+        "右豎折往右上提勾"
+      ],
+      "phoneticMutation": "seion (清音基礎音)"
+    },
+    {
+      "id": "kana_seion_re",
+      "order": 42,
+      "category": "seion",
+      "row": "ら行",
+      "romaji": "re",
+      "hiragana": "れ",
+      "katakana": "レ",
+      "hiraganaStrokes": 2,
+      "katakanaStrokes": 1,
+      "origin": "由漢字「礼」演變",
+      "mnemonic": "平假名「れ」與片假名「レ」都源自「礼（禮）」，結尾往外勾起（像行禮後抬頭）。",
+      "pronunciationTip": "閃音 /ɾ/ + /e/。",
+      "exampleWord": "れすとらん / レストラン (Resutoran) - 餐廳",
+      "hiraganaDirections": [
+        "左邊直豎",
+        "橫折往左下再往右上繞過直豎後往下往右外勾"
+      ],
+      "katakanaDirections": [
+        "直豎往下後往右上提拉（一筆完成）"
+      ],
+      "phoneticMutation": "seion (清音基礎音)"
+    },
+    {
+      "id": "kana_seion_ro",
+      "order": 43,
+      "category": "seion",
+      "row": "ら行",
+      "romaji": "ro",
+      "hiragana": "ろ",
+      "katakana": "ロ",
+      "hiraganaStrokes": 1,
+      "katakanaStrokes": 3,
+      "origin": "由漢字「呂」演變",
+      "mnemonic": "平假名「ろ」像數字「3」（比「る」少一個圈）；片假名「ロ」就是漢字「口（呂的一半）」。",
+      "pronunciationTip": "閃音 /ɾ/ + /o/。",
+      "exampleWord": "ろく (Roku) - 六",
+      "hiraganaDirections": [
+        "橫折往左下再往右繞大圓弧收尾（不打圈）"
+      ],
+      "katakanaDirections": [
+        "左豎",
+        "橫折往下豎",
+        "底橫封口"
+      ],
+      "phoneticMutation": "seion (清音基礎音)"
+    },
+    {
+      "id": "kana_seion_wa",
+      "order": 44,
+      "category": "seion",
+      "row": "わ行",
+      "romaji": "wa",
+      "hiragana": "わ",
+      "katakana": "ワ",
+      "hiraganaStrokes": 2,
+      "katakanaStrokes": 2,
+      "origin": "由漢字「和」演變",
+      "mnemonic": "平假名「わ」像「ね/れ」但右邊是大圓肚（懷孕哇哇哭）；片假名「ワ」像「ウ」少了頭上一點。",
+      "pronunciationTip": "雙唇接近音 /w/ + /a/。",
+      "exampleWord": "わたし (Watashi) - 我",
+      "hiraganaDirections": [
+        "左邊直豎",
+        "橫折往左下再往右上繞大圓弧往左下收尾"
+      ],
+      "katakanaDirections": [
+        "左短豎",
+        "橫折往左下長撇"
+      ],
+      "phoneticMutation": "seion (清音基礎音)"
+    },
+    {
+      "id": "kana_seion_wo",
+      "order": 45,
+      "category": "seion",
+      "row": "わ行",
+      "romaji": "wo",
+      "hiragana": "を",
+      "katakana": "ヲ",
+      "hiraganaStrokes": 3,
+      "katakanaStrokes": 3,
+      "origin": "由漢字「遠」與「乎」演變",
+      "mnemonic": "平假名「を」只用作受格助詞（接在動作對象後面）；片假名「ヲ」只在特殊標示使用。",
+      "pronunciationTip": "現代日語讀音與「お (o)」相同，僅在歌曲或強調時帶微弱 /w/。",
+      "exampleWord": "みずをのむ (Mizu o nomu) - 喝水",
+      "hiraganaDirections": [
+        "上短橫",
+        "斜豎往下往右折再往下勾",
+        "由右往左繞C字弧貫穿第二筆"
+      ],
+      "katakanaDirections": [
+        "上長橫",
+        "中短橫",
+        "由右上往左下長撇"
+      ],
+      "phoneticMutation": "seion (清音基礎音)"
+    },
+    {
+      "id": "kana_seion_n",
+      "order": 46,
+      "category": "seion",
+      "row": "ん（撥音）",
+      "romaji": "n",
+      "hiragana": "ん",
+      "katakana": "ン",
+      "hiraganaStrokes": 1,
+      "katakanaStrokes": 2,
+      "origin": "由漢字「无」與「爾」演變",
+      "mnemonic": "平假名「ん」像英文字母 `n`；片假名「ン」是一點加由下往上提（像閉上一隻眼嗯嗯點頭，與ソ區分）。",
+      "pronunciationTip": "撥音（鼻音），不能單獨放在字首，佔一拍音長。",
+      "exampleWord": "にほん (Nihon) - 日本",
+      "hiraganaDirections": [
+        "斜撇往下後往右上折再往右下彎起（一筆完成）"
+      ],
+      "katakanaDirections": [
+        "左上短平點",
+        "由左下往右上提揚長弧"
+      ],
+      "phoneticMutation": "seion (清音基礎音)"
+    },
+    {
+      "id": "kana_dakuon_ga",
+      "order": 101,
+      "category": "dakuon",
+      "row": "が行（濁音）",
+      "romaji": "ga",
+      "hiragana": "が",
+      "katakana": "ガ",
+      "hiraganaStrokes": 5,
+      "katakanaStrokes": 4,
+      "origin": "か + 濁點 ゛",
+      "mnemonic": "在清音基礎字右上角加上兩點濁點（゛），發音變為振動聲帶的有聲濁音。",
+      "pronunciationTip": "有聲子音 /g/ + /a/（位於詞中時東京音常鼻濁音化為 /ŋa/）",
+      "exampleWord": "がっこう (Gakkou) - 學校",
+      "hiraganaDirections": [
+        "先依序寫清音本體",
+        "右上角點第一點濁點",
+        "右上角點第二點濁點"
+      ],
+      "katakanaDirections": [
+        "先依序寫片假名本體",
+        "右上角點第一點濁點",
+        "右上角點第二點濁點"
+      ],
+      "phoneticMutation": "dakuon (濁音 +2筆濁點)"
+    },
+    {
+      "id": "kana_dakuon_gi",
+      "order": 102,
+      "category": "dakuon",
+      "row": "が行（濁音）",
+      "romaji": "gi",
+      "hiragana": "ぎ",
+      "katakana": "ギ",
+      "hiraganaStrokes": 6,
+      "katakanaStrokes": 5,
+      "origin": "き + 濁點 ゛",
+      "mnemonic": "在清音基礎字右上角加上兩點濁點（゛），發音變為振動聲帶的有聲濁音。",
+      "pronunciationTip": "有聲子音 /g/ + /i/",
+      "exampleWord": "ぎんこう (Ginkou) - 銀行",
+      "hiraganaDirections": [
+        "先依序寫清音本體",
+        "右上角點第一點濁點",
+        "右上角點第二點濁點"
+      ],
+      "katakanaDirections": [
+        "先依序寫片假名本體",
+        "右上角點第一點濁點",
+        "右上角點第二點濁點"
+      ],
+      "phoneticMutation": "dakuon (濁音 +2筆濁點)"
+    },
+    {
+      "id": "kana_dakuon_gu",
+      "order": 103,
+      "category": "dakuon",
+      "row": "が行（濁音）",
+      "romaji": "gu",
+      "hiragana": "ぐ",
+      "katakana": "グ",
+      "hiraganaStrokes": 3,
+      "katakanaStrokes": 4,
+      "origin": "く + 濁點 ゛",
+      "mnemonic": "在清音基礎字右上角加上兩點濁點（゛），發音變為振動聲帶的有聲濁音。",
+      "pronunciationTip": "有聲子音 /g/ + /u/",
+      "exampleWord": "ぐんて (Gunte) - 工作手套",
+      "hiraganaDirections": [
+        "先依序寫清音本體",
+        "右上角點第一點濁點",
+        "右上角點第二點濁點"
+      ],
+      "katakanaDirections": [
+        "先依序寫片假名本體",
+        "右上角點第一點濁點",
+        "右上角點第二點濁點"
+      ],
+      "phoneticMutation": "dakuon (濁音 +2筆濁點)"
+    },
+    {
+      "id": "kana_dakuon_ge",
+      "order": 104,
+      "category": "dakuon",
+      "row": "が行（濁音）",
+      "romaji": "ge",
+      "hiragana": "げ",
+      "katakana": "ゲ",
+      "hiraganaStrokes": 5,
+      "katakanaStrokes": 5,
+      "origin": "け + 濁點 ゛",
+      "mnemonic": "在清音基礎字右上角加上兩點濁點（゛），發音變為振動聲帶的有聲濁音。",
+      "pronunciationTip": "有聲子音 /g/ + /e/",
+      "exampleWord": "げんき (Genki) - 精神／健康",
+      "hiraganaDirections": [
+        "先依序寫清音本體",
+        "右上角點第一點濁點",
+        "右上角點第二點濁點"
+      ],
+      "katakanaDirections": [
+        "先依序寫片假名本體",
+        "右上角點第一點濁點",
+        "右上角點第二點濁點"
+      ],
+      "phoneticMutation": "dakuon (濁音 +2筆濁點)"
+    },
+    {
+      "id": "kana_dakuon_go",
+      "order": 105,
+      "category": "dakuon",
+      "row": "が行（濁音）",
+      "romaji": "go",
+      "hiragana": "ご",
+      "katakana": "ゴ",
+      "hiraganaStrokes": 4,
+      "katakanaStrokes": 4,
+      "origin": "こ + 濁點 ゛",
+      "mnemonic": "在清音基礎字右上角加上兩點濁點（゛），發音變為振動聲帶的有聲濁音。",
+      "pronunciationTip": "有聲子音 /g/ + /o/",
+      "exampleWord": "ごはん (Gohan) - 白飯／餐點",
+      "hiraganaDirections": [
+        "先依序寫清音本體",
+        "右上角點第一點濁點",
+        "右上角點第二點濁點"
+      ],
+      "katakanaDirections": [
+        "先依序寫片假名本體",
+        "右上角點第一點濁點",
+        "右上角點第二點濁點"
+      ],
+      "phoneticMutation": "dakuon (濁音 +2筆濁點)"
+    },
+    {
+      "id": "kana_dakuon_za",
+      "order": 106,
+      "category": "dakuon",
+      "row": "ざ行（濁音）",
+      "romaji": "za",
+      "hiragana": "ざ",
+      "katakana": "ザ",
+      "hiraganaStrokes": 5,
+      "katakanaStrokes": 5,
+      "origin": "さ + 濁點 ゛",
+      "mnemonic": "在清音基礎字右上角加上兩點濁點（゛），發音變為振動聲帶的有聲濁音。",
+      "pronunciationTip": "有聲擦音 /dz/ ~ /z/ + /a/",
+      "exampleWord": "ざっし (Zasshi) - 雜誌",
+      "hiraganaDirections": [
+        "先依序寫清音本體",
+        "右上角點第一點濁點",
+        "右上角點第二點濁點"
+      ],
+      "katakanaDirections": [
+        "先依序寫片假名本體",
+        "右上角點第一點濁點",
+        "右上角點第二點濁點"
+      ],
+      "phoneticMutation": "dakuon (濁音 +2筆濁點)"
+    },
+    {
+      "id": "kana_dakuon_ji",
+      "order": 107,
+      "category": "dakuon",
+      "row": "ざ行（濁音）",
+      "romaji": "ji",
+      "hiragana": "じ",
+      "katakana": "ジ",
+      "hiraganaStrokes": 3,
+      "katakanaStrokes": 5,
+      "origin": "し + 濁點 ゛",
+      "mnemonic": "在清音基礎字右上角加上兩點濁點（゛），發音變為振動聲帶的有聲濁音。",
+      "pronunciationTip": "讀作 /dʑi/（類似英文 ji），為最常用的 ji",
+      "exampleWord": "じかん (Jikan) - 時間",
+      "hiraganaDirections": [
+        "先依序寫清音本體",
+        "右上角點第一點濁點",
+        "右上角點第二點濁點"
+      ],
+      "katakanaDirections": [
+        "先依序寫片假名本體",
+        "右上角點第一點濁點",
+        "右上角點第二點濁點"
+      ],
+      "phoneticMutation": "dakuon (濁音 +2筆濁點)"
+    },
+    {
+      "id": "kana_dakuon_zu",
+      "order": 108,
+      "category": "dakuon",
+      "row": "ざ行（濁音）",
+      "romaji": "zu",
+      "hiragana": "ず",
+      "katakana": "ズ",
+      "hiraganaStrokes": 4,
+      "katakanaStrokes": 4,
+      "origin": "す + 濁點 ゛",
+      "mnemonic": "在清音基礎字右上角加上兩點濁點（゛），發音變為振動聲帶的有聲濁音。",
+      "pronunciationTip": "讀作 /dzɯ/，為最常用的 zu",
+      "exampleWord": "ちず (Chizu) - 地圖",
+      "hiraganaDirections": [
+        "先依序寫清音本體",
+        "右上角點第一點濁點",
+        "右上角點第二點濁點"
+      ],
+      "katakanaDirections": [
+        "先依序寫片假名本體",
+        "右上角點第一點濁點",
+        "右上角點第二點濁點"
+      ],
+      "phoneticMutation": "dakuon (濁音 +2筆濁點)"
+    },
+    {
+      "id": "kana_dakuon_ze",
+      "order": 109,
+      "category": "dakuon",
+      "row": "ざ行（濁音）",
+      "romaji": "ze",
+      "hiragana": "ぜ",
+      "katakana": "ゼ",
+      "hiraganaStrokes": 5,
+      "katakanaStrokes": 4,
+      "origin": "せ + 濁點 ゛",
+      "mnemonic": "在清音基礎字右上角加上兩點濁點（゛），發音變為振動聲帶的有聲濁音。",
+      "pronunciationTip": "有聲音 /dz/ + /e/",
+      "exampleWord": "ぜんぶ (Zenbu) - 全部",
+      "hiraganaDirections": [
+        "先依序寫清音本體",
+        "右上角點第一點濁點",
+        "右上角點第二點濁點"
+      ],
+      "katakanaDirections": [
+        "先依序寫片假名本體",
+        "右上角點第一點濁點",
+        "右上角點第二點濁點"
+      ],
+      "phoneticMutation": "dakuon (濁音 +2筆濁點)"
+    },
+    {
+      "id": "kana_dakuon_zo",
+      "order": 110,
+      "category": "dakuon",
+      "row": "ざ行（濁音）",
+      "romaji": "zo",
+      "hiragana": "ぞ",
+      "katakana": "ゾ",
+      "hiraganaStrokes": 3,
+      "katakanaStrokes": 4,
+      "origin": "そ + 濁點 ゛",
+      "mnemonic": "在清音基礎字右上角加上兩點濁點（゛），發音變為振動聲帶的有聲濁音。",
+      "pronunciationTip": "有聲音 /dz/ + /o/",
+      "exampleWord": "かぞく (Kazoku) - 家人",
+      "hiraganaDirections": [
+        "先依序寫清音本體",
+        "右上角點第一點濁點",
+        "右上角點第二點濁點"
+      ],
+      "katakanaDirections": [
+        "先依序寫片假名本體",
+        "右上角點第一點濁點",
+        "右上角點第二點濁點"
+      ],
+      "phoneticMutation": "dakuon (濁音 +2筆濁點)"
+    },
+    {
+      "id": "kana_dakuon_da",
+      "order": 111,
+      "category": "dakuon",
+      "row": "だ行（濁音）",
+      "romaji": "da",
+      "hiragana": "だ",
+      "katakana": "ダ",
+      "hiraganaStrokes": 6,
+      "katakanaStrokes": 5,
+      "origin": "た + 濁點 ゛",
+      "mnemonic": "在清音基礎字右上角加上兩點濁點（゛），發音變為振動聲帶的有聲濁音。",
+      "pronunciationTip": "有聲塞音 /d/ + /a/",
+      "exampleWord": "だいがく (Daigaku) - 大學",
+      "hiraganaDirections": [
+        "先依序寫清音本體",
+        "右上角點第一點濁點",
+        "右上角點第二點濁點"
+      ],
+      "katakanaDirections": [
+        "先依序寫片假名本體",
+        "右上角點第一點濁點",
+        "右上角點第二點濁點"
+      ],
+      "phoneticMutation": "dakuon (濁音 +2筆濁點)"
+    },
+    {
+      "id": "kana_dakuon_ji_da",
+      "order": 112,
+      "category": "dakuon",
+      "row": "だ行（濁音）",
+      "romaji": "ji",
+      "hiragana": "ぢ",
+      "katakana": "ヂ",
+      "hiraganaStrokes": 4,
+      "katakanaStrokes": 5,
+      "origin": "ち + 濁點 ゛",
+      "mnemonic": "在清音基礎字右上角加上兩點濁點（゛），發音變為振動聲帶的有聲濁音。",
+      "pronunciationTip": "發音與「じ (ji)」完全相同，僅用於少數連濁詞（如鼻血 はなぢ）",
+      "exampleWord": "はなぢ (Hanaji) - 鼻血",
+      "hiraganaDirections": [
+        "先依序寫清音本體",
+        "右上角點第一點濁點",
+        "右上角點第二點濁點"
+      ],
+      "katakanaDirections": [
+        "先依序寫片假名本體",
+        "右上角點第一點濁點",
+        "右上角點第二點濁點"
+      ],
+      "phoneticMutation": "dakuon (濁音 +2筆濁點)"
+    },
+    {
+      "id": "kana_dakuon_zu_da",
+      "order": 113,
+      "category": "dakuon",
+      "row": "だ行（濁音）",
+      "romaji": "zu",
+      "hiragana": "づ",
+      "katakana": "ヅ",
+      "hiraganaStrokes": 3,
+      "katakanaStrokes": 5,
+      "origin": "つ + 濁點 ゛",
+      "mnemonic": "在清音基礎字右上角加上兩點濁點（゛），發音變為振動聲帶的有聲濁音。",
+      "pronunciationTip": "發音與「ず (zu)」完全相同，僅用於同音連濁或複合詞（如 つづく）",
+      "exampleWord": "つづく (Tsuzuku) - 繼續",
+      "hiraganaDirections": [
+        "先依序寫清音本體",
+        "右上角點第一點濁點",
+        "右上角點第二點濁點"
+      ],
+      "katakanaDirections": [
+        "先依序寫片假名本體",
+        "右上角點第一點濁點",
+        "右上角點第二點濁點"
+      ],
+      "phoneticMutation": "dakuon (濁音 +2筆濁點)"
+    },
+    {
+      "id": "kana_dakuon_de",
+      "order": 114,
+      "category": "dakuon",
+      "row": "だ行（濁音）",
+      "romaji": "de",
+      "hiragana": "で",
+      "katakana": "デ",
+      "hiraganaStrokes": 3,
+      "katakanaStrokes": 5,
+      "origin": "て + 濁點 ゛",
+      "mnemonic": "在清音基礎字右上角加上兩點濁點（゛），發音變為振動聲帶的有聲濁音。",
+      "pronunciationTip": "有聲塞音 /d/ + /e/",
+      "exampleWord": "でんしゃ (Densha) - 電車",
+      "hiraganaDirections": [
+        "先依序寫清音本體",
+        "右上角點第一點濁點",
+        "右上角點第二點濁點"
+      ],
+      "katakanaDirections": [
+        "先依序寫片假名本體",
+        "右上角點第一點濁點",
+        "右上角點第二點濁點"
+      ],
+      "phoneticMutation": "dakuon (濁音 +2筆濁點)"
+    },
+    {
+      "id": "kana_dakuon_do",
+      "order": 115,
+      "category": "dakuon",
+      "row": "だ行（濁音）",
+      "romaji": "do",
+      "hiragana": "ど",
+      "katakana": "ド",
+      "hiraganaStrokes": 4,
+      "katakanaStrokes": 4,
+      "origin": "と + 濁點 ゛",
+      "mnemonic": "在清音基礎字右上角加上兩點濁點（゛），發音變為振動聲帶的有聲濁音。",
+      "pronunciationTip": "有聲塞音 /d/ + /o/",
+      "exampleWord": "どこ (Doko) - 哪裡",
+      "hiraganaDirections": [
+        "先依序寫清音本體",
+        "右上角點第一點濁點",
+        "右上角點第二點濁點"
+      ],
+      "katakanaDirections": [
+        "先依序寫片假名本體",
+        "右上角點第一點濁點",
+        "右上角點第二點濁點"
+      ],
+      "phoneticMutation": "dakuon (濁音 +2筆濁點)"
+    },
+    {
+      "id": "kana_dakuon_ba",
+      "order": 116,
+      "category": "dakuon",
+      "row": "ば行（濁音）",
+      "romaji": "ba",
+      "hiragana": "ば",
+      "katakana": "バ",
+      "hiraganaStrokes": 5,
+      "katakanaStrokes": 4,
+      "origin": "は + 濁點 ゛",
+      "mnemonic": "在清音基礎字右上角加上兩點濁點（゛），發音變為振動聲帶的有聲濁音。",
+      "pronunciationTip": "雙唇有聲塞音 /b/ + /a/",
+      "exampleWord": "かばん (Kaban) - 包包",
+      "hiraganaDirections": [
+        "先依序寫清音本體",
+        "右上角點第一點濁點",
+        "右上角點第二點濁點"
+      ],
+      "katakanaDirections": [
+        "先依序寫片假名本體",
+        "右上角點第一點濁點",
+        "右上角點第二點濁點"
+      ],
+      "phoneticMutation": "dakuon (濁音 +2筆濁點)"
+    },
+    {
+      "id": "kana_dakuon_bi",
+      "order": 117,
+      "category": "dakuon",
+      "row": "ば行（濁音）",
+      "romaji": "bi",
+      "hiragana": "び",
+      "katakana": "ビ",
+      "hiraganaStrokes": 3,
+      "katakanaStrokes": 4,
+      "origin": "ひ + 濁點 ゛",
+      "mnemonic": "在清音基礎字右上角加上兩點濁點（゛），發音變為振動聲帶的有聲濁音。",
+      "pronunciationTip": "雙唇有聲塞音 /b/ + /i/",
+      "exampleWord": "こんびに / コンビニ (Konbini) - 便利商店",
+      "hiraganaDirections": [
+        "先依序寫清音本體",
+        "右上角點第一點濁點",
+        "右上角點第二點濁點"
+      ],
+      "katakanaDirections": [
+        "先依序寫片假名本體",
+        "右上角點第一點濁點",
+        "右上角點第二點濁點"
+      ],
+      "phoneticMutation": "dakuon (濁音 +2筆濁點)"
+    },
+    {
+      "id": "kana_dakuon_bu",
+      "order": 118,
+      "category": "dakuon",
+      "row": "ば行（濁音）",
+      "romaji": "bu",
+      "hiragana": "ぶ",
+      "katakana": "ブ",
+      "hiraganaStrokes": 6,
+      "katakanaStrokes": 3,
+      "origin": "ふ + 濁點 ゛",
+      "mnemonic": "在清音基礎字右上角加上兩點濁點（゛），發音變為振動聲帶的有聲濁音。",
+      "pronunciationTip": "雙唇有聲塞音 /b/ + /u/",
+      "exampleWord": "ぶたにく (Butaniku) - 豬肉",
+      "hiraganaDirections": [
+        "先依序寫清音本體",
+        "右上角點第一點濁點",
+        "右上角點第二點濁點"
+      ],
+      "katakanaDirections": [
+        "先依序寫片假名本體",
+        "右上角點第一點濁點",
+        "右上角點第二點濁點"
+      ],
+      "phoneticMutation": "dakuon (濁音 +2筆濁點)"
+    },
+    {
+      "id": "kana_dakuon_be",
+      "order": 119,
+      "category": "dakuon",
+      "row": "ば行（濁音）",
+      "romaji": "be",
+      "hiragana": "べ",
+      "katakana": "ベ",
+      "hiraganaStrokes": 3,
+      "katakanaStrokes": 3,
+      "origin": "へ + 濁點 ゛",
+      "mnemonic": "在清音基礎字右上角加上兩點濁點（゛），發音變為振動聲帶的有聲濁音。",
+      "pronunciationTip": "雙唇有聲塞音 /b/ + /e/",
+      "exampleWord": "べんとう (Bentou) - 便當",
+      "hiraganaDirections": [
+        "先依序寫清音本體",
+        "右上角點第一點濁點",
+        "右上角點第二點濁點"
+      ],
+      "katakanaDirections": [
+        "先依序寫片假名本體",
+        "右上角點第一點濁點",
+        "右上角點第二點濁點"
+      ],
+      "phoneticMutation": "dakuon (濁音 +2筆濁點)"
+    },
+    {
+      "id": "kana_dakuon_bo",
+      "order": 120,
+      "category": "dakuon",
+      "row": "ば行（濁音）",
+      "romaji": "bo",
+      "hiragana": "ぼ",
+      "katakana": "ボ",
+      "hiraganaStrokes": 6,
+      "katakanaStrokes": 6,
+      "origin": "ほ + 濁點 ゛",
+      "mnemonic": "在清音基礎字右上角加上兩點濁點（゛），發音變為振動聲帶的有聲濁音。",
+      "pronunciationTip": "雙唇有聲塞音 /b/ + /o/",
+      "exampleWord": "ぼうし (Boushi) - 帽子",
+      "hiraganaDirections": [
+        "先依序寫清音本體",
+        "右上角點第一點濁點",
+        "右上角點第二點濁點"
+      ],
+      "katakanaDirections": [
+        "先依序寫片假名本體",
+        "右上角點第一點濁點",
+        "右上角點第二點濁點"
+      ],
+      "phoneticMutation": "dakuon (濁音 +2筆濁點)"
+    },
+    {
+      "id": "kana_handakuon_pa",
+      "order": 201,
+      "category": "handakuon",
+      "row": "ぱ行（半濁音）",
+      "romaji": "pa",
+      "hiragana": "ぱ",
+      "katakana": "パ",
+      "hiraganaStrokes": 4,
+      "katakanaStrokes": 3,
+      "origin": "は + 半濁點 ゜",
+      "mnemonic": "在「は行」右上角加上小圓圈半濁點（゜），子音變為雙唇爆破音 /p/。",
+      "pronunciationTip": "清雙唇塞音 /p/ + /a/",
+      "exampleWord": "ぱん / パン (Pan) - 麵包",
+      "hiraganaDirections": [
+        "先寫は行假名本體",
+        "右上角畫一個小圓圈（゜）"
+      ],
+      "katakanaDirections": [
+        "先寫ハ行片假名本體",
+        "右上角畫一個小圓圈（゜）"
+      ],
+      "phoneticMutation": "handakuon (半濁音 +1筆半濁點圓圈)"
+    },
+    {
+      "id": "kana_handakuon_pi",
+      "order": 202,
+      "category": "handakuon",
+      "row": "ぱ行（半濁音）",
+      "romaji": "pi",
+      "hiragana": "ぴ",
+      "katakana": "ピ",
+      "hiraganaStrokes": 2,
+      "katakanaStrokes": 3,
+      "origin": "ひ + 半濁點 ゜",
+      "mnemonic": "在「は行」右上角加上小圓圈半濁點（゜），子音變為雙唇爆破音 /p/。",
+      "pronunciationTip": "清雙唇塞音 /p/ + /i/",
+      "exampleWord": "ぴんく / ピンク (Pinku) - 粉紅色",
+      "hiraganaDirections": [
+        "先寫は行假名本體",
+        "右上角畫一個小圓圈（゜）"
+      ],
+      "katakanaDirections": [
+        "先寫ハ行片假名本體",
+        "右上角畫一個小圓圈（゜）"
+      ],
+      "phoneticMutation": "handakuon (半濁音 +1筆半濁點圓圈)"
+    },
+    {
+      "id": "kana_handakuon_pu",
+      "order": 203,
+      "category": "handakuon",
+      "row": "ぱ行（半濁音）",
+      "romaji": "pu",
+      "hiragana": "ぷ",
+      "katakana": "プ",
+      "hiraganaStrokes": 5,
+      "katakanaStrokes": 2,
+      "origin": "ふ + 半濁點 ゜",
+      "mnemonic": "在「は行」右上角加上小圓圈半濁點（゜），子音變為雙唇爆破音 /p/。",
+      "pronunciationTip": "清雙唇塞音 /p/ + /u/",
+      "exampleWord": "ぷれぜんと / プレゼント (Purezento) - 禮物",
+      "hiraganaDirections": [
+        "先寫は行假名本體",
+        "右上角畫一個小圓圈（゜）"
+      ],
+      "katakanaDirections": [
+        "先寫ハ行片假名本體",
+        "右上角畫一個小圓圈（゜）"
+      ],
+      "phoneticMutation": "handakuon (半濁音 +1筆半濁點圓圈)"
+    },
+    {
+      "id": "kana_handakuon_pe",
+      "order": 204,
+      "category": "handakuon",
+      "row": "ぱ行（半濁音）",
+      "romaji": "pe",
+      "hiragana": "ぺ",
+      "katakana": "ペ",
+      "hiraganaStrokes": 2,
+      "katakanaStrokes": 2,
+      "origin": "へ + 半濁點 ゜",
+      "mnemonic": "在「は行」右上角加上小圓圈半濁點（゜），子音變為雙唇爆破音 /p/。",
+      "pronunciationTip": "清雙唇塞音 /p/ + /e/",
+      "exampleWord": "ぺん / ペン (Pen) - 筆",
+      "hiraganaDirections": [
+        "先寫は行假名本體",
+        "右上角畫一個小圓圈（゜）"
+      ],
+      "katakanaDirections": [
+        "先寫ハ行片假名本體",
+        "右上角畫一個小圓圈（゜）"
+      ],
+      "phoneticMutation": "handakuon (半濁音 +1筆半濁點圓圈)"
+    },
+    {
+      "id": "kana_handakuon_po",
+      "order": 205,
+      "category": "handakuon",
+      "row": "ぱ行（半濁音）",
+      "romaji": "po",
+      "hiragana": "ぽ",
+      "katakana": "ポ",
+      "hiraganaStrokes": 5,
+      "katakanaStrokes": 5,
+      "origin": "ほ + 半濁點 ゜",
+      "mnemonic": "在「は行」右上角加上小圓圈半濁點（゜），子音變為雙唇爆破音 /p/。",
+      "pronunciationTip": "清雙唇塞音 /p/ + /o/",
+      "exampleWord": "ぽすと / ポスト (Posuto) - 郵筒",
+      "hiraganaDirections": [
+        "先寫は行假名本體",
+        "右上角畫一個小圓圈（゜）"
+      ],
+      "katakanaDirections": [
+        "先寫ハ行片假名本體",
+        "右上角畫一個小圓圈（゜）"
+      ],
+      "phoneticMutation": "handakuon (半濁音 +1筆半濁點圓圈)"
+    },
+    {
+      "id": "kana_yoon_kya",
+      "order": 301,
+      "category": "yoon",
+      "row": "拗音",
+      "romaji": "kya",
+      "hiragana": "きゃ",
+      "katakana": "キャ",
+      "hiraganaStrokes": 7,
+      "katakanaStrokes": 5,
+      "origin": "き + 小ゃ",
+      "mnemonic": "由「い段」假名加上縮小寫在右下方的「ゃ、ゅ、ょ」拼成一拍發音。",
+      "pronunciationTip": "兩個字合起來只佔一拍音長，不可拆成兩個獨立音節慢讀。",
+      "exampleWord": "きゃく (Kyaku) - 客人",
+      "hiraganaDirections": [
+        "先寫左方い段母字",
+        "右下方寫縮小一號的ゃ/ゅ/ょ"
+      ],
+      "katakanaDirections": [
+        "先寫左方イ段母字",
+        "右下方寫縮小一號的ャ/ュ/ョ"
+      ],
+      "phoneticMutation": "yoon (拗音：い段母字 + 小ゃ/ゅ/ょ 合成一拍)"
+    },
+    {
+      "id": "kana_yoon_kyu",
+      "order": 302,
+      "category": "yoon",
+      "row": "拗音",
+      "romaji": "kyu",
+      "hiragana": "きゅ",
+      "katakana": "キュ",
+      "hiraganaStrokes": 6,
+      "katakanaStrokes": 5,
+      "origin": "き + 小ゅ",
+      "mnemonic": "由「い段」假名加上縮小寫在右下方的「ゃ、ゅ、ょ」拼成一拍發音。",
+      "pronunciationTip": "兩個字合起來只佔一拍音長，不可拆成兩個獨立音節慢讀。",
+      "exampleWord": "きゅう (Kyuu) - 九",
+      "hiraganaDirections": [
+        "先寫左方い段母字",
+        "右下方寫縮小一號的ゃ/ゅ/ょ"
+      ],
+      "katakanaDirections": [
+        "先寫左方イ段母字",
+        "右下方寫縮小一號的ャ/ュ/ョ"
+      ],
+      "phoneticMutation": "yoon (拗音：い段母字 + 小ゃ/ゅ/ょ 合成一拍)"
+    },
+    {
+      "id": "kana_yoon_kyo",
+      "order": 303,
+      "category": "yoon",
+      "row": "拗音",
+      "romaji": "kyo",
+      "hiragana": "きょ",
+      "katakana": "キョ",
+      "hiraganaStrokes": 6,
+      "katakanaStrokes": 6,
+      "origin": "き + 小ょ",
+      "mnemonic": "由「い段」假名加上縮小寫在右下方的「ゃ、ゅ、ょ」拼成一拍發音。",
+      "pronunciationTip": "兩個字合起來只佔一拍音長，不可拆成兩個獨立音節慢讀。",
+      "exampleWord": "きょう (Kyou) - 今天",
+      "hiraganaDirections": [
+        "先寫左方い段母字",
+        "右下方寫縮小一號的ゃ/ゅ/ょ"
+      ],
+      "katakanaDirections": [
+        "先寫左方イ段母字",
+        "右下方寫縮小一號的ャ/ュ/ョ"
+      ],
+      "phoneticMutation": "yoon (拗音：い段母字 + 小ゃ/ゅ/ょ 合成一拍)"
+    },
+    {
+      "id": "kana_yoon_sha",
+      "order": 304,
+      "category": "yoon",
+      "row": "拗音",
+      "romaji": "sha",
+      "hiragana": "しゃ",
+      "katakana": "シャ",
+      "hiraganaStrokes": 4,
+      "katakanaStrokes": 5,
+      "origin": "し + 小ゃ",
+      "mnemonic": "由「い段」假名加上縮小寫在右下方的「ゃ、ゅ、ょ」拼成一拍發音。",
+      "pronunciationTip": "兩個字合起來只佔一拍音長，不可拆成兩個獨立音節慢讀。",
+      "exampleWord": "しゃしん (Shashin) - 照片",
+      "hiraganaDirections": [
+        "先寫左方い段母字",
+        "右下方寫縮小一號的ゃ/ゅ/ょ"
+      ],
+      "katakanaDirections": [
+        "先寫左方イ段母字",
+        "右下方寫縮小一號的ャ/ュ/ョ"
+      ],
+      "phoneticMutation": "yoon (拗音：い段母字 + 小ゃ/ゅ/ょ 合成一拍)"
+    },
+    {
+      "id": "kana_yoon_shu",
+      "order": 305,
+      "category": "yoon",
+      "row": "拗音",
+      "romaji": "shu",
+      "hiragana": "しゅ",
+      "katakana": "シュ",
+      "hiraganaStrokes": 3,
+      "katakanaStrokes": 5,
+      "origin": "し + 小ゅ",
+      "mnemonic": "由「い段」假名加上縮小寫在右下方的「ゃ、ゅ、ょ」拼成一拍發音。",
+      "pronunciationTip": "兩個字合起來只佔一拍音長，不可拆成兩個獨立音節慢讀。",
+      "exampleWord": "しゅみ (Shumi) - 興趣",
+      "hiraganaDirections": [
+        "先寫左方い段母字",
+        "右下方寫縮小一號的ゃ/ゅ/ょ"
+      ],
+      "katakanaDirections": [
+        "先寫左方イ段母字",
+        "右下方寫縮小一號的ャ/ュ/ョ"
+      ],
+      "phoneticMutation": "yoon (拗音：い段母字 + 小ゃ/ゅ/ょ 合成一拍)"
+    },
+    {
+      "id": "kana_yoon_sho",
+      "order": 306,
+      "category": "yoon",
+      "row": "拗音",
+      "romaji": "sho",
+      "hiragana": "しょ",
+      "katakana": "ショ",
+      "hiraganaStrokes": 3,
+      "katakanaStrokes": 6,
+      "origin": "し + 小ょ",
+      "mnemonic": "由「い段」假名加上縮小寫在右下方的「ゃ、ゅ、ょ」拼成一拍發音。",
+      "pronunciationTip": "兩個字合起來只佔一拍音長，不可拆成兩個獨立音節慢讀。",
+      "exampleWord": "しょくじ (Shokuji) - 用餐",
+      "hiraganaDirections": [
+        "先寫左方い段母字",
+        "右下方寫縮小一號的ゃ/ゅ/ょ"
+      ],
+      "katakanaDirections": [
+        "先寫左方イ段母字",
+        "右下方寫縮小一號的ャ/ュ/ョ"
+      ],
+      "phoneticMutation": "yoon (拗音：い段母字 + 小ゃ/ゅ/ょ 合成一拍)"
+    },
+    {
+      "id": "kana_yoon_cha",
+      "order": 307,
+      "category": "yoon",
+      "row": "拗音",
+      "romaji": "cha",
+      "hiragana": "ちゃ",
+      "katakana": "チャ",
+      "hiraganaStrokes": 5,
+      "katakanaStrokes": 5,
+      "origin": "ち + 小ゃ",
+      "mnemonic": "由「い段」假名加上縮小寫在右下方的「ゃ、ゅ、ょ」拼成一拍發音。",
+      "pronunciationTip": "兩個字合起來只佔一拍音長，不可拆成兩個獨立音節慢讀。",
+      "exampleWord": "おちゃ (Ocha) - 茶",
+      "hiraganaDirections": [
+        "先寫左方い段母字",
+        "右下方寫縮小一號的ゃ/ゅ/ょ"
+      ],
+      "katakanaDirections": [
+        "先寫左方イ段母字",
+        "右下方寫縮小一號的ャ/ュ/ョ"
+      ],
+      "phoneticMutation": "yoon (拗音：い段母字 + 小ゃ/ゅ/ょ 合成一拍)"
+    },
+    {
+      "id": "kana_yoon_chu",
+      "order": 308,
+      "category": "yoon",
+      "row": "拗音",
+      "romaji": "chu",
+      "hiragana": "ちゅ",
+      "katakana": "チュ",
+      "hiraganaStrokes": 4,
+      "katakanaStrokes": 5,
+      "origin": "ち + 小ゅ",
+      "mnemonic": "由「い段」假名加上縮小寫在右下方的「ゃ、ゅ、ょ」拼成一拍發音。",
+      "pronunciationTip": "兩個字合起來只佔一拍音長，不可拆成兩個獨立音節慢讀。",
+      "exampleWord": "ちゅうい (Chuui) - 注意",
+      "hiraganaDirections": [
+        "先寫左方い段母字",
+        "右下方寫縮小一號的ゃ/ゅ/ょ"
+      ],
+      "katakanaDirections": [
+        "先寫左方イ段母字",
+        "右下方寫縮小一號的ャ/ュ/ョ"
+      ],
+      "phoneticMutation": "yoon (拗音：い段母字 + 小ゃ/ゅ/ょ 合成一拍)"
+    },
+    {
+      "id": "kana_yoon_cho",
+      "order": 309,
+      "category": "yoon",
+      "row": "拗音",
+      "romaji": "cho",
+      "hiragana": "ちょ",
+      "katakana": "チョ",
+      "hiraganaStrokes": 4,
+      "katakanaStrokes": 6,
+      "origin": "ち + 小ょ",
+      "mnemonic": "由「い段」假名加上縮小寫在右下方的「ゃ、ゅ、ょ」拼成一拍發音。",
+      "pronunciationTip": "兩個字合起來只佔一拍音長，不可拆成兩個獨立音節慢讀。",
+      "exampleWord": "ちょっと (Chotto) - 稍微",
+      "hiraganaDirections": [
+        "先寫左方い段母字",
+        "右下方寫縮小一號的ゃ/ゅ/ょ"
+      ],
+      "katakanaDirections": [
+        "先寫左方イ段母字",
+        "右下方寫縮小一號的ャ/ュ/ョ"
+      ],
+      "phoneticMutation": "yoon (拗音：い段母字 + 小ゃ/ゅ/ょ 合成一拍)"
+    },
+    {
+      "id": "kana_yoon_nya",
+      "order": 310,
+      "category": "yoon",
+      "row": "拗音",
+      "romaji": "nya",
+      "hiragana": "にゃ",
+      "katakana": "ニャ",
+      "hiraganaStrokes": 6,
+      "katakanaStrokes": 4,
+      "origin": "に + 小ゃ",
+      "mnemonic": "由「い段」假名加上縮小寫在右下方的「ゃ、ゅ、ょ」拼成一拍發音。",
+      "pronunciationTip": "兩個字合起來只佔一拍音長，不可拆成兩個獨立音節慢讀。",
+      "exampleWord": "にゃんこ (Nyanko) - 貓咪（暱稱）",
+      "hiraganaDirections": [
+        "先寫左方い段母字",
+        "右下方寫縮小一號的ゃ/ゅ/ょ"
+      ],
+      "katakanaDirections": [
+        "先寫左方イ段母字",
+        "右下方寫縮小一號的ャ/ュ/ョ"
+      ],
+      "phoneticMutation": "yoon (拗音：い段母字 + 小ゃ/ゅ/ょ 合成一拍)"
+    },
+    {
+      "id": "kana_yoon_nyu",
+      "order": 311,
+      "category": "yoon",
+      "row": "拗音",
+      "romaji": "nyu",
+      "hiragana": "にゅ",
+      "katakana": "ニュ",
+      "hiraganaStrokes": 5,
+      "katakanaStrokes": 4,
+      "origin": "に + 小ゅ",
+      "mnemonic": "由「い段」假名加上縮小寫在右下方的「ゃ、ゅ、ょ」拼成一拍發音。",
+      "pronunciationTip": "兩個字合起來只佔一拍音長，不可拆成兩個獨立音節慢讀。",
+      "exampleWord": "にゅうがく (Nyuugaku) - 入學",
+      "hiraganaDirections": [
+        "先寫左方い段母字",
+        "右下方寫縮小一號的ゃ/ゅ/ょ"
+      ],
+      "katakanaDirections": [
+        "先寫左方イ段母字",
+        "右下方寫縮小一號的ャ/ュ/ョ"
+      ],
+      "phoneticMutation": "yoon (拗音：い段母字 + 小ゃ/ゅ/ょ 合成一拍)"
+    },
+    {
+      "id": "kana_yoon_nyo",
+      "order": 312,
+      "category": "yoon",
+      "row": "拗音",
+      "romaji": "nyo",
+      "hiragana": "にょ",
+      "katakana": "ニョ",
+      "hiraganaStrokes": 5,
+      "katakanaStrokes": 5,
+      "origin": "に + 小ょ",
+      "mnemonic": "由「い段」假名加上縮小寫在右下方的「ゃ、ゅ、ょ」拼成一拍發音。",
+      "pronunciationTip": "兩個字合起來只佔一拍音長，不可拆成兩個獨立音節慢讀。",
+      "exampleWord": "にょうぼう (Nyoubou) - 妻子",
+      "hiraganaDirections": [
+        "先寫左方い段母字",
+        "右下方寫縮小一號的ゃ/ゅ/ょ"
+      ],
+      "katakanaDirections": [
+        "先寫左方イ段母字",
+        "右下方寫縮小一號的ャ/ュ/ョ"
+      ],
+      "phoneticMutation": "yoon (拗音：い段母字 + 小ゃ/ゅ/ょ 合成一拍)"
+    },
+    {
+      "id": "kana_yoon_hya",
+      "order": 313,
+      "category": "yoon",
+      "row": "拗音",
+      "romaji": "hya",
+      "hiragana": "ひゃ",
+      "katakana": "ヒャ",
+      "hiraganaStrokes": 4,
+      "katakanaStrokes": 4,
+      "origin": "ひ + 小ゃ",
+      "mnemonic": "由「い段」假名加上縮小寫在右下方的「ゃ、ゅ、ょ」拼成一拍發音。",
+      "pronunciationTip": "兩個字合起來只佔一拍音長，不可拆成兩個獨立音節慢讀。",
+      "exampleWord": "ひゃく (Hyaku) - 百",
+      "hiraganaDirections": [
+        "先寫左方い段母字",
+        "右下方寫縮小一號的ゃ/ゅ/ょ"
+      ],
+      "katakanaDirections": [
+        "先寫左方イ段母字",
+        "右下方寫縮小一號的ャ/ュ/ョ"
+      ],
+      "phoneticMutation": "yoon (拗音：い段母字 + 小ゃ/ゅ/ょ 合成一拍)"
+    },
+    {
+      "id": "kana_yoon_hyu",
+      "order": 314,
+      "category": "yoon",
+      "row": "拗音",
+      "romaji": "hyu",
+      "hiragana": "ひゅ",
+      "katakana": "ヒュ",
+      "hiraganaStrokes": 3,
+      "katakanaStrokes": 4,
+      "origin": "ひ + 小ゅ",
+      "mnemonic": "由「い段」假名加上縮小寫在右下方的「ゃ、ゅ、ょ」拼成一拍發音。",
+      "pronunciationTip": "兩個字合起來只佔一拍音長，不可拆成兩個獨立音節慢讀。",
+      "exampleWord": "ひゅうが (Hyuuga) - 日向",
+      "hiraganaDirections": [
+        "先寫左方い段母字",
+        "右下方寫縮小一號的ゃ/ゅ/ょ"
+      ],
+      "katakanaDirections": [
+        "先寫左方イ段母字",
+        "右下方寫縮小一號的ャ/ュ/ョ"
+      ],
+      "phoneticMutation": "yoon (拗音：い段母字 + 小ゃ/ゅ/ょ 合成一拍)"
+    },
+    {
+      "id": "kana_yoon_hyo",
+      "order": 315,
+      "category": "yoon",
+      "row": "拗音",
+      "romaji": "hyo",
+      "hiragana": "ひょ",
+      "katakana": "ヒョ",
+      "hiraganaStrokes": 3,
+      "katakanaStrokes": 5,
+      "origin": "ひ + 小ょ",
+      "mnemonic": "由「い段」假名加上縮小寫在右下方的「ゃ、ゅ、ょ」拼成一拍發音。",
+      "pronunciationTip": "兩個字合起來只佔一拍音長，不可拆成兩個獨立音節慢讀。",
+      "exampleWord": "ひょう (Hyou) - 表格／票",
+      "hiraganaDirections": [
+        "先寫左方い段母字",
+        "右下方寫縮小一號的ゃ/ゅ/ょ"
+      ],
+      "katakanaDirections": [
+        "先寫左方イ段母字",
+        "右下方寫縮小一號的ャ/ュ/ョ"
+      ],
+      "phoneticMutation": "yoon (拗音：い段母字 + 小ゃ/ゅ/ょ 合成一拍)"
+    },
+    {
+      "id": "kana_yoon_mya",
+      "order": 316,
+      "category": "yoon",
+      "row": "拗音",
+      "romaji": "mya",
+      "hiragana": "みゃ",
+      "katakana": "ミャ",
+      "hiraganaStrokes": 5,
+      "katakanaStrokes": 5,
+      "origin": "み + 小ゃ",
+      "mnemonic": "由「い段」假名加上縮小寫在右下方的「ゃ、ゅ、ょ」拼成一拍發音。",
+      "pronunciationTip": "兩個字合起來只佔一拍音長，不可拆成兩個獨立音節慢讀。",
+      "exampleWord": "みゃく (Myaku) - 脈搏",
+      "hiraganaDirections": [
+        "先寫左方い段母字",
+        "右下方寫縮小一號的ゃ/ゅ/ょ"
+      ],
+      "katakanaDirections": [
+        "先寫左方イ段母字",
+        "右下方寫縮小一號的ャ/ュ/ョ"
+      ],
+      "phoneticMutation": "yoon (拗音：い段母字 + 小ゃ/ゅ/ょ 合成一拍)"
+    },
+    {
+      "id": "kana_yoon_myu",
+      "order": 317,
+      "category": "yoon",
+      "row": "拗音",
+      "romaji": "myu",
+      "hiragana": "みゅ",
+      "katakana": "ミュ",
+      "hiraganaStrokes": 4,
+      "katakanaStrokes": 5,
+      "origin": "み + 小ゅ",
+      "mnemonic": "由「い段」假名加上縮小寫在右下方的「ゃ、ゅ、ょ」拼成一拍發音。",
+      "pronunciationTip": "兩個字合起來只佔一拍音長，不可拆成兩個獨立音節慢讀。",
+      "exampleWord": "ミュージック (Myuujikku) - 音樂（含長音「ー」與促音「ッ」）",
+      "hiraganaDirections": [
+        "先寫左方い段母字",
+        "右下方寫縮小一號的ゃ/ゅ/ょ"
+      ],
+      "katakanaDirections": [
+        "先寫左方イ段母字",
+        "右下方寫縮小一號的ャ/ュ/ョ"
+      ],
+      "phoneticMutation": "yoon (拗音：い段母字 + 小ゃ/ゅ/ょ 合成一拍)"
+    },
+    {
+      "id": "kana_yoon_myo",
+      "order": 318,
+      "category": "yoon",
+      "row": "拗音",
+      "romaji": "myo",
+      "hiragana": "みょ",
+      "katakana": "ミョ",
+      "hiraganaStrokes": 4,
+      "katakanaStrokes": 6,
+      "origin": "み + 小ょ",
+      "mnemonic": "由「い段」假名加上縮小寫在右下方的「ゃ、ゅ、ょ」拼成一拍發音。",
+      "pronunciationTip": "兩個字合起來只佔一拍音長，不可拆成兩個獨立音節慢讀。",
+      "exampleWord": "みょうじ (Myouji) - 姓氏",
+      "hiraganaDirections": [
+        "先寫左方い段母字",
+        "右下方寫縮小一號的ゃ/ゅ/ょ"
+      ],
+      "katakanaDirections": [
+        "先寫左方イ段母字",
+        "右下方寫縮小一號的ャ/ュ/ョ"
+      ],
+      "phoneticMutation": "yoon (拗音：い段母字 + 小ゃ/ゅ/ょ 合成一拍)"
+    },
+    {
+      "id": "kana_yoon_rya",
+      "order": 319,
+      "category": "yoon",
+      "row": "拗音",
+      "romaji": "rya",
+      "hiragana": "りゃ",
+      "katakana": "リャ",
+      "hiraganaStrokes": 5,
+      "katakanaStrokes": 4,
+      "origin": "り + 小ゃ",
+      "mnemonic": "由「い段」假名加上縮小寫在右下方的「ゃ、ゅ、ょ」拼成一拍發音。",
+      "pronunciationTip": "兩個字合起來只佔一拍音長，不可拆成兩個獨立音節慢讀。",
+      "exampleWord": "りゃくご (Ryakugo) - 簡稱",
+      "hiraganaDirections": [
+        "先寫左方い段母字",
+        "右下方寫縮小一號的ゃ/ゅ/ょ"
+      ],
+      "katakanaDirections": [
+        "先寫左方イ段母字",
+        "右下方寫縮小一號的ャ/ュ/ョ"
+      ],
+      "phoneticMutation": "yoon (拗音：い段母字 + 小ゃ/ゅ/ょ 合成一拍)"
+    },
+    {
+      "id": "kana_yoon_ryu",
+      "order": 320,
+      "category": "yoon",
+      "row": "拗音",
+      "romaji": "ryu",
+      "hiragana": "りゅ",
+      "katakana": "リュ",
+      "hiraganaStrokes": 4,
+      "katakanaStrokes": 4,
+      "origin": "り + 小ゅ",
+      "mnemonic": "由「い段」假名加上縮小寫在右下方的「ゃ、ゅ、ょ」拼成一拍發音。",
+      "pronunciationTip": "兩個字合起來只佔一拍音長，不可拆成兩個獨立音節慢讀。",
+      "exampleWord": "りゅうがく (Ryuugaku) - 留學",
+      "hiraganaDirections": [
+        "先寫左方い段母字",
+        "右下方寫縮小一號的ゃ/ゅ/ょ"
+      ],
+      "katakanaDirections": [
+        "先寫左方イ段母字",
+        "右下方寫縮小一號的ャ/ュ/ョ"
+      ],
+      "phoneticMutation": "yoon (拗音：い段母字 + 小ゃ/ゅ/ょ 合成一拍)"
+    },
+    {
+      "id": "kana_yoon_ryo",
+      "order": 321,
+      "category": "yoon",
+      "row": "拗音",
+      "romaji": "ryo",
+      "hiragana": "りょ",
+      "katakana": "リョ",
+      "hiraganaStrokes": 4,
+      "katakanaStrokes": 5,
+      "origin": "り + 小ょ",
+      "mnemonic": "由「い段」假名加上縮小寫在右下方的「ゃ、ゅ、ょ」拼成一拍發音。",
+      "pronunciationTip": "兩個字合起來只佔一拍音長，不可拆成兩個獨立音節慢讀。",
+      "exampleWord": "りょこう (Ryokou) - 旅行",
+      "hiraganaDirections": [
+        "先寫左方い段母字",
+        "右下方寫縮小一號的ゃ/ゅ/ょ"
+      ],
+      "katakanaDirections": [
+        "先寫左方イ段母字",
+        "右下方寫縮小一號的ャ/ュ/ョ"
+      ],
+      "phoneticMutation": "yoon (拗音：い段母字 + 小ゃ/ゅ/ょ 合成一拍)"
+    },
+    {
+      "id": "kana_yoon_gya",
+      "order": 322,
+      "category": "yoon",
+      "row": "拗音",
+      "romaji": "gya",
+      "hiragana": "ぎゃ",
+      "katakana": "ギャ",
+      "hiraganaStrokes": 9,
+      "katakanaStrokes": 7,
+      "origin": "ぎ + 小ゃ",
+      "mnemonic": "由「い段」假名加上縮小寫在右下方的「ゃ、ゅ、ょ」拼成一拍發音。",
+      "pronunciationTip": "兩個字合起來只佔一拍音長，不可拆成兩個獨立音節慢讀。",
+      "exampleWord": "ぎゃく (Gyaku) - 相反",
+      "hiraganaDirections": [
+        "先寫左方い段母字",
+        "右下方寫縮小一號的ゃ/ゅ/ょ"
+      ],
+      "katakanaDirections": [
+        "先寫左方イ段母字",
+        "右下方寫縮小一號的ャ/ュ/ョ"
+      ],
+      "phoneticMutation": "yoon (拗音：い段母字 + 小ゃ/ゅ/ょ 合成一拍)"
+    },
+    {
+      "id": "kana_yoon_gyu",
+      "order": 323,
+      "category": "yoon",
+      "row": "拗音",
+      "romaji": "gyu",
+      "hiragana": "ぎゅ",
+      "katakana": "ギュ",
+      "hiraganaStrokes": 8,
+      "katakanaStrokes": 7,
+      "origin": "ぎ + 小ゅ",
+      "mnemonic": "由「い段」假名加上縮小寫在右下方的「ゃ、ゅ、ょ」拼成一拍發音。",
+      "pronunciationTip": "兩個字合起來只佔一拍音長，不可拆成兩個獨立音節慢讀。",
+      "exampleWord": "ぎゅうにゅう (Gyuunyuu) - 牛奶",
+      "hiraganaDirections": [
+        "先寫左方い段母字",
+        "右下方寫縮小一號的ゃ/ゅ/ょ"
+      ],
+      "katakanaDirections": [
+        "先寫左方イ段母字",
+        "右下方寫縮小一號的ャ/ュ/ョ"
+      ],
+      "phoneticMutation": "yoon (拗音：い段母字 + 小ゃ/ゅ/ょ 合成一拍)"
+    },
+    {
+      "id": "kana_yoon_gyo",
+      "order": 324,
+      "category": "yoon",
+      "row": "拗音",
+      "romaji": "gyo",
+      "hiragana": "ぎょ",
+      "katakana": "ギョ",
+      "hiraganaStrokes": 8,
+      "katakanaStrokes": 8,
+      "origin": "ぎ + 小ょ",
+      "mnemonic": "由「い段」假名加上縮小寫在右下方的「ゃ、ゅ、ょ」拼成一拍發音。",
+      "pronunciationTip": "兩個字合起來只佔一拍音長，不可拆成兩個獨立音節慢讀。",
+      "exampleWord": "ぎょうざ (Gyouza) - 煎餃",
+      "hiraganaDirections": [
+        "先寫左方い段母字",
+        "右下方寫縮小一號的ゃ/ゅ/ょ"
+      ],
+      "katakanaDirections": [
+        "先寫左方イ段母字",
+        "右下方寫縮小一號的ャ/ュ/ョ"
+      ],
+      "phoneticMutation": "yoon (拗音：い段母字 + 小ゃ/ゅ/ょ 合成一拍)"
+    },
+    {
+      "id": "kana_yoon_ja",
+      "order": 325,
+      "category": "yoon",
+      "row": "拗音",
+      "romaji": "ja",
+      "hiragana": "じゃ",
+      "katakana": "ジャ",
+      "hiraganaStrokes": 6,
+      "katakanaStrokes": 7,
+      "origin": "じ + 小ゃ",
+      "mnemonic": "由「い段」假名加上縮小寫在右下方的「ゃ、ゅ、ょ」拼成一拍發音。",
+      "pronunciationTip": "兩個字合起來只佔一拍音長，不可拆成兩個獨立音節慢讀。",
+      "exampleWord": "じゃがいも (Jagaimo) - 馬鈴薯",
+      "hiraganaDirections": [
+        "先寫左方い段母字",
+        "右下方寫縮小一號的ゃ/ゅ/ょ"
+      ],
+      "katakanaDirections": [
+        "先寫左方イ段母字",
+        "右下方寫縮小一號的ャ/ュ/ョ"
+      ],
+      "phoneticMutation": "yoon (拗音：い段母字 + 小ゃ/ゅ/ょ 合成一拍)"
+    },
+    {
+      "id": "kana_yoon_ju",
+      "order": 326,
+      "category": "yoon",
+      "row": "拗音",
+      "romaji": "ju",
+      "hiragana": "じゅ",
+      "katakana": "ジュ",
+      "hiraganaStrokes": 5,
+      "katakanaStrokes": 7,
+      "origin": "じ + 小ゅ",
+      "mnemonic": "由「い段」假名加上縮小寫在右下方的「ゃ、ゅ、ょ」拼成一拍發音。",
+      "pronunciationTip": "兩個字合起來只佔一拍音長，不可拆成兩個獨立音節慢讀。",
+      "exampleWord": "じゅう (Juu) - 十",
+      "hiraganaDirections": [
+        "先寫左方い段母字",
+        "右下方寫縮小一號的ゃ/ゅ/ょ"
+      ],
+      "katakanaDirections": [
+        "先寫左方イ段母字",
+        "右下方寫縮小一號的ャ/ュ/ョ"
+      ],
+      "phoneticMutation": "yoon (拗音：い段母字 + 小ゃ/ゅ/ょ 合成一拍)"
+    },
+    {
+      "id": "kana_yoon_jo",
+      "order": 327,
+      "category": "yoon",
+      "row": "拗音",
+      "romaji": "jo",
+      "hiragana": "じょ",
+      "katakana": "ジョ",
+      "hiraganaStrokes": 5,
+      "katakanaStrokes": 8,
+      "origin": "じ + 小ょ",
+      "mnemonic": "由「い段」假名加上縮小寫在右下方的「ゃ、ゅ、ょ」拼成一拍發音。",
+      "pronunciationTip": "兩個字合起來只佔一拍音長，不可拆成兩個獨立音節慢讀。",
+      "exampleWord": "じょうず (Jouzu) - 擅長",
+      "hiraganaDirections": [
+        "先寫左方い段母字",
+        "右下方寫縮小一號的ゃ/ゅ/ょ"
+      ],
+      "katakanaDirections": [
+        "先寫左方イ段母字",
+        "右下方寫縮小一號的ャ/ュ/ョ"
+      ],
+      "phoneticMutation": "yoon (拗音：い段母字 + 小ゃ/ゅ/ょ 合成一拍)"
+    },
+    {
+      "id": "kana_yoon_bya",
+      "order": 328,
+      "category": "yoon",
+      "row": "拗音",
+      "romaji": "bya",
+      "hiragana": "びゃ",
+      "katakana": "ビャ",
+      "hiraganaStrokes": 6,
+      "katakanaStrokes": 6,
+      "origin": "び + 小ゃ",
+      "mnemonic": "由「い段」假名加上縮小寫在右下方的「ゃ、ゅ、ょ」拼成一拍發音。",
+      "pronunciationTip": "兩個字合起來只佔一拍音長，不可拆成兩個獨立音節慢讀。",
+      "exampleWord": "さんびゃく (Sanbyaku) - 三百",
+      "hiraganaDirections": [
+        "先寫左方い段母字",
+        "右下方寫縮小一號的ゃ/ゅ/ょ"
+      ],
+      "katakanaDirections": [
+        "先寫左方イ段母字",
+        "右下方寫縮小一號的ャ/ュ/ョ"
+      ],
+      "phoneticMutation": "yoon (拗音：い段母字 + 小ゃ/ゅ/ょ 合成一拍)"
+    },
+    {
+      "id": "kana_yoon_byu",
+      "order": 329,
+      "category": "yoon",
+      "row": "拗音",
+      "romaji": "byu",
+      "hiragana": "びゅ",
+      "katakana": "ビュ",
+      "hiraganaStrokes": 5,
+      "katakanaStrokes": 6,
+      "origin": "び + 小ゅ",
+      "mnemonic": "由「い段」假名加上縮小寫在右下方的「ゃ、ゅ、ょ」拼成一拍發音。",
+      "pronunciationTip": "兩個字合起來只佔一拍音長，不可拆成兩個獨立音節慢讀。",
+      "exampleWord": "ビュッフェ (Byuffe) - 自助餐（含促音「ッ」與外來語「フェ」）",
+      "hiraganaDirections": [
+        "先寫左方い段母字",
+        "右下方寫縮小一號的ゃ/ゅ/ょ"
+      ],
+      "katakanaDirections": [
+        "先寫左方イ段母字",
+        "右下方寫縮小一號的ャ/ュ/ョ"
+      ],
+      "phoneticMutation": "yoon (拗音：い段母字 + 小ゃ/ゅ/ょ 合成一拍)"
+    },
+    {
+      "id": "kana_yoon_byo",
+      "order": 330,
+      "category": "yoon",
+      "row": "拗音",
+      "romaji": "byo",
+      "hiragana": "びょ",
+      "katakana": "ビョ",
+      "hiraganaStrokes": 5,
+      "katakanaStrokes": 7,
+      "origin": "び + 小ょ",
+      "mnemonic": "由「い段」假名加上縮小寫在右下方的「ゃ、ゅ、ょ」拼成一拍發音。",
+      "pronunciationTip": "兩個字合起來只佔一拍音長，不可拆成兩個獨立音節慢讀。",
+      "exampleWord": "びょういん (Byouin) - 醫院",
+      "hiraganaDirections": [
+        "先寫左方い段母字",
+        "右下方寫縮小一號的ゃ/ゅ/ょ"
+      ],
+      "katakanaDirections": [
+        "先寫左方イ段母字",
+        "右下方寫縮小一號的ャ/ュ/ョ"
+      ],
+      "phoneticMutation": "yoon (拗音：い段母字 + 小ゃ/ゅ/ょ 合成一拍)"
+    },
+    {
+      "id": "kana_yoon_pya",
+      "order": 331,
+      "category": "yoon",
+      "row": "拗音",
+      "romaji": "pya",
+      "hiragana": "ぴゃ",
+      "katakana": "ピャ",
+      "hiraganaStrokes": 5,
+      "katakanaStrokes": 5,
+      "origin": "ぴ + 小ゃ",
+      "mnemonic": "由「い段」假名加上縮小寫在右下方的「ゃ、ゅ、ょ」拼成一拍發音。",
+      "pronunciationTip": "兩個字合起來只佔一拍音長，不可拆成兩個獨立音節慢讀。",
+      "exampleWord": "ろっぴゃく (Roppyaku) - 六百",
+      "hiraganaDirections": [
+        "先寫左方い段母字",
+        "右下方寫縮小一號的ゃ/ゅ/ょ"
+      ],
+      "katakanaDirections": [
+        "先寫左方イ段母字",
+        "右下方寫縮小一號的ャ/ュ/ョ"
+      ],
+      "phoneticMutation": "yoon (拗音：い段母字 + 小ゃ/ゅ/ょ 合成一拍)"
+    },
+    {
+      "id": "kana_yoon_pyu",
+      "order": 332,
+      "category": "yoon",
+      "row": "拗音",
+      "romaji": "pyu",
+      "hiragana": "ぴゅ",
+      "katakana": "ピュ",
+      "hiraganaStrokes": 4,
+      "katakanaStrokes": 5,
+      "origin": "ぴ + 小ゅ",
+      "mnemonic": "由「い段」假名加上縮小寫在右下方的「ゃ、ゅ、ょ」拼成一拍發音。",
+      "pronunciationTip": "兩個字合起來只佔一拍音長，不可拆成兩個獨立音節慢讀。",
+      "exampleWord": "コンピューター (Konpyuutaa) - 電腦（含半濁音拗音「ピュ」與長音「ー」）",
+      "hiraganaDirections": [
+        "先寫左方い段母字",
+        "右下方寫縮小一號的ゃ/ゅ/ょ"
+      ],
+      "katakanaDirections": [
+        "先寫左方イ段母字",
+        "右下方寫縮小一號的ャ/ュ/ョ"
+      ],
+      "phoneticMutation": "yoon (拗音：い段母字 + 小ゃ/ゅ/ょ 合成一拍)"
+    },
+    {
+      "id": "kana_yoon_pyo",
+      "order": 333,
+      "category": "yoon",
+      "row": "拗音",
+      "romaji": "pyo",
+      "hiragana": "ぴょ",
+      "katakana": "ピョ",
+      "hiraganaStrokes": 4,
+      "katakanaStrokes": 6,
+      "origin": "ぴ + 小ょ",
+      "mnemonic": "由「い段」假名加上縮小寫在右下方的「ゃ、ゅ、ょ」拼成一拍發音。",
+      "pronunciationTip": "兩個字合起來只佔一拍音長，不可拆成兩個獨立音節慢讀。",
+      "exampleWord": "はっぴょう (Happyou) - 發表",
+      "hiraganaDirections": [
+        "先寫左方い段母字",
+        "右下方寫縮小一號的ゃ/ゅ/ょ"
+      ],
+      "katakanaDirections": [
+        "先寫左方イ段母字",
+        "右下方寫縮小一號的ャ/ュ/ョ"
+      ],
+      "phoneticMutation": "yoon (拗音：い段母字 + 小ゃ/ゅ/ょ 合成一拍)"
+    },
+    {
+      "id": "kana_foreign_fa",
+      "order": 401,
+      "category": "foreign_katakana",
+      "row": "外來語特殊音",
+      "romaji": "fa",
+      "hiragana": "ファ",
+      "katakana": "ファ",
+      "hiraganaStrokes": 3,
+      "katakanaStrokes": 3,
+      "origin": "フ + 小ァ",
+      "mnemonic": "用於拼寫外語 /fa/ 音，如ファッション (時尚)。",
+      "pronunciationTip": "用於拼寫外語 /fa/ 音，如ファッション (時尚)。",
+      "exampleWord": "ファミリー (Famirii) - 家庭 / FamilyMart",
+      "hiraganaDirections": [
+        "先寫主片假名",
+        "右下角加上小母音片假名（ァィゥェォ）"
+      ],
+      "katakanaDirections": [
+        "先寫主片假名",
+        "右下角加上小母音片假名（ァィゥェォ）"
+      ],
+      "phoneticMutation": "foreign_katakana (外來語特殊音節)"
+    },
+    {
+      "id": "kana_foreign_fi",
+      "order": 402,
+      "category": "foreign_katakana",
+      "row": "外來語特殊音",
+      "romaji": "fi",
+      "hiragana": "フィ",
+      "katakana": "フィ",
+      "hiraganaStrokes": 3,
+      "katakanaStrokes": 3,
+      "origin": "フ + 小ィ",
+      "mnemonic": "用於拼寫外語 /fi/ 音，如オフィス (辦公室)。",
+      "pronunciationTip": "用於拼寫外語 /fi/ 音，如オフィス (辦公室)。",
+      "exampleWord": "フィッシュ (Fisshu) - 魚排",
+      "hiraganaDirections": [
+        "先寫主片假名",
+        "右下角加上小母音片假名（ァィゥェォ）"
+      ],
+      "katakanaDirections": [
+        "先寫主片假名",
+        "右下角加上小母音片假名（ァィゥェォ）"
+      ],
+      "phoneticMutation": "foreign_katakana (外來語特殊音節)"
+    },
+    {
+      "id": "kana_foreign_fe",
+      "order": 403,
+      "category": "foreign_katakana",
+      "row": "外來語特殊音",
+      "romaji": "fe",
+      "hiragana": "フェ",
+      "katakana": "フェ",
+      "hiraganaStrokes": 4,
+      "katakanaStrokes": 4,
+      "origin": "フ + 小ェ",
+      "mnemonic": "日本旅遊超常見！カフェ (Cafe)、フェリー (渡輪)。",
+      "pronunciationTip": "日本旅遊超常見！カフェ (Cafe)、フェリー (渡輪)。",
+      "exampleWord": "カフェ (Kafe) - 咖啡館",
+      "hiraganaDirections": [
+        "先寫主片假名",
+        "右下角加上小母音片假名（ァィゥェォ）"
+      ],
+      "katakanaDirections": [
+        "先寫主片假名",
+        "右下角加上小母音片假名（ァィゥェォ）"
+      ],
+      "phoneticMutation": "foreign_katakana (外來語特殊音節)"
+    },
+    {
+      "id": "kana_foreign_fo",
+      "order": 404,
+      "category": "foreign_katakana",
+      "row": "外來語特殊音",
+      "romaji": "fo",
+      "hiragana": "フォ",
+      "katakana": "フォ",
+      "hiraganaStrokes": 4,
+      "katakanaStrokes": 4,
+      "origin": "フ + 小ォ",
+      "mnemonic": "用於拼寫外語 /fo/ 音，如スマートフォン (智慧型手機)。",
+      "pronunciationTip": "用於拼寫外語 /fo/ 音，如スマートフォン (智慧型手機)。",
+      "exampleWord": "フォーク (Fooku) - 叉子",
+      "hiraganaDirections": [
+        "先寫主片假名",
+        "右下角加上小母音片假名（ァィゥェォ）"
+      ],
+      "katakanaDirections": [
+        "先寫主片假名",
+        "右下角加上小母音片假名（ァィゥェォ）"
+      ],
+      "phoneticMutation": "foreign_katakana (外來語特殊音節)"
+    },
+    {
+      "id": "kana_foreign_ti",
+      "order": 405,
+      "category": "foreign_katakana",
+      "row": "外來語特殊音",
+      "romaji": "ti",
+      "hiragana": "ティ",
+      "katakana": "ティ",
+      "hiraganaStrokes": 5,
+      "katakanaStrokes": 5,
+      "origin": "テ + 小ィ",
+      "mnemonic": "傳統日語只有「チ(chi)」，外來語用「ティ」表示真正的 /ti/（如ミルクティー 奶茶）。",
+      "pronunciationTip": "傳統日語只有「チ(chi)」，外來語用「ティ」表示真正的 /ti/（如ミルクティー 奶茶）。",
+      "exampleWord": "パーティー (Paatii) - 派對",
+      "hiraganaDirections": [
+        "先寫主片假名",
+        "右下角加上小母音片假名（ァィゥェォ）"
+      ],
+      "katakanaDirections": [
+        "先寫主片假名",
+        "右下角加上小母音片假名（ァィゥェォ）"
+      ],
+      "phoneticMutation": "foreign_katakana (外來語特殊音節)"
+    },
+    {
+      "id": "kana_foreign_di",
+      "order": 406,
+      "category": "foreign_katakana",
+      "row": "外來語特殊音",
+      "romaji": "di",
+      "hiragana": "ディ",
+      "katakana": "ディ",
+      "hiraganaStrokes": 7,
+      "katakanaStrokes": 7,
+      "origin": "デ + 小ィ",
+      "mnemonic": "用於表示外語 /di/ 音（如ディナー 晚餐）。",
+      "pronunciationTip": "用於表示外語 /di/ 音（如ディナー 晚餐）。",
+      "exampleWord": "ディズニー (Dizunii) - 迪士尼",
+      "hiraganaDirections": [
+        "先寫主片假名",
+        "右下角加上小母音片假名（ァィゥェォ）"
+      ],
+      "katakanaDirections": [
+        "先寫主片假名",
+        "右下角加上小母音片假名（ァィゥェォ）"
+      ],
+      "phoneticMutation": "foreign_katakana (外來語特殊音節)"
+    },
+    {
+      "id": "kana_foreign_che",
+      "order": 407,
+      "category": "foreign_katakana",
+      "row": "外來語特殊音",
+      "romaji": "che",
+      "hiragana": "チェ",
+      "katakana": "チェ",
+      "hiraganaStrokes": 6,
+      "katakanaStrokes": 6,
+      "origin": "チ + 小ェ",
+      "mnemonic": "酒店旅遊必備詞：チェックイン (Check-in)、チェックアウト (Check-out)。",
+      "pronunciationTip": "酒店旅遊必備詞：チェックイン (Check-in)、チェックアウト (Check-out)。",
+      "exampleWord": "チェックイン (Chekku-in) - 辦理入住",
+      "hiraganaDirections": [
+        "先寫主片假名",
+        "右下角加上小母音片假名（ァィゥェォ）"
+      ],
+      "katakanaDirections": [
+        "先寫主片假名",
+        "右下角加上小母音片假名（ァィゥェォ）"
+      ],
+      "phoneticMutation": "foreign_katakana (外來語特殊音節)"
+    },
+    {
+      "id": "kana_foreign_she",
+      "order": 408,
+      "category": "foreign_katakana",
+      "row": "外來語特殊音",
+      "romaji": "she",
+      "hiragana": "シェ",
+      "katakana": "シェ",
+      "hiraganaStrokes": 6,
+      "katakanaStrokes": 6,
+      "origin": "シ + 小ェ",
+      "mnemonic": "用於表示外語 /ʃe/ 音（如シェフ 主廚）。",
+      "pronunciationTip": "用於表示外語 /ʃe/ 音（如シェフ 主廚）。",
+      "exampleWord": "シェア (Shea) - 分享",
+      "hiraganaDirections": [
+        "先寫主片假名",
+        "右下角加上小母音片假名（ァィゥェォ）"
+      ],
+      "katakanaDirections": [
+        "先寫主片假名",
+        "右下角加上小母音片假名（ァィゥェォ）"
+      ],
+      "phoneticMutation": "foreign_katakana (外來語特殊音節)"
+    },
+    {
+      "id": "kana_foreign_je",
+      "order": 409,
+      "category": "foreign_katakana",
+      "row": "外來語特殊音",
+      "romaji": "je",
+      "hiragana": "ジェ",
+      "katakana": "ジェ",
+      "hiraganaStrokes": 8,
+      "katakanaStrokes": 8,
+      "origin": "ジ + 小ェ",
+      "mnemonic": "用於表示外語 /dʒe/ 音（如プロジェクト 專案）。",
+      "pronunciationTip": "用於表示外語 /dʒe/ 音（如プロジェクト 專案）。",
+      "exampleWord": "ジェット (Jetto) - 噴射機",
+      "hiraganaDirections": [
+        "先寫主片假名",
+        "右下角加上小母音片假名（ァィゥェォ）"
+      ],
+      "katakanaDirections": [
+        "先寫主片假名",
+        "右下角加上小母音片假名（ァィゥェォ）"
+      ],
+      "phoneticMutation": "foreign_katakana (外來語特殊音節)"
+    },
+    {
+      "id": "kana_foreign_wi",
+      "order": 410,
+      "category": "foreign_katakana",
+      "row": "外來語特殊音",
+      "romaji": "wi",
+      "hiragana": "ウィ",
+      "katakana": "ウィ",
+      "hiraganaStrokes": 5,
+      "katakanaStrokes": 5,
+      "origin": "ウ + 小ィ",
+      "mnemonic": "用於外語 /wi/ 音（如サンドウィッチ 三明治）。",
+      "pronunciationTip": "用於外語 /wi/ 音（如サンドウィッチ 三明治）。",
+      "exampleWord": "ウィンドウ (Windou) - 窗戶／櫥窗",
+      "hiraganaDirections": [
+        "先寫主片假名",
+        "右下角加上小母音片假名（ァィゥェォ）"
+      ],
+      "katakanaDirections": [
+        "先寫主片假名",
+        "右下角加上小母音片假名（ァィゥェォ）"
+      ],
+      "phoneticMutation": "foreign_katakana (外來語特殊音節)"
+    },
+    {
+      "id": "kana_foreign_we",
+      "order": 411,
+      "category": "foreign_katakana",
+      "row": "外來語特殊音",
+      "romaji": "we",
+      "hiragana": "ウェ",
+      "katakana": "ウェ",
+      "hiraganaStrokes": 6,
+      "katakanaStrokes": 6,
+      "origin": "ウ + 小ェ",
+      "mnemonic": "用於外語 /we/ 音。",
+      "pronunciationTip": "用於外語 /we/ 音。",
+      "exampleWord": "ウェブサイト (Webusaito) - 網站",
+      "hiraganaDirections": [
+        "先寫主片假名",
+        "右下角加上小母音片假名（ァィゥェォ）"
+      ],
+      "katakanaDirections": [
+        "先寫主片假名",
+        "右下角加上小母音片假名（ァィゥェォ）"
+      ],
+      "phoneticMutation": "foreign_katakana (外來語特殊音節)"
+    },
+    {
+      "id": "kana_foreign_wo_ext",
+      "order": 412,
+      "category": "foreign_katakana",
+      "row": "外來語特殊音",
+      "romaji": "wo",
+      "hiragana": "ウォ",
+      "katakana": "ウォ",
+      "hiraganaStrokes": 6,
+      "katakanaStrokes": 6,
+      "origin": "ウ + 小ォ",
+      "mnemonic": "用於外語 /wo/ 音（如ミネラルウォーター 礦泉水）。",
+      "pronunciationTip": "用於外語 /wo/ 音（如ミネラルウォーター 礦泉水）。",
+      "exampleWord": "ウォーター (Wootaa) - 水",
+      "hiraganaDirections": [
+        "先寫主片假名",
+        "右下角加上小母音片假名（ァィゥェォ）"
+      ],
+      "katakanaDirections": [
+        "先寫主片假名",
+        "右下角加上小母音片假名（ァィゥェォ）"
+      ],
+      "phoneticMutation": "foreign_katakana (外來語特殊音節)"
+    },
+    {
+      "id": "kana_foreign_va",
+      "order": 413,
+      "category": "foreign_katakana",
+      "row": "外來語特殊音",
+      "romaji": "va",
+      "hiragana": "ヴァ",
+      "katakana": "ヴァ",
+      "hiraganaStrokes": 7,
+      "katakanaStrokes": 7,
+      "origin": "ヴ + 小ァ",
+      "mnemonic": "亦常寫作バ (Ba)。",
+      "pronunciationTip": "亦常寫作バ (Ba)。",
+      "exampleWord": "ヴァイオリン (Vaiorin) - 小提琴",
+      "hiraganaDirections": [
+        "先寫主片假名",
+        "右下角加上小母音片假名（ァィゥェォ）"
+      ],
+      "katakanaDirections": [
+        "先寫主片假名",
+        "右下角加上小母音片假名（ァィゥェォ）"
+      ],
+      "phoneticMutation": "foreign_katakana (外來語特殊音節)"
+    }
+  ],
+  "confusableKana": [
+    {
+      "id": "conf_shi_tsu",
+      "pair": "シ (shi) vs ツ (tsu)",
+      "script": "片假名",
+      "keyDifference": "看點的方向與最後一筆起筆位置！",
+      "explanation": "「シ (shi)」源自平假名「し」，左邊兩點偏水平排列，第三筆由左下往右上提揚（像微微笑臉往上看）；「ツ (tsu)」源自平假名「つ」，上方兩點偏垂直排列，第三筆由右上往左下長撇（像雨水從天空往下落）。",
+      "quizTip": "口訣：シ (shi) 水平由下往上提；ツ (tsu) 垂直由上往下撇。"
+    },
+    {
+      "id": "conf_so_n",
+      "pair": "ソ (so) vs ン (n)",
+      "script": "片假名",
+      "keyDifference": "看第一點的傾斜角度與第二筆的方向！",
+      "explanation": "「ソ (so)」與「ツ」同類：第一點偏直立，第二筆由右上往左下撇；「ン (n)」與「シ」同類：第一點偏水平，第二筆由左下往右上提揚。",
+      "quizTip": "口訣：ン (n) 像單眼眨眼由下往上提；ソ (so) 由上往下撇。"
+    },
+    {
+      "id": "conf_nu_me",
+      "pair": "ぬ (nu) vs め (me)",
+      "script": "平假名",
+      "keyDifference": "看右下角結尾有沒有打小圈！",
+      "explanation": "「ぬ (nu)」源自漢字「奴」，右下角多繞一個小豬尾巴圈；「め (me)」源自漢字「女」，右下角直接順暢收筆不打圈（記憶法：美女 め 臉上沒有疤圈）。",
+      "quizTip": "有圈是 ぬ (nu)，無圈是 め (me)。"
+    },
+    {
+      "id": "conf_ha_ho",
+      "pair": "は (ha) vs ほ (ho)",
+      "script": "平假名",
+      "keyDifference": "看右邊是一橫還是兩橫，且「ほ」頭上不出頭！",
+      "explanation": "「は (ha)」右邊只有一橫；「ほ (ho)」右邊有兩橫（像戴了一頂帽子），且第四筆豎畫從第一橫下方起筆，不可穿出第一橫上方。",
+      "quizTip": "一橫是 は (ha)，兩橫戴帽不出頭是 ほ (ho)。"
+    },
+    {
+      "id": "conf_ru_ro",
+      "pair": "る (ru) vs ろ (ro)",
+      "script": "平假名",
+      "keyDifference": "看底部結尾有沒有打小圈！",
+      "explanation": "「る (ru)」源自「留」，底部多留一個小圈；「ろ (ro)」源自「呂」，像阿拉伯數字 3，底部不打圈。",
+      "quizTip": "留一個圈是 る (ru)，數字 3 無圈是 ろ (ro)。"
+    },
+    {
+      "id": "conf_wa_re_ne",
+      "pair": "わ (wa) vs れ (re) vs ね (ne)",
+      "script": "平假名",
+      "keyDifference": "左邊完全一樣，只看右下角結尾！",
+      "explanation": "三個字左邊都是直豎加橫折：「わ (wa)」右邊圓弧往內收（像大肚子孕婦哇哇叫）；「れ (re)」右下角往外勾起（像行禮抬頭）；「ね (ne)」右下角打一個小結（像貓咪 Neko 的捲尾巴）。",
+      "quizTip": "圓弧內收是 わ (wa)，往外翹勾是 れ (re)，打結捲尾是 ね (ne)。"
+    },
+    {
+      "id": "conf_sa_chi",
+      "pair": "さ (sa) vs ち (chi)",
+      "script": "平假名",
+      "keyDifference": "看開口方向相反！",
+      "explanation": "「さ (sa)」斜豎往右下，下方弧線開口朝左（像反C）；「ち (chi)」斜豎往左下，下方圓弧往右繞（像阿拉伯數字 5）。",
+      "quizTip": "像數字 5 朝右繞的是 ち (chi)；朝左收弧的是 さ (sa)。"
+    }
+  ],
+  "specialPhonetics": [
+    {
+      "id": "rule_sokuon",
+      "title": "促音「っ / ッ」（小 tsu）",
+      "summary": "不發聲但佔一拍音長的停頓音",
+      "explanation": "寫得比一般假名小四分之一（っ / ッ）。遇到促音時，先做好下一個子音的口型並憋住一拍，再爆破發出後面的音。羅馬拼音將後面子音重複寫兩次（如 きっぷ kippu、ざっし zasshi）。",
+      "examples": [
+        {
+          "jp": "きって (Kitte) vs きて (Kite)",
+          "zh": "郵票（有促音停頓） vs 請來（無促音）"
+        },
+        {
+          "jp": "がっこう (Gakkou)",
+          "zh": "學校（k 子音前停頓一拍）"
+        },
+        {
+          "jp": "いっぷん (Ippun)",
+          "zh": "一分鐘（p 子音前雙唇閉合停頓一拍）"
+        }
+      ]
+    },
+    {
+      "id": "rule_chouon",
+      "title": "長音與片假名長音符號「ー」",
+      "summary": "將前一個母音拉長一拍（共兩拍）",
+      "explanation": "日語長短音會改變詞義！平假名長音規則：あ段+あ、い段+い、う段+う、え段+い（少數+え，如おねえさん）、お段+う（少數+お，如おおきい）。片假名則一律使用長音符號「ー」（橫寫時為橫線，直寫時為直線）。",
+      "examples": [
+        {
+          "jp": "おばさん (Obasan) vs おばあさん (Obaasan)",
+          "zh": "阿姨（短音） vs 奶奶／老奶奶（長音）"
+        },
+        {
+          "jp": "おじさん (Ojisan) vs おじいさん (Ojiisan)",
+          "zh": "叔叔（短音） vs 爺爺／老爺爺（長音）"
+        },
+        {
+          "jp": "コーヒー (Koohii)",
+          "zh": "咖啡（片假名使用「ー」拉長母音）"
+        }
+      ]
+    }
+  ],
+  "numbersCategories": [
+    {
+      "id": "num_basic_0_10",
+      "title": "1. 基本數字 0 至 10（含特殊雙讀音）",
+      "description": "日語數字的根基。請特別注意 4、7、9 有兩種讀法：搭配量詞、時間、月份時會根據習慣切換。",
+      "items": [
+        {
+          "num": "0",
+          "kanji": "零 / 〇",
+          "hiragana": "ゼロ / れい",
+          "romaji": "zero / rei",
+          "irregular": false,
+          "note": "日常口語、電話號碼最常用外來語「ゼロ (zero)」；正式播報或氣象常用「れい (rei)」。",
+          "exampleJp": "電話番号はゼロから始まります。",
+          "exampleZh": "電話號碼從 0 開始。"
+        },
+        {
+          "num": "1",
+          "kanji": "一",
+          "hiragana": "いち",
+          "romaji": "ichi",
+          "irregular": false,
+          "note": "遇到 k, s, t, h 行開頭的量詞時，常促音化變為「いっ (i-)」（如 1杯 いっぱい）。",
+          "exampleJp": "一番（いちばん）いい席。",
+          "exampleZh": "最好（第一號）的座位。"
+        },
+        {
+          "num": "2",
+          "kanji": "二",
+          "hiragana": "に",
+          "romaji": "ni",
+          "irregular": false,
+          "note": "讀音穩定，幾乎不發生音變（唯獨 2人 讀作 ふたり）。",
+          "exampleJp": "二番線（にばんせん）の電車。",
+          "exampleZh": "2號月台的電車。"
+        },
+        {
+          "num": "3",
+          "kanji": "三",
+          "hiragana": "さん",
+          "romaji": "san",
+          "irregular": false,
+          "note": "結尾有撥音「ん」，後面量詞常連濁變為 b / p / d / z 音（如 300 さんびゃく）。",
+          "exampleJp": "三時（さんじ）に会いましょう。",
+          "exampleZh": "我們三點見面吧。"
+        },
+        {
+          "num": "4",
+          "kanji": "四",
+          "hiragana": "よん / し",
+          "romaji": "yon / shi",
+          "irregular": true,
+          "note": "【重要不規則】因「し (shi)」與「死」同音，計數、年齡、電話、金額多用「よん (yon)」；但 4月 (しがつ) 固定用「し」，4點鐘固定讀「よじ (yoji)」。",
+          "exampleJp": "四月（しがつ）に四（よ）つ買いました。",
+          "exampleZh": "在四月買了四個。"
+        },
+        {
+          "num": "5",
+          "kanji": "五",
+          "hiragana": "ご",
+          "romaji": "go",
+          "irregular": false,
+          "note": "讀音穩定無音變。",
+          "exampleJp": "五百円（ごひゃくえん）です。",
+          "exampleZh": "是五百日圓。"
+        },
+        {
+          "num": "6",
+          "kanji": "六",
+          "hiragana": "ろく",
+          "romaji": "roku",
+          "irregular": false,
+          "note": "遇到 k, h 行量詞常發生促音＋半濁音變化（如 600 ろっぴゃく、6本 ろっぽん）。",
+          "exampleJp": "六階（ろっかい）にあります。",
+          "exampleZh": "位於六樓。"
+        },
+        {
+          "num": "7",
+          "kanji": "七",
+          "hiragana": "なな / しち",
+          "romaji": "nana / shichi",
+          "irregular": true,
+          "note": "【重要不規則】「しち (shichi)」在口語與電話中易與「いち (1)」混淆，因此報數、金額、樓層多用「なな (nana)」；但 7月 (しちがつ)、7點 (しちじ) 固定用「しち」。",
+          "exampleJp": "七月（しちがつ）七日（なのか）。",
+          "exampleZh": "七月七日。"
+        },
+        {
+          "num": "8",
+          "kanji": "八",
+          "hiragana": "はち",
+          "romaji": "hachi",
+          "irregular": false,
+          "note": "遇到 k, s, t, h 行量詞常促音化變為「はっ (ha-)」（如 800 はっぴゃく、8000 はっせん）。",
+          "exampleJp": "八時（はちじ）に出発します。",
+          "exampleZh": "八點出發。"
+        },
+        {
+          "num": "9",
+          "kanji": "九",
+          "hiragana": "きゅう / く",
+          "romaji": "kyuu / ku",
+          "irregular": true,
+          "note": "【重要不規則】因「く (ku)」與「苦」同音，一般計數、金額一律用「きゅう (kyuu)」；但 9月 (くがつ)、9點鐘 (くじ) 固定讀作「く (ku)」。",
+          "exampleJp": "九月（くがつ）は九（きゅう）日間休みました。",
+          "exampleZh": "九月休息了九天。"
+        },
+        {
+          "num": "10",
+          "kanji": "十",
+          "hiragana": "じゅう",
+          "romaji": "juu",
+          "irregular": false,
+          "note": "搭配量詞時常促音化為「じゅっ (jup-)」或「じっ (jip-)」（如 10分 じゅっぷん）。",
+          "exampleJp": "十（じゅう）まで数えてください。",
+          "exampleZh": "請數到十。"
+        }
+      ]
+    },
+    {
+      "id": "num_11_99",
+      "title": "2. 11 至 99 的組合規則",
+      "description": "日語 11–99 與中文邏輯完全一致：「十幾」就是「じゅう + 個位數」，「幾十」就是「個位數 + じゅう」。",
+      "items": [
+        {
+          "num": "11",
+          "kanji": "十一",
+          "hiragana": "じゅういち",
+          "romaji": "juuichi",
+          "irregular": false,
+          "note": "10 (じゅう) + 1 (いち)。",
+          "exampleJp": "十一月（じゅういちがつ）は秋です。",
+          "exampleZh": "十一月是秋天。"
+        },
+        {
+          "num": "14",
+          "kanji": "十四",
+          "hiragana": "じゅうよん / じゅうし",
+          "romaji": "juuyon / juushi",
+          "irregular": true,
+          "note": "一般計數用「じゅうよん」；14日讀作「じゅうよっか (juuyokka)」。",
+          "exampleJp": "十四番（じゅうよんばん）のバス。",
+          "exampleZh": "14號公車。"
+        },
+        {
+          "num": "17",
+          "kanji": "十七",
+          "hiragana": "じゅうなな / じゅうしち",
+          "romaji": "juunana / juushichi",
+          "irregular": true,
+          "note": "日常計數與金額優先讀「じゅうなな」。",
+          "exampleJp": "十七歳（じゅうななさい）です。",
+          "exampleZh": "十七歲。"
+        },
+        {
+          "num": "19",
+          "kanji": "十九",
+          "hiragana": "じゅうきゅう / じゅうく",
+          "romaji": "juukyuu / juuku",
+          "irregular": true,
+          "note": "日常計數讀「じゅうきゅう」；19日讀作「じゅうくにち」。",
+          "exampleJp": "十九ページを開いてください。",
+          "exampleZh": "請翻開第19頁。"
+        },
+        {
+          "num": "20",
+          "kanji": "二十",
+          "hiragana": "にじゅう",
+          "romaji": "nijuu",
+          "irregular": false,
+          "note": "2 + 10 = にじゅう。（注意：20歲讀作 はたち，每月20日讀作 はつか）。",
+          "exampleJp": "二十（にじゅう）ドルのシャツ。",
+          "exampleZh": "二十美元的襯衫。"
+        },
+        {
+          "num": "40",
+          "kanji": "四十",
+          "hiragana": "よんじゅう",
+          "romaji": "yonjuu",
+          "irregular": true,
+          "note": "40 一律讀作「よんじゅう」，不可讀作 しじゅう（除非成語「四六時中」等）。",
+          "exampleJp": "四十分（よんじゅっぷん）かかります。",
+          "exampleZh": "需要花四十分鐘。"
+        },
+        {
+          "num": "70",
+          "kanji": "七十",
+          "hiragana": "ななじゅう",
+          "romaji": "nanajuu",
+          "irregular": true,
+          "note": "現代口語優先讀作「ななじゅう」。",
+          "exampleJp": "七十パーセントオフ。",
+          "exampleZh": "打三折（70% OFF）。"
+        },
+        {
+          "num": "90",
+          "kanji": "九十",
+          "hiragana": "きゅうじゅう",
+          "romaji": "kyuujuu",
+          "irregular": true,
+          "note": "90 一律讀作「きゅうじゅう」，不讀 くじゅう。",
+          "exampleJp": "九十点（きゅうじゅってん）を取りました。",
+          "exampleZh": "考了九十分。"
+        }
+      ]
+    },
+    {
+      "id": "num_100_10000_large",
+      "title": "3. 百、千、萬與大數字（重點音變！）",
+      "description": "百（ひゃく）與千（せん）在 3、6、8 時會發生促音、濁音與半濁音變化，是初學者與 JLPT N5 必考重點！",
+      "items": [
+        {
+          "num": "100",
+          "kanji": "百",
+          "hiragana": "ひゃく",
+          "romaji": "hyaku",
+          "irregular": false,
+          "note": "100 直接讀作「ひゃく」，不說「いちひゃく」。",
+          "exampleJp": "百円（ひゃくえん）ショップ。",
+          "exampleZh": "百圓商店。"
+        },
+        {
+          "num": "300",
+          "kanji": "三百",
+          "hiragana": "さんびゃく",
+          "romaji": "sanbyaku",
+          "irregular": true,
+          "note": "【必考連濁】受「ん」影響，ひゃく 濁音化為「びゃく (byaku)」。",
+          "exampleJp": "三百円（さんびゃくえん）のお釣りです。",
+          "exampleZh": "找您三百日圓。"
+        },
+        {
+          "num": "600",
+          "kanji": "六百",
+          "hiragana": "ろっぴゃく",
+          "romaji": "roppyaku",
+          "irregular": true,
+          "note": "【必考促音+半濁音】ろく + ひゃく → ろっぴゃく (roppyaku)。",
+          "exampleJp": "六百グラム（ろっぴゃくぐらむ）。",
+          "exampleZh": "六百公克。"
+        },
+        {
+          "num": "800",
+          "kanji": "八百",
+          "hiragana": "はっぴゃく",
+          "romaji": "happyaku",
+          "irregular": true,
+          "note": "【必考促音+半濁音】はち + ひゃく → はっぴゃく (happyaku)。",
+          "exampleJp": "八百メートル（はっぴゃくめーとる）先。",
+          "exampleZh": "前方八百公尺。"
+        },
+        {
+          "num": "1,000",
+          "kanji": "千",
+          "hiragana": "せん",
+          "romaji": "sen",
+          "irregular": false,
+          "note": "單獨 1,000 讀「せん」；但 11,000 等複合數中需讀「いっせん (issen)」。",
+          "exampleJp": "千円札（せんえんさつ）を両替する。",
+          "exampleZh": "兌換一千日圓紙鈔。"
+        },
+        {
+          "num": "3,000",
+          "kanji": "三千",
+          "hiragana": "さんぜん",
+          "romaji": "sanzen",
+          "irregular": true,
+          "note": "【必考連濁】受「ん」影響，せん 濁音化為「ぜん (zen)」。",
+          "exampleJp": "三千円（さんぜんえん）のコース。",
+          "exampleZh": "三千日圓的套餐。"
+        },
+        {
+          "num": "8,000",
+          "kanji": "八千",
+          "hiragana": "はっせん",
+          "romaji": "hassen",
+          "irregular": true,
+          "note": "【必考促音】はち + せん → はっせん (hassen)。",
+          "exampleJp": "八千円（はっせんえん）になります。",
+          "exampleZh": "總共是八千日圓。"
+        },
+        {
+          "num": "10,000",
+          "kanji": "一万",
+          "hiragana": "いちまん",
+          "romaji": "ichiman",
+          "irregular": true,
+          "note": "【重要差異】100 讀 ひゃく、1000 讀 せん，但 10,000 必須加上「いち」，讀作「いちまん (ichiman)」！",
+          "exampleJp": "一万円（いちまんえん）でお釣りはありますか。",
+          "exampleZh": "付一萬日圓找得開嗎？"
+        },
+        {
+          "num": "100,000,000",
+          "kanji": "一億",
+          "hiragana": "いちおく",
+          "romaji": "ichioku",
+          "irregular": false,
+          "note": "1億同樣必須加「いち」，讀作「いちおく」。日本の人口は約一億二千万人。",
+          "exampleJp": "一億円（いちおくえん）のプロジェクト。",
+          "exampleZh": "一億日圓的專案。"
+        }
+      ]
+    },
+    {
+      "id": "num_money_shopping",
+      "title": "4. 日常金額及購物價格（円 えん）",
+      "description": "日圓單位「円」讀作「えん (en)」（注意不是讀 yen！）。4円讀作「よえん (yoen)」。",
+      "items": [
+        {
+          "num": "¥100",
+          "kanji": "百円",
+          "hiragana": "ひゃくえん",
+          "romaji": "hyakuen",
+          "irregular": false,
+          "note": "「円」發音為 えん (en)，沒有 y 的音。",
+          "exampleJp": "これは百円（ひゃくえん）ですか。",
+          "exampleZh": "這個是一百日圓嗎？"
+        },
+        {
+          "num": "¥550",
+          "kanji": "五百五十円",
+          "hiragana": "ごひゃくごじゅうえん",
+          "romaji": "gohyaku gojuuen",
+          "irregular": false,
+          "note": "500 + 50 + 円。",
+          "exampleJp": "お弁当は五百五十円です。",
+          "exampleZh": "便當是 550 日圓。"
+        },
+        {
+          "num": "¥1,680",
+          "kanji": "千六百八十円",
+          "hiragana": "せんろっぴゃくはちじゅうえん",
+          "romaji": "sen roppyaku hachijuuen",
+          "irregular": true,
+          "note": "注意其中 600 讀作「ろっぴゃく」。",
+          "exampleJp": "税込で千六百八十円になります。",
+          "exampleZh": "含稅一共是 1,680 日圓。"
+        },
+        {
+          "num": "¥3,800",
+          "kanji": "三千八百円",
+          "hiragana": "さんぜんはっぴゃくえん",
+          "romaji": "sanzen happyakuen",
+          "irregular": true,
+          "note": "同時包含 3,000 (さんぜん) 與 800 (はっぴゃく) 兩個音變！",
+          "exampleJp": "お会計は三千八百円です。",
+          "exampleZh": "結帳金額為 3,800 日圓。"
+        },
+        {
+          "num": "¥12,500",
+          "kanji": "一万二千五百円",
+          "hiragana": "いちまんにせんごひゃくえん",
+          "romaji": "ichiman nisen gohyakuen",
+          "irregular": false,
+          "note": "萬位記得讀「いちまん」。",
+          "exampleJp": "一泊一万二千五百円のホテル。",
+          "exampleZh": "一晚 12,500 日圓的酒店。"
+        }
+      ]
+    },
+    {
+      "id": "num_date_month_week",
+      "title": "5. 月份、日期與星期",
+      "description": "月份要注意 4月、7月、9月；日期 1–10日、14日、20日、24日 採用日本固有訓讀，旅遊訂房必背！",
+      "items": [
+        {
+          "num": "4月 / 7月 / 9月",
+          "kanji": "四月・七月・九月",
+          "hiragana": "しがつ・しちがつ・くがつ",
+          "romaji": "shigatsu / shichigatsu / kugatsu",
+          "irregular": true,
+          "note": "【月份三大例外】4月必讀 しがつ、7月必讀 しちがつ、9月必讀 くがつ！",
+          "exampleJp": "四月（しがつ）から九月（くがつ）まで。",
+          "exampleZh": "從四月到九月。"
+        },
+        {
+          "num": "1日〜5日",
+          "kanji": "一日・二日・三日・四日・五日",
+          "hiragana": "ついたち・ふつか・みっか・よっか・いつか",
+          "romaji": "tsuitachi / futsuka / mikka / yokka / itsuka",
+          "irregular": true,
+          "note": "1號讀「ついたち」（若指1天時間則讀 いちにち）；2–5號為特殊訓讀。",
+          "exampleJp": "五月三日（ごがつみっか）にチェックインします。",
+          "exampleZh": "將於五月三日辦理入住。"
+        },
+        {
+          "num": "6日〜10日",
+          "kanji": "六日・七日・八日・九日・十日",
+          "hiragana": "むいか・なのか・ようか・ここのか・とおか",
+          "romaji": "muika / nanoka / youka / kokonoka / tooka",
+          "irregular": true,
+          "note": "注意 6日(むいか) 與 8日(ようか) 不要搞混；7日讀 なのか。",
+          "exampleJp": "八日（ようか）のチケットを予約しました。",
+          "exampleZh": "預約了八號的門票。"
+        },
+        {
+          "num": "14日 / 20日 / 24日",
+          "kanji": "十四日・二十日・二十四日",
+          "hiragana": "じゅうよっか・はつか・にじゅうよっか",
+          "romaji": "juuyokka / hatsuka / nijuuyokka",
+          "irregular": true,
+          "note": "11日後唯一特殊的3個日子：14日、20日(はつか)、24日。",
+          "exampleJp": "二十日（はつか）に帰国します。",
+          "exampleZh": "二十號回國。"
+        },
+        {
+          "num": "星期一〜日",
+          "kanji": "月・火・水・木・金・土・日曜日",
+          "hiragana": "げつ・か・すい・もく・きん・ど・にちようび",
+          "romaji": "getsu / ka / sui / moku / kin / do / nichiyoubi",
+          "irregular": false,
+          "note": "以七曜命名：月(一)、火(二)、水(三)、木(四)、金(五)、土(六)、日(日)。",
+          "exampleJp": "水曜日（すいようび）は定休日です。",
+          "exampleZh": "星期三是公休日。"
+        }
+      ]
+    },
+    {
+      "id": "num_time_age_phone",
+      "title": "6. 時間、分鐘、年齡與電話號碼",
+      "description": "小時（時 じ）注意 4、7、9 點；分鐘（分 ふん/ぷん）有促音變化；年齡 20 歲特殊讀「はたち」。",
+      "items": [
+        {
+          "num": "4時 / 7時 / 9時",
+          "kanji": "四時・七時・九時",
+          "hiragana": "よじ・しちじ・くじ",
+          "romaji": "yoji / shichiji / kuji",
+          "irregular": true,
+          "note": "【時間三大重點】4點讀「よじ」（不是よんじ也不是しじ）！7點讀 しちじ，9點讀 くじ。",
+          "exampleJp": "午後四時（よじ）に集合してください。",
+          "exampleZh": "請在下午四點集合。"
+        },
+        {
+          "num": "1分 / 3分 / 4分 / 6分 / 8分 / 10分",
+          "kanji": "一分・三分・四分・六分・八分・十分",
+          "hiragana": "いっぷん・さんぷん・よんぷん・ろっぷん・はっぷん・じゅっぷん",
+          "romaji": "ippun / sanpun / yonpun / roppun / happun / juppun",
+          "irregular": true,
+          "note": "1, 3, 4, 6, 8, 10 分鐘尾音變為半濁音「ぷん (pun)」；2, 5, 7, 9 分鐘維持「ふん (fun)」。",
+          "exampleJp": "あと十分（じゅっぷん）で着きます。",
+          "exampleZh": "再過十分鐘就到了。"
+        },
+        {
+          "num": "1歳 / 8歳 / 10歳 / 20歳",
+          "kanji": "一歳・八歳・十歳・二十歳",
+          "hiragana": "いっさい・はっさい・じゅっさい・はたち",
+          "romaji": "issai / hassai / jussai / hatachi",
+          "irregular": true,
+          "note": "1, 8, 10 歲促音化；20歲特殊讀作「はたち (hatachi)」。",
+          "exampleJp": "今年で二十歳（はたち）になりました。",
+          "exampleZh": "今年滿二十歲了。"
+        },
+        {
+          "num": "電話號碼",
+          "kanji": "090-1234-5678",
+          "hiragana": "ゼロきゅうゼロ の いちにさんよん の ごろくななはち",
+          "romaji": "zero-kyuu-zero no ichi-ni-san-yon no go-roku-nana-hachi",
+          "irregular": false,
+          "note": "電話號碼逐字念，連接號「-」讀作「の (no)」！0 讀 ゼロ、4 讀 よん、7 讀 なな、9 讀 きゅう。",
+          "exampleJp": "番号は 03-1234-5678（ゼロさんの…）です。",
+          "exampleZh": "號碼是 03-1234-5678。"
+        }
+      ]
+    }
+  ],
+  "counters": [
+    {
+      "id": "cnt_tsu",
+      "name": "1. 小型／通用物件（つ）",
+      "kanji": "〜つ",
+      "hiragana": "〜つ",
+      "romaji": "-tsu",
+      "meaning": "通用個數（點餐、購物萬用救星）",
+      "appliesTo": "1至9個立體小物品、餐點份數、年紀（小孩）、抽象事物",
+      "phoneticRule": "採用日本固有「訓讀」計數（ひとつ〜とお），沒有規則公式，但1到10背熟後在餐廳點餐、超商買東西暢行無阻！10不加つ（讀とお），11以上改用「個 (こ)」。",
+      "commonMistake": "注意「10個」讀作「とお (too)」，後面不再加「つ」！疑問詞「幾個」讀作「いくつ (ikutsu)」。",
+      "countTable": [
+        {
+          "n": "1",
+          "k": "一つ",
+          "h": "ひとつ",
+          "r": "hitotsu",
+          "irr": true,
+          "mutationType": "wago_kunyomi"
+        },
+        {
+          "n": "2",
+          "k": "二つ",
+          "h": "ふたつ",
+          "r": "futatsu",
+          "irr": true,
+          "mutationType": "wago_kunyomi"
+        },
+        {
+          "n": "3",
+          "k": "三つ",
+          "h": "みっつ",
+          "r": "mittsu",
+          "irr": true,
+          "mutationType": "wago_kunyomi"
+        },
+        {
+          "n": "4",
+          "k": "四つ",
+          "h": "よっつ",
+          "r": "yottsu",
+          "irr": true,
+          "mutationType": "wago_kunyomi"
+        },
+        {
+          "n": "5",
+          "k": "五つ",
+          "h": "いつつ",
+          "r": "itsutsu",
+          "irr": true,
+          "mutationType": "wago_kunyomi"
+        },
+        {
+          "n": "6",
+          "k": "六つ",
+          "h": "むっつ",
+          "r": "muttsu",
+          "irr": true,
+          "mutationType": "wago_kunyomi"
+        },
+        {
+          "n": "7",
+          "k": "七つ",
+          "h": "ななつ",
+          "r": "nanatsu",
+          "irr": true,
+          "mutationType": "wago_kunyomi"
+        },
+        {
+          "n": "8",
+          "k": "八つ",
+          "h": "やっつ",
+          "r": "yattsu",
+          "irr": true,
+          "mutationType": "wago_kunyomi"
+        },
+        {
+          "n": "9",
+          "k": "九つ",
+          "h": "ここのつ",
+          "r": "kokonotsu",
+          "irr": true,
+          "mutationType": "wago_kunyomi"
+        },
+        {
+          "n": "10",
+          "k": "十",
+          "h": "とお",
+          "r": "too",
+          "irr": true,
+          "mutationType": "wago_kunyomi"
+        },
+        {
+          "n": "?",
+          "k": "幾つ",
+          "h": "いくつ",
+          "r": "ikutsu",
+          "irr": true,
+          "mutationType": "wago_kunyomi"
+        }
+      ],
+      "scenario": "在居酒屋或餐廳點餐",
+      "exampleJp": "すみません、焼き鳥を三つと、唐揚げを二つお願いします。",
+      "exampleHira": "すみません、やきとりを みっつ と、からあげを ふたつ おねがいします。",
+      "exampleRomaji": "Sumimasen, yakitori o mittsu to, karaage o futatsu onegaishimasu.",
+      "exampleZh": "不好意思，請給我三份烤雞肉串和兩份炸雞。"
+    },
+    {
+      "id": "cnt_ko",
+      "name": "2. 一般立體物件／案件（個・件）",
+      "kanji": "〜個 / 〜件",
+      "hiragana": "〜こ / 〜けん",
+      "romaji": "-ko / -ken",
+      "meaning": "個（小型立體物）／ 件（預約、案件）",
+      "appliesTo": "水果、雞蛋、蛋糕、包裹、印章、空容器（個）；預約、事件（件）",
+      "phoneticRule": "「個 (こ)」屬 k 行開頭：遇到 1、6、8、10 時發生促音變化（いっこ、ろっこ、はっこ、じゅっこ）。「件 (けん)」在 3件 時連濁為「さんげん/さんけん」。",
+      "commonMistake": "1個讀「いっこ (ikko)」，千萬不要讀成 いちこ；6個讀「ろっこ (rokko)」。",
+      "countTable": [
+        {
+          "n": "1",
+          "k": "一個",
+          "h": "いっこ",
+          "r": "ikko",
+          "irr": true,
+          "mutationType": "sokuon"
+        },
+        {
+          "n": "2",
+          "k": "二個",
+          "h": "にこ",
+          "r": "niko",
+          "irr": false,
+          "mutationType": "regular"
+        },
+        {
+          "n": "3",
+          "k": "三個",
+          "h": "さんこ",
+          "r": "sanko",
+          "irr": false,
+          "mutationType": "regular"
+        },
+        {
+          "n": "4",
+          "k": "四個",
+          "h": "よんこ",
+          "r": "yonko",
+          "irr": false,
+          "mutationType": "regular"
+        },
+        {
+          "n": "5",
+          "k": "五個",
+          "h": "ごこ",
+          "r": "goko",
+          "irr": false,
+          "mutationType": "regular"
+        },
+        {
+          "n": "6",
+          "k": "六個",
+          "h": "ろっこ",
+          "r": "rokko",
+          "irr": true,
+          "mutationType": "sokuon"
+        },
+        {
+          "n": "7",
+          "k": "七個",
+          "h": "ななこ",
+          "r": "nanako",
+          "irr": false,
+          "mutationType": "regular"
+        },
+        {
+          "n": "8",
+          "k": "八個",
+          "h": "はっこ",
+          "r": "hakko",
+          "irr": true,
+          "mutationType": "sokuon"
+        },
+        {
+          "n": "9",
+          "k": "九個",
+          "h": "きゅうこ",
+          "r": "kyuuko",
+          "irr": false,
+          "mutationType": "regular"
+        },
+        {
+          "n": "10",
+          "k": "十個",
+          "h": "じゅっこ",
+          "r": "jukko",
+          "irr": true,
+          "mutationType": "sokuon"
+        },
+        {
+          "n": "?",
+          "k": "何個",
+          "h": "なんこ",
+          "r": "nanko",
+          "irr": false,
+          "mutationType": "regular"
+        }
+      ],
+      "scenario": "在伴手禮店買蘋果與糕點",
+      "exampleJp": "りんごを六個（ろっこ）と、プリンを一個（いっこ）ください。",
+      "exampleHira": "りんごを ろっこ と、ぷりんを いっこ ください。",
+      "exampleRomaji": "Ringo o rokko to, purin o ikko kudasai.",
+      "exampleZh": "請給我六顆蘋果和一個布丁。"
+    },
+    {
+      "id": "cnt_nin",
+      "name": "3. 人數（人 にん）",
+      "kanji": "〜人",
+      "hiragana": "〜にん",
+      "romaji": "-nin",
+      "meaning": "位、個人（餐廳候位、飯店入住必備）",
+      "appliesTo": "計算人數（學生、客人、旅客）",
+      "phoneticRule": "【最重要規則】1人讀「ひとり (hitori)」、2人讀「ふたり (futari)」（採用固有訓讀）！3人以上才改用音讀「〜にん」。另外 4人 讀作「よにん (yonin)」（少一個ん）！",
+      "commonMistake": "絕對不能把 1人 說成 いちにん、2人 說成 ににん、4人 說成 よんにん！",
+      "countTable": [
+        {
+          "n": "1",
+          "k": "一人",
+          "h": "ひとり",
+          "r": "hitori",
+          "irr": true,
+          "mutationType": "wago_kunyomi"
+        },
+        {
+          "n": "2",
+          "k": "二人",
+          "h": "ふたり",
+          "r": "futari",
+          "irr": true,
+          "mutationType": "wago_kunyomi"
+        },
+        {
+          "n": "3",
+          "k": "三人",
+          "h": "さんにん",
+          "r": "sannin",
+          "irr": false,
+          "mutationType": "regular"
+        },
+        {
+          "n": "4",
+          "k": "四人",
+          "h": "よにん",
+          "r": "yonin",
+          "irr": true,
+          "mutationType": "phonetic_elision"
+        },
+        {
+          "n": "5",
+          "k": "五人",
+          "h": "ごにん",
+          "r": "gonin",
+          "irr": false,
+          "mutationType": "regular"
+        },
+        {
+          "n": "6",
+          "k": "六人",
+          "h": "ろくにん",
+          "r": "rokunin",
+          "irr": false,
+          "mutationType": "regular"
+        },
+        {
+          "n": "7",
+          "k": "七人",
+          "h": "ななにん / しちにん",
+          "r": "nananin / shichinin",
+          "irr": false,
+          "mutationType": "regular"
+        },
+        {
+          "n": "8",
+          "k": "八人",
+          "h": "はちにん",
+          "r": "hachinin",
+          "irr": false,
+          "mutationType": "regular"
+        },
+        {
+          "n": "9",
+          "k": "九人",
+          "h": "きゅうにん",
+          "r": "kyuunin",
+          "irr": false,
+          "mutationType": "regular"
+        },
+        {
+          "n": "10",
+          "k": "十人",
+          "h": "じゅうにん",
+          "r": "juunin",
+          "irr": false,
+          "mutationType": "regular"
+        },
+        {
+          "n": "?",
+          "k": "何人",
+          "h": "なんにん",
+          "r": "nannin",
+          "irr": false,
+          "mutationType": "regular"
+        }
+      ],
+      "scenario": "進入日本餐廳時店員詢問幾位",
+      "exampleJp": "店員：「何名様（なんめいさま）ですか。」客：「二人（ふたり）です。」",
+      "exampleHira": "てんいん：「なんめいさまですか。」きゃく：「ふたりです。」",
+      "exampleRomaji": "Ten'in: 'Nanmeisama desu ka.' Kyaku: 'Futari desu.'",
+      "exampleZh": "店員：「請問幾位？」客人：「兩個人。」"
+    },
+    {
+      "id": "cnt_hon",
+      "name": "4. 細長物件（本 ほん）",
+      "kanji": "〜本",
+      "hiragana": "〜ほん / 〜ぼん / 〜ぽん",
+      "romaji": "-hon / -bon / -pon",
+      "meaning": "支、根、瓶、條、班次",
+      "appliesTo": "筆、雨傘、寶特瓶/酒瓶、香蕉、烤肉串、手指、電車班次、電影部數",
+      "phoneticRule": "「は行」量詞標準音變（1, 6, 8, 10 變半濁音 ぽん；3 及疑問詞 何 變濁音 ぼん；2, 4, 5, 7, 9 維持清音 ほん）。",
+      "commonMistake": "寶特瓶裝飲料（水、茶、啤酒瓶）是用「本」計算，不是用「杯」！",
+      "countTable": [
+        {
+          "n": "1",
+          "k": "一本",
+          "h": "いっぽん",
+          "r": "ippon",
+          "irr": true,
+          "mutationType": "sokuon_and_handakuon"
+        },
+        {
+          "n": "2",
+          "k": "二本",
+          "h": "にほん",
+          "r": "nihon",
+          "irr": false,
+          "mutationType": "regular"
+        },
+        {
+          "n": "3",
+          "k": "三本",
+          "h": "さんぼん",
+          "r": "sanbon",
+          "irr": true,
+          "mutationType": "rendaku_dakuon"
+        },
+        {
+          "n": "4",
+          "k": "四本",
+          "h": "よんほん",
+          "r": "yonhon",
+          "irr": false,
+          "mutationType": "regular"
+        },
+        {
+          "n": "5",
+          "k": "五本",
+          "h": "ごほん",
+          "r": "gohon",
+          "irr": false,
+          "mutationType": "regular"
+        },
+        {
+          "n": "6",
+          "k": "六本",
+          "h": "ろっぽん",
+          "r": "roppon",
+          "irr": true,
+          "mutationType": "sokuon_and_handakuon"
+        },
+        {
+          "n": "7",
+          "k": "七本",
+          "h": "ななほん",
+          "r": "nanahon",
+          "irr": false,
+          "mutationType": "regular"
+        },
+        {
+          "n": "8",
+          "k": "八本",
+          "h": "はっぽん",
+          "r": "happon",
+          "irr": true,
+          "mutationType": "sokuon_and_handakuon"
+        },
+        {
+          "n": "9",
+          "k": "九本",
+          "h": "きゅうほん",
+          "r": "kyuuhon",
+          "irr": false,
+          "mutationType": "regular"
+        },
+        {
+          "n": "10",
+          "k": "十本",
+          "h": "じゅっぽん",
+          "r": "juppon",
+          "irr": true,
+          "mutationType": "sokuon_and_handakuon"
+        },
+        {
+          "n": "?",
+          "k": "何本",
+          "h": "なんぼん",
+          "r": "nanbon",
+          "irr": true,
+          "mutationType": "rendaku_dakuon"
+        }
+      ],
+      "scenario": "在便利商店購買瓶裝綠茶與雨傘",
+      "exampleJp": "お茶を二本（にほん）と、傘を一本（いっぽん）買いました。",
+      "exampleHira": "おちゃを にほん と、かさを いっぽん かいました。",
+      "exampleRomaji": "Ocha o nihon to, kasa o ippon kaimashita.",
+      "exampleZh": "買了兩瓶茶和一把雨傘。"
+    },
+    {
+      "id": "cnt_mai",
+      "name": "5. 薄片及平面物件（枚 まい）",
+      "kanji": "〜枚",
+      "hiragana": "〜まい",
+      "romaji": "-mai",
+      "meaning": "張、片、件（薄型衣物）",
+      "appliesTo": "車票、門票、紙張、照片、盤子、披薩、吐司、襯衫/T恤/毛巾",
+      "phoneticRule": "「ま行」開頭完全不發生音變！直接把數字 1–10 加上「まい」即可，最友善的量詞。",
+      "commonMistake": "注意襯衫、T恤等薄衣物在日語是用「枚 (まい)」計算，外套或西裝才用「着 (ちゃく)」。",
+      "countTable": [
+        {
+          "n": "1",
+          "k": "一枚",
+          "h": "いちまい",
+          "r": "ichimai",
+          "irr": false,
+          "mutationType": "regular"
+        },
+        {
+          "n": "2",
+          "k": "二枚",
+          "h": "にまい",
+          "r": "nimai",
+          "irr": false,
+          "mutationType": "regular"
+        },
+        {
+          "n": "3",
+          "k": "三枚",
+          "h": "さんまい",
+          "r": "sanmai",
+          "irr": false,
+          "mutationType": "regular"
+        },
+        {
+          "n": "4",
+          "k": "四枚",
+          "h": "よんまい",
+          "r": "yonmai",
+          "irr": false,
+          "mutationType": "regular"
+        },
+        {
+          "n": "5",
+          "k": "五枚",
+          "h": "ごまい",
+          "r": "gomai",
+          "irr": false,
+          "mutationType": "regular"
+        },
+        {
+          "n": "6",
+          "k": "六枚",
+          "h": "ろくまい",
+          "r": "rokumai",
+          "irr": false,
+          "mutationType": "regular"
+        },
+        {
+          "n": "7",
+          "k": "七枚",
+          "h": "ななまい",
+          "r": "nanamai",
+          "irr": false,
+          "mutationType": "regular"
+        },
+        {
+          "n": "8",
+          "k": "八枚",
+          "h": "はちまい",
+          "r": "hachimai",
+          "irr": false,
+          "mutationType": "regular"
+        },
+        {
+          "n": "9",
+          "k": "九枚",
+          "h": "きゅうまい",
+          "r": "kyuumai",
+          "irr": false,
+          "mutationType": "regular"
+        },
+        {
+          "n": "10",
+          "k": "十枚",
+          "h": "じゅうまい",
+          "r": "juumai",
+          "irr": false,
+          "mutationType": "regular"
+        },
+        {
+          "n": "?",
+          "k": "何枚",
+          "h": "なんまい",
+          "r": "nanmai",
+          "irr": false,
+          "mutationType": "regular"
+        }
+      ],
+      "scenario": "在車站售票處購買車票",
+      "exampleJp": "京都までの切符（きっぷ）を三枚（さんまい）ください。",
+      "exampleHira": "きょうとまでの きっぷを さんまい ください。",
+      "exampleRomaji": "Kyouto made no kippu o sanmai kudasai.",
+      "exampleZh": "請給我三張到京都的車票。"
+    },
+    {
+      "id": "cnt_satsu",
+      "name": "6. 書籍與本子（冊 さつ）",
+      "kanji": "〜冊",
+      "hiragana": "〜さつ",
+      "romaji": "-satsu",
+      "meaning": "本、冊（裝訂成冊的書刊）",
+      "appliesTo": "書籍、雜誌、漫畫、筆記本、護照、字典",
+      "phoneticRule": "「さ行」開頭：遇到 1、8、10 時發生促音變化（いっさつ、はっさつ、じゅっさつ）。注意 6冊 不變，讀作「ろくさつ」。",
+      "commonMistake": "6冊 讀作「ろくさつ (rokusatsu)」，不要誤加促音！",
+      "countTable": [
+        {
+          "n": "1",
+          "k": "一冊",
+          "h": "いっさつ",
+          "r": "issatsu",
+          "irr": true,
+          "mutationType": "sokuon"
+        },
+        {
+          "n": "2",
+          "k": "二冊",
+          "h": "にさつ",
+          "r": "nisatsu",
+          "irr": false,
+          "mutationType": "regular"
+        },
+        {
+          "n": "3",
+          "k": "三冊",
+          "h": "さんさつ",
+          "r": "sansatsu",
+          "irr": false,
+          "mutationType": "regular"
+        },
+        {
+          "n": "4",
+          "k": "四冊",
+          "h": "よんさつ",
+          "r": "yonsatsu",
+          "irr": false,
+          "mutationType": "regular"
+        },
+        {
+          "n": "5",
+          "k": "五冊",
+          "h": "ごさつ",
+          "r": "gosatsu",
+          "irr": false,
+          "mutationType": "regular"
+        },
+        {
+          "n": "6",
+          "k": "六冊",
+          "h": "ろくさつ",
+          "r": "rokusatsu",
+          "irr": false,
+          "mutationType": "regular"
+        },
+        {
+          "n": "7",
+          "k": "七冊",
+          "h": "ななさつ",
+          "r": "nanasatsu",
+          "irr": false,
+          "mutationType": "regular"
+        },
+        {
+          "n": "8",
+          "k": "八冊",
+          "h": "はっさつ",
+          "r": "hassatsu",
+          "irr": true,
+          "mutationType": "sokuon"
+        },
+        {
+          "n": "9",
+          "k": "九冊",
+          "h": "きゅうさつ",
+          "r": "kyuusatsu",
+          "irr": false,
+          "mutationType": "regular"
+        },
+        {
+          "n": "10",
+          "k": "十冊",
+          "h": "じゅっさつ",
+          "r": "jussatsu",
+          "irr": true,
+          "mutationType": "sokuon"
+        },
+        {
+          "n": "?",
+          "k": "何冊",
+          "h": "なんさつ",
+          "r": "nansatsu",
+          "irr": false,
+          "mutationType": "regular"
+        }
+      ],
+      "scenario": "在書店購買旅遊指南與筆記本",
+      "exampleJp": "旅行のガイドブックを一冊（いっさつ）買いました。",
+      "exampleHira": "りょこうの ガイドブックを いっさつ かいました。",
+      "exampleRomaji": "Ryokou no gaidobukku o issatsu kaimashita.",
+      "exampleZh": "買了一本旅遊指南。"
+    },
+    {
+      "id": "cnt_hiki",
+      "name": "7. 動物（匹 ひき・頭 とう・羽 わ）",
+      "kanji": "〜匹（小型）/ 〜頭（大型）",
+      "hiragana": "〜ひき / 〜びき / 〜ぴき",
+      "romaji": "-hiki / -biki / -piki",
+      "meaning": "隻、條（貓狗魚蟲用匹；牛馬象用頭；鳥兔用羽）",
+      "appliesTo": "貓、狗、魚、昆蟲、松鼠等中小型動物用「匹 (ひき)」；比人大的動物（牛、馬、大象、獅子）用「頭 (とう)」；鳥類與兔子用「羽 (わ)」。",
+      "phoneticRule": "「匹 (ひき)」完全遵循「は行」音變規則：1, 6, 8, 10 變半濁音「ぴき (piki)」；3 與 何 變濁音「びき (biki)」。",
+      "commonMistake": "兔子在日語傳統上與鳥類一樣用「羽 (わ)」計算（亦可通俗用匹）。",
+      "countTable": [
+        {
+          "n": "1",
+          "k": "一匹",
+          "h": "いっぴき",
+          "r": "ippiki",
+          "irr": true,
+          "mutationType": "sokuon_and_handakuon"
+        },
+        {
+          "n": "2",
+          "k": "二匹",
+          "h": "にひき",
+          "r": "nihiki",
+          "irr": false,
+          "mutationType": "regular"
+        },
+        {
+          "n": "3",
+          "k": "三匹",
+          "h": "さんびき",
+          "r": "sanbiki",
+          "irr": true,
+          "mutationType": "rendaku_dakuon"
+        },
+        {
+          "n": "4",
+          "k": "四匹",
+          "h": "よんひき",
+          "r": "yonhiki",
+          "irr": false,
+          "mutationType": "regular"
+        },
+        {
+          "n": "5",
+          "k": "五匹",
+          "h": "ごひき",
+          "r": "gohiki",
+          "irr": false,
+          "mutationType": "regular"
+        },
+        {
+          "n": "6",
+          "k": "六匹",
+          "h": "ろっぴき",
+          "r": "roppiki",
+          "irr": true,
+          "mutationType": "sokuon_and_handakuon"
+        },
+        {
+          "n": "7",
+          "k": "七匹",
+          "h": "ななひき",
+          "r": "nanahiki",
+          "irr": false,
+          "mutationType": "regular"
+        },
+        {
+          "n": "8",
+          "k": "八匹",
+          "h": "はっぴき",
+          "r": "happiki",
+          "irr": true,
+          "mutationType": "sokuon_and_handakuon"
+        },
+        {
+          "n": "9",
+          "k": "九匹",
+          "h": "きゅうひき",
+          "r": "kyuuhiki",
+          "irr": false,
+          "mutationType": "regular"
+        },
+        {
+          "n": "10",
+          "k": "十匹",
+          "h": "じゅっぴき",
+          "r": "juppiki",
+          "irr": true,
+          "mutationType": "sokuon_and_handakuon"
+        },
+        {
+          "n": "?",
+          "k": "何匹",
+          "h": "なんびき",
+          "r": "nanbiki",
+          "irr": true,
+          "mutationType": "rendaku_dakuon"
+        }
+      ],
+      "scenario": "聊自己家裡養的寵物",
+      "exampleJp": "家に猫が三匹（さんびき）と、犬が一匹（いっぴき）います。",
+      "exampleHira": "いえに ねこが さんびき と、いぬが いっぴき います。",
+      "exampleRomaji": "Ie ni neko ga sanbiki to, inu ga ippiki imasu.",
+      "exampleZh": "家裡有三隻貓和一隻狗。"
+    },
+    {
+      "id": "cnt_hai",
+      "name": "8. 杯裝飲品與碗裝料理（杯 はい）",
+      "kanji": "〜杯",
+      "hiragana": "〜はい / 〜ばい / 〜ぱい",
+      "romaji": "-hai / -bai / -pai",
+      "meaning": "杯、碗（裝在杯子或碗裡的液體/飯麵）",
+      "appliesTo": "咖啡、生啤酒、茶水、果汁、拉麵、蓋飯、味噌湯（註：烏賊/章魚也用杯）",
+      "phoneticRule": "「は行」音變三兄弟之一（本、匹、杯規則完全相同！）：1, 6, 8, 10 變「ぱい (pai)」；3 與 何 變「ばい (bai)」。",
+      "commonMistake": "點「一杯咖啡」是「いっぱい (ippai)」，也跟「滿滿的／吃飽了（おなかがいっぱい）」同音！",
+      "countTable": [
+        {
+          "n": "1",
+          "k": "一杯",
+          "h": "いっぱい",
+          "r": "ippai",
+          "irr": true,
+          "mutationType": "sokuon_and_handakuon"
+        },
+        {
+          "n": "2",
+          "k": "二杯",
+          "h": "にはい",
+          "r": "nihai",
+          "irr": false,
+          "mutationType": "regular"
+        },
+        {
+          "n": "3",
+          "k": "三杯",
+          "h": "さんばい",
+          "r": "sanbai",
+          "irr": true,
+          "mutationType": "rendaku_dakuon"
+        },
+        {
+          "n": "4",
+          "k": "四杯",
+          "h": "よんはい",
+          "r": "yonhai",
+          "irr": false,
+          "mutationType": "regular"
+        },
+        {
+          "n": "5",
+          "k": "五杯",
+          "h": "ごはい",
+          "r": "gohai",
+          "irr": false,
+          "mutationType": "regular"
+        },
+        {
+          "n": "6",
+          "k": "六杯",
+          "h": "ろっぱい",
+          "r": "roppai",
+          "irr": true,
+          "mutationType": "sokuon_and_handakuon"
+        },
+        {
+          "n": "7",
+          "k": "七杯",
+          "h": "ななはい",
+          "r": "nanahai",
+          "irr": false,
+          "mutationType": "regular"
+        },
+        {
+          "n": "8",
+          "k": "八杯",
+          "h": "はっぱい",
+          "r": "happai",
+          "irr": true,
+          "mutationType": "sokuon_and_handakuon"
+        },
+        {
+          "n": "9",
+          "k": "九杯",
+          "h": "きゅうはい",
+          "r": "kyuuhai",
+          "irr": false,
+          "mutationType": "regular"
+        },
+        {
+          "n": "10",
+          "k": "十杯",
+          "h": "じゅっぱい",
+          "r": "juppai",
+          "irr": true,
+          "mutationType": "sokuon_and_handakuon"
+        },
+        {
+          "n": "?",
+          "k": "何杯",
+          "h": "なんばい",
+          "r": "nanbai",
+          "irr": true,
+          "mutationType": "rendaku_dakuon"
+        }
+      ],
+      "scenario": "在咖啡店點飲品",
+      "exampleJp": "コーヒーを三杯（さんばい）お願いします。",
+      "exampleHira": "コーヒーを さんばい おねがいします。（こーひーを さんばい おねがいします。）",
+      "exampleRomaji": "Koohii o sanbai onegaishimasu.",
+      "exampleZh": "請給我三杯咖啡。"
+    },
+    {
+      "id": "cnt_dai",
+      "name": "9. 車輛、電器及機器（台 だい）",
+      "kanji": "〜台",
+      "hiragana": "〜だい",
+      "romaji": "-dai",
+      "meaning": "台、輛、部",
+      "appliesTo": "汽車、腳踏車、計程車、電腦、手機、相機、電視、洗衣機",
+      "phoneticRule": "濁音「だ行」開頭，1到10完全不發生音變！直接用數字＋だい即可。",
+      "commonMistake": "4台 讀作「よんだい (yondai)」，7台 讀作「ななだい (nanadai)」。",
+      "countTable": [
+        {
+          "n": "1",
+          "k": "一台",
+          "h": "いちだい",
+          "r": "ichidai",
+          "irr": false,
+          "mutationType": "regular"
+        },
+        {
+          "n": "2",
+          "k": "二台",
+          "h": "にだい",
+          "r": "nidai",
+          "irr": false,
+          "mutationType": "regular"
+        },
+        {
+          "n": "3",
+          "k": "三台",
+          "h": "さんだい",
+          "r": "sandai",
+          "irr": false,
+          "mutationType": "regular"
+        },
+        {
+          "n": "4",
+          "k": "四台",
+          "h": "よんだい",
+          "r": "yondai",
+          "irr": false,
+          "mutationType": "regular"
+        },
+        {
+          "n": "5",
+          "k": "五台",
+          "h": "ごだい",
+          "r": "godai",
+          "irr": false,
+          "mutationType": "regular"
+        },
+        {
+          "n": "6",
+          "k": "六台",
+          "h": "ろくだい",
+          "r": "rokudai",
+          "irr": false,
+          "mutationType": "regular"
+        },
+        {
+          "n": "7",
+          "k": "七台",
+          "h": "ななだい",
+          "r": "nanadai",
+          "irr": false,
+          "mutationType": "regular"
+        },
+        {
+          "n": "8",
+          "k": "八台",
+          "h": "はちだい",
+          "r": "hachidai",
+          "irr": false,
+          "mutationType": "regular"
+        },
+        {
+          "n": "9",
+          "k": "九台",
+          "h": "きゅうだい",
+          "r": "kyuudai",
+          "irr": false,
+          "mutationType": "regular"
+        },
+        {
+          "n": "10",
+          "k": "十台",
+          "h": "じゅうだい",
+          "r": "juudai",
+          "irr": false,
+          "mutationType": "regular"
+        },
+        {
+          "n": "?",
+          "k": "何台",
+          "h": "なんだい",
+          "r": "nandai",
+          "irr": false,
+          "mutationType": "regular"
+        }
+      ],
+      "scenario": "請飯店櫃檯幫忙叫兩輛計程車",
+      "exampleJp": "タクシーを二台（にだい）呼んでいただけますか。",
+      "exampleHira": "タクシーを にだい よんでいただけますか。（たくしーを にだい よんでいただけますか。）",
+      "exampleRomaji": "Takushii o nidai yonde itadakemasu ka.",
+      "exampleZh": "可以請您幫忙叫兩輛計程車嗎？"
+    },
+    {
+      "id": "cnt_kai_floor",
+      "name": "10. 建築物樓層（階 かい）",
+      "kanji": "〜階",
+      "hiragana": "〜かい / 〜がい",
+      "romaji": "-kai / -gai",
+      "meaning": "樓、層（百貨公司、飯店電梯必備）",
+      "appliesTo": "建築物樓層（地下樓層為 地下〜階 ちか〜かい）",
+      "phoneticRule": "「か行」開頭：1, 6, 8, 10 促音化（いっかい、ろっかい、はっかい、じゅっかい）；【特別注意】3樓 常連濁讀作「さんがい (sangai)」，請問幾樓讀作「なんがい (nangai)」！",
+      "commonMistake": "注意「3樓」讀作「さんがい (sangai)」，而「3次（三回）」讀作「さんかい (sankai)」不濁音化！",
+      "countTable": [
+        {
+          "n": "1",
+          "k": "一階",
+          "h": "いっかい",
+          "r": "ikkai",
+          "irr": true,
+          "mutationType": "sokuon"
+        },
+        {
+          "n": "2",
+          "k": "二階",
+          "h": "にかい",
+          "r": "nikai",
+          "irr": false,
+          "mutationType": "regular"
+        },
+        {
+          "n": "3",
+          "k": "三階",
+          "h": "さんがい",
+          "r": "sangai",
+          "irr": true,
+          "mutationType": "rendaku_dakuon"
+        },
+        {
+          "n": "4",
+          "k": "四階",
+          "h": "よんかい",
+          "r": "yonkai",
+          "irr": false,
+          "mutationType": "regular"
+        },
+        {
+          "n": "5",
+          "k": "五階",
+          "h": "ごかい",
+          "r": "gokai",
+          "irr": false,
+          "mutationType": "regular"
+        },
+        {
+          "n": "6",
+          "k": "六階",
+          "h": "ろっかい",
+          "r": "rokkai",
+          "irr": true,
+          "mutationType": "sokuon"
+        },
+        {
+          "n": "7",
+          "k": "七階",
+          "h": "ななかい",
+          "r": "nanakai",
+          "irr": false,
+          "mutationType": "regular"
+        },
+        {
+          "n": "8",
+          "k": "八階",
+          "h": "はっかい / はちかい",
+          "r": "hakkai / hachikai",
+          "irr": true,
+          "mutationType": "sokuon"
+        },
+        {
+          "n": "9",
+          "k": "九階",
+          "h": "きゅうかい",
+          "r": "kyuukai",
+          "irr": false,
+          "mutationType": "regular"
+        },
+        {
+          "n": "10",
+          "k": "十階",
+          "h": "じゅっかい",
+          "r": "jukkai",
+          "irr": true,
+          "mutationType": "sokuon"
+        },
+        {
+          "n": "?",
+          "k": "何階",
+          "h": "なんがい",
+          "r": "nangai",
+          "irr": true,
+          "mutationType": "rendaku_dakuon"
+        }
+      ],
+      "scenario": "在百貨公司詢問免稅櫃檯在幾樓",
+      "exampleJp": "免税カウンターは三階（さんがい）にございます。",
+      "exampleHira": "めんぜいカウンターは さんがい にございます。（めんぜいかうんたーは さんがい にございます。）",
+      "exampleRomaji": "Menzei kauntaa wa sangai ni gozaimasu.",
+      "exampleZh": "免稅櫃檯位於三樓。"
+    },
+    {
+      "id": "cnt_sai",
+      "name": "11. 年齡（歳 さい）",
+      "kanji": "〜歳",
+      "hiragana": "〜さい",
+      "romaji": "-sai",
+      "meaning": "歲",
+      "appliesTo": "人或動物的年齡（常用簡體字「才」代寫，但正式作「歳」）",
+      "phoneticRule": "「さ行」開頭：1, 8, 10 促音化（いっさい、はっさい、じゅっさい）。【最大例外】20歲 特殊讀作「はたち (hatachi)」！",
+      "commonMistake": "詢問長輩年齡時用「おいくつですか」比「なんさいですか」更有禮貌。",
+      "countTable": [
+        {
+          "n": "1",
+          "k": "一歳",
+          "h": "いっさい",
+          "r": "issai",
+          "irr": true,
+          "mutationType": "sokuon"
+        },
+        {
+          "n": "2",
+          "k": "二歳",
+          "h": "にさい",
+          "r": "nisai",
+          "irr": false,
+          "mutationType": "regular"
+        },
+        {
+          "n": "3",
+          "k": "三歳",
+          "h": "さんさい",
+          "r": "sansai",
+          "irr": false,
+          "mutationType": "regular"
+        },
+        {
+          "n": "4",
+          "k": "四歳",
+          "h": "よんさい",
+          "r": "yonsai",
+          "irr": false,
+          "mutationType": "regular"
+        },
+        {
+          "n": "5",
+          "k": "五歳",
+          "h": "ごさい",
+          "r": "gosai",
+          "irr": false,
+          "mutationType": "regular"
+        },
+        {
+          "n": "6",
+          "k": "六歳",
+          "h": "ろくさい",
+          "r": "rokusai",
+          "irr": false,
+          "mutationType": "regular"
+        },
+        {
+          "n": "7",
+          "k": "七歳",
+          "h": "ななさい",
+          "r": "nanasai",
+          "irr": false,
+          "mutationType": "regular"
+        },
+        {
+          "n": "8",
+          "k": "八歳",
+          "h": "はっさい",
+          "r": "hassai",
+          "irr": true,
+          "mutationType": "sokuon"
+        },
+        {
+          "n": "9",
+          "k": "九歳",
+          "h": "きゅうさい",
+          "r": "kyuusai",
+          "irr": false,
+          "mutationType": "regular"
+        },
+        {
+          "n": "10",
+          "k": "十歳",
+          "h": "じゅっさい",
+          "r": "jussai",
+          "irr": true,
+          "mutationType": "sokuon"
+        },
+        {
+          "n": "20",
+          "k": "二十歳",
+          "h": "はたち",
+          "r": "hatachi",
+          "irr": true,
+          "mutationType": "wago_kunyomi"
+        }
+      ],
+      "scenario": "購買兒童車票時說明小孩年齡",
+      "exampleJp": "子どもは八歳（はっさい）です。子ども料金になりますか。",
+      "exampleHira": "こどもは はっさい です。こどもりょうきんになりますか。",
+      "exampleRomaji": "Kodomo wa hassai desu. Kodomo ryoukin ni narimasu ka.",
+      "exampleZh": "小孩八歲，請問適用兒童票價嗎？"
+    },
+    {
+      "id": "cnt_kai_times",
+      "name": "12. 次數與頻率（回 かい）",
+      "kanji": "〜回",
+      "hiragana": "〜かい",
+      "romaji": "-kai",
+      "meaning": "次、回（旅遊次數、服藥次數、分期付款）",
+      "appliesTo": "動作發生的次數、比賽回合、信用卡一筆付清（一回払い いっかいばらい）",
+      "phoneticRule": "「か行」開頭：1, 6, 8, 10 促音化（いっかい、ろっかい、はっかい、じゅっかい）。與樓層「階」不同，「回」在 3回 與 何回 絕不濁音化，維持「さんかい」、「なんかい」！",
+      "commonMistake": "日本刷卡時店員必問「お支払いは何回（なんかい）ですか」，回答「一回（いっかい）で」即代表一次付清！",
+      "countTable": [
+        {
+          "n": "1",
+          "k": "一回",
+          "h": "いっかい",
+          "r": "ikkai",
+          "irr": true,
+          "mutationType": "sokuon"
+        },
+        {
+          "n": "2",
+          "k": "二回",
+          "h": "にかい",
+          "r": "nikai",
+          "irr": false,
+          "mutationType": "regular"
+        },
+        {
+          "n": "3",
+          "k": "三回",
+          "h": "さんかい",
+          "r": "sankai",
+          "irr": false,
+          "mutationType": "regular"
+        },
+        {
+          "n": "4",
+          "k": "四回",
+          "h": "よんかい",
+          "r": "yonkai",
+          "irr": false,
+          "mutationType": "regular"
+        },
+        {
+          "n": "5",
+          "k": "五回",
+          "h": "ごかい",
+          "r": "gokai",
+          "irr": false,
+          "mutationType": "regular"
+        },
+        {
+          "n": "6",
+          "k": "六回",
+          "h": "ろっかい",
+          "r": "rokkai",
+          "irr": true,
+          "mutationType": "sokuon"
+        },
+        {
+          "n": "7",
+          "k": "七回",
+          "h": "ななかい",
+          "r": "nanakai",
+          "irr": false,
+          "mutationType": "regular"
+        },
+        {
+          "n": "8",
+          "k": "八回",
+          "h": "はっかい",
+          "r": "hakkai",
+          "irr": true,
+          "mutationType": "sokuon"
+        },
+        {
+          "n": "9",
+          "k": "九回",
+          "h": "きゅうかい",
+          "r": "kyuukai",
+          "irr": false,
+          "mutationType": "regular"
+        },
+        {
+          "n": "10",
+          "k": "十回",
+          "h": "じゅっかい",
+          "r": "jukkai",
+          "irr": true,
+          "mutationType": "sokuon"
+        },
+        {
+          "n": "?",
+          "k": "何回",
+          "h": "なんかい",
+          "r": "nankai",
+          "irr": false,
+          "mutationType": "regular"
+        }
+      ],
+      "scenario": "在藥局聽藥師說明服藥次數，或刷卡一次付清",
+      "exampleJp": "この薬は一日三回（さんかい）、食後に飲んでください。",
+      "exampleHira": "このくすりは いちにち さんかい、しょくごに のんでください。",
+      "exampleRomaji": "Kono kusuri wa ichinichi sankai, shokugo ni nonde kudasai.",
+      "exampleZh": "這個藥請一天三次、飯後服用。"
+    },
+    {
+      "id": "cnt_nichi",
+      "name": "13. 日子與住宿天數（日 にち・日間・泊 はく）",
+      "kanji": "〜日（〜日間）/ 〜泊",
+      "hiragana": "〜か / 〜にち（〜にちかん）/ 〜はく",
+      "romaji": "-ka / -nichi / -haku",
+      "meaning": "號（日期）／ 天（天數）／ 晚（住宿幾晚）",
+      "appliesTo": "日曆日期、旅遊天數（加「間」）、飯店住宿幾晚（泊 はく）",
+      "phoneticRule": "【極重要區別】「1月1號」的1號讀「ついたち (tsuitachi)」，但「1天」讀「いちにち (ichinichi)」！2〜10天則在日期訓讀後加「間 (かん)」（如 ふつかかん 兩天）。飯店住1晚讀「いっぱく (ippaku)」、2晚讀「にはく (nihaku)」。",
+      "commonMistake": "日本飯店常說「二泊三日（にはくみっか）」，即「三天兩夜」（先說幾晚再說幾天）！",
+      "countTable": [
+        {
+          "n": "1號/1天",
+          "k": "一日",
+          "h": "ついたち（1號）/ いちにち（1天）",
+          "r": "tsuitachi / ichinichi",
+          "irr": true,
+          "mutationType": "wago_kunyomi"
+        },
+        {
+          "n": "2",
+          "k": "二日（間）",
+          "h": "ふつか（かん）",
+          "r": "futsuka(kan)",
+          "irr": true,
+          "mutationType": "wago_kunyomi"
+        },
+        {
+          "n": "3",
+          "k": "三日（間）",
+          "h": "みっか（かん）",
+          "r": "mikka(kan)",
+          "irr": true,
+          "mutationType": "wago_kunyomi"
+        },
+        {
+          "n": "4",
+          "k": "四日（間）",
+          "h": "よっか（かん）",
+          "r": "yokka(kan)",
+          "irr": true,
+          "mutationType": "wago_kunyomi"
+        },
+        {
+          "n": "5",
+          "k": "五日（間）",
+          "h": "いつか（かん）",
+          "r": "itsuka(kan)",
+          "irr": true,
+          "mutationType": "wago_kunyomi"
+        },
+        {
+          "n": "6",
+          "k": "六日（間）",
+          "h": "むいか（かん）",
+          "r": "muika(kan)",
+          "irr": true,
+          "mutationType": "wago_kunyomi"
+        },
+        {
+          "n": "7",
+          "k": "七日（間）",
+          "h": "なのか（かん）",
+          "r": "nanoka(kan)",
+          "irr": true,
+          "mutationType": "wago_kunyomi"
+        },
+        {
+          "n": "8",
+          "k": "八日（間）",
+          "h": "ようか（かん）",
+          "r": "youka(kan)",
+          "irr": true,
+          "mutationType": "wago_kunyomi"
+        },
+        {
+          "n": "9",
+          "k": "九日（間）",
+          "h": "ここのか（かん）",
+          "r": "kokonoka(kan)",
+          "irr": true,
+          "mutationType": "wago_kunyomi"
+        },
+        {
+          "n": "10",
+          "k": "十日（間）",
+          "h": "とおか（かん）",
+          "r": "tooka(kan)",
+          "irr": true,
+          "mutationType": "wago_kunyomi"
+        },
+        {
+          "n": "14/20",
+          "k": "十四日 / 二十日",
+          "h": "じゅうよっか / はつか",
+          "r": "juuyokka / hatsuka",
+          "irr": true,
+          "mutationType": "wago_kunyomi"
+        }
+      ],
+      "scenario": "在飯店櫃檯確認住宿天數",
+      "exampleJp": "今日から三泊四日（さんぱくよっか）で予約しています。",
+      "exampleHira": "きょうから さんぱくよっか で よやくしています。",
+      "exampleRomaji": "Kyou kara sanpaku yokka de yoyaku shite imasu.",
+      "exampleZh": "我預約了從今天開始住三晚四天（四天三夜）。"
+    },
+    {
+      "id": "cnt_travel_items",
+      "name": "14. 鞋襪、成套衣物及餐點份數（足・着・人前）",
+      "kanji": "〜足（そく）/ 〜着（ちゃく）/ 〜人前（にんまえ）",
+      "hiragana": "〜そく / 〜ちゃく / 〜にんまえ",
+      "romaji": "-soku / -chaku / -ninmae",
+      "meaning": "雙（鞋襪）／ 件或套（外套西裝）／ 人份（餐點）",
+      "appliesTo": "鞋子、襪子用「足 (そく)」；大衣、西裝、洋裝用「着 (ちゃく)」；餐廳拉麵、燒肉、壽司幾人份用「人前 (にんまえ)」。",
+      "phoneticRule": "「足 (そく)」在 1, 8, 10 促音化（いっそく、はっそく、じゅっそく），在 3足 與 何足 連濁為「さんぞく (sanzoku)」、「なんぞく (nanzoku)」！「人前」即使是 1人份、2人份 也一律用音讀「いちにんまえ (ichininmae)」、「ににんまえ (nininmae)」！",
+      "commonMistake": "注意：點餐說「一人份、兩人份」時讀作「いちにんまえ、ににんまえ」，不可讀成 ひとりまえ！",
+      "countTable": [
+        {
+          "n": "1雙鞋",
+          "k": "一足",
+          "h": "いっそく",
+          "r": "issoku",
+          "irr": true,
+          "mutationType": "sokuon"
+        },
+        {
+          "n": "2雙鞋",
+          "k": "二足",
+          "h": "にそく",
+          "r": "nisoku",
+          "irr": false,
+          "mutationType": "regular"
+        },
+        {
+          "n": "3雙鞋",
+          "k": "三足",
+          "h": "さんぞく",
+          "r": "sanzoku",
+          "irr": true,
+          "mutationType": "rendaku_dakuon"
+        },
+        {
+          "n": "1件外套",
+          "k": "一着",
+          "h": "いっちゃく",
+          "r": "itchaku",
+          "irr": true,
+          "mutationType": "sokuon"
+        },
+        {
+          "n": "2件外套",
+          "k": "二着",
+          "h": "にちゃく",
+          "r": "nichaku",
+          "irr": false,
+          "mutationType": "regular"
+        },
+        {
+          "n": "1人份餐",
+          "k": "一人前",
+          "h": "いちにんまえ",
+          "r": "ichininmae",
+          "irr": true,
+          "mutationType": "phonetic_elision"
+        },
+        {
+          "n": "2人份餐",
+          "k": "二人前",
+          "h": "ににんまえ",
+          "r": "nininmae",
+          "irr": true,
+          "mutationType": "phonetic_elision"
+        },
+        {
+          "n": "3人份餐",
+          "k": "三人前",
+          "h": "さんにんまえ",
+          "r": "sanninmae",
+          "irr": false,
+          "mutationType": "regular"
+        },
+        {
+          "n": "1雙筷子",
+          "k": "一膳",
+          "h": "いちぜん",
+          "r": "ichizen",
+          "irr": false,
+          "mutationType": "regular"
+        },
+        {
+          "n": "1盤壽司",
+          "k": "一皿",
+          "h": "ひとさら",
+          "r": "hitosara",
+          "irr": true,
+          "mutationType": "wago_kunyomi"
+        },
+        {
+          "n": "?雙鞋",
+          "k": "何足",
+          "h": "なんぞく",
+          "r": "nanzoku",
+          "irr": true,
+          "mutationType": "rendaku_dakuon"
+        }
+      ],
+      "scenario": "在服飾店買襪子與在燒肉店點餐",
+      "exampleJp": "靴下（くつした）を三足（さんぞく）と、カルビを二人前（ににんまえ）お願いします。",
+      "exampleHira": "くつしたを さんぞく と、かるびを ににんまえ おねがいします。",
+      "exampleRomaji": "Kutsushita o sanzoku to, karubi o nininmae onegaishimasu.",
+      "exampleZh": "請給我三雙襪子，以及兩人份牛五花肉。"
+    }
+  ],
+  "conversations": [
+    {
+      "id": "conv_01_greetings",
+      "order": 1,
+      "title": "1. 打招呼（早安、午安、晚安、道別）",
+      "category": "基礎社交",
+      "level": "入門 N5",
+      "situation": "在飯店走廊、商店或與日本朋友見面時的全天候問候。",
+      "grammarNote": "日語早安有分禮貌形「おはようございます」與朋友間簡稱「おはよう」；但「こんにちは（午安）」與「こんばんは（晚安）」沒有更簡短的平語變化。注意這兩句尾字的「は」是主題助詞，必須讀作「wa」！",
+      "formalVsInformal": "正式／對店員長輩：おはようございます ／ 失礼（しつれい）します。\n非正式／對熟識朋友：おはよう ／ じゃあね（拜拜）。",
+      "vocab": [
+        {
+          "jp": "朝（あさ）",
+          "romaji": "asa",
+          "zh": "早上"
+        },
+        {
+          "jp": "昼（ひる）",
+          "romaji": "hiru",
+          "zh": "白天／中午"
+        },
+        {
+          "jp": "夜（よる）",
+          "romaji": "yoru",
+          "zh": "晚上"
+        },
+        {
+          "jp": "また明日（またあした）",
+          "romaji": "mata ashita",
+          "zh": "明天見"
+        }
+      ],
+      "lines": [
+        {
+          "id": "c01_l1",
+          "speaker": "A（旅客）",
+          "jp": "おはようございます。いい天気ですね。",
+          "hira": "おはようございます。いいてんきですね。",
+          "romaji": "Ohayou gozaimasu. Ii tenki desu ne.",
+          "zh": "早安。今天天氣真好呢。",
+          "note": "早上約 10:30 前使用；「ですね」表示尋求對方共鳴。"
+        },
+        {
+          "id": "c01_l2",
+          "speaker": "B（飯店人員）",
+          "jp": "おはようございます。いってらっしゃいませ。",
+          "hira": "おはようございます。いってらっしゃいませ。",
+          "romaji": "Ohayou gozaimasu. Itterasshaimase.",
+          "zh": "早安。祝您出門順心（慢走）。",
+          "note": "飯店人員送房客出門時常說「いってらっしゃいませ」。"
+        },
+        {
+          "id": "c01_l3",
+          "speaker": "A（旅客）",
+          "jp": "こんにちは。すみません、ちょっといいですか。",
+          "hira": "こんにちは。すみません、ちょっといいですか。",
+          "romaji": "Konnichiwa. Sumimasen, chotto ii desu ka.",
+          "zh": "你好／午安。不好意思，請問方便打擾一下嗎？",
+          "note": "白天搭話詢問最自然的開場白。"
+        },
+        {
+          "id": "c01_l4",
+          "speaker": "A（旅客）",
+          "jp": "こんばんは。おやすみなさい。",
+          "hira": "こんばんは。おやすみなさい。",
+          "romaji": "Konbanwa. Oyasuminasai.",
+          "zh": "晚上好。晚安（祝好眠）。",
+          "note": "「こんばんは」是晚上見面問候；「おやすみなさい」則是睡前或深夜道別。"
+        }
+      ],
+      "practiceQuestion": {
+        "prompt": "當你在下午兩點走進日本小店，想跟店主親切打招呼時，應該說哪一句？",
+        "options": [
+          "こんにちは (Konnichiwa)",
+          "おはようございます (Ohayou gozaimasu)",
+          "おやすみなさい (Oyasuminasai)",
+          "さようなら (Sayounara)"
+        ],
+        "correctIndex": 0,
+        "explanation": "白天（約上午11點至傍晚前）見面打招呼使用「こんにちは (Konnichiwa)」。"
+      }
+    },
+    {
+      "id": "conv_02_self_intro",
+      "order": 2,
+      "title": "2. 自我介紹（姓名、國籍、身分）",
+      "category": "基礎社交",
+      "level": "入門 N5",
+      "situation": "向日本人介紹自己的名字與來自哪裡。",
+      "grammarNote": "核心句型「A は B です」（A 是 B）。介紹自己名字時，千萬不要在自己名字後面加「さん (san)」（さん是對別人的敬稱）！表達「從台灣／香港來」使用「〜から来ました (kara kimashita)」。",
+      "formalVsInformal": "正式：私（わたし）は陳（ちん）と申（もう）します（我叫做陳，謙讓語）。\n一般禮貌：私は陳です（我是陳）。",
+      "vocab": [
+        {
+          "jp": "私（わたし）",
+          "romaji": "watashi",
+          "zh": "我"
+        },
+        {
+          "jp": "台湾（たいわん）",
+          "romaji": "Taiwan",
+          "zh": "台灣"
+        },
+        {
+          "jp": "香港（ほんこん）",
+          "romaji": "Honkon",
+          "zh": "香港"
+        },
+        {
+          "jp": "旅行者（りょこうしゃ）",
+          "romaji": "ryokousha",
+          "zh": "旅客"
+        }
+      ],
+      "lines": [
+        {
+          "id": "c02_l1",
+          "speaker": "A（旅客）",
+          "jp": "はじめまして。私はリンです。",
+          "hira": "はじめまして。わたしはりんです。",
+          "romaji": "Hajimemashite. Watashi wa Rin desu.",
+          "zh": "初次見面。我是林。",
+          "note": "自分の名字後面不加「さん」。"
+        },
+        {
+          "id": "c02_l2",
+          "speaker": "A（旅客）",
+          "jp": "香港から来ました。日本へ旅行に来ました。",
+          "hira": "ほんこんからきました。にほんへりょこうにきました。",
+          "romaji": "Honkon kara kimashita. Nihon e ryokou ni kimashita.",
+          "zh": "我從香港來。來日本旅行。",
+          "note": "若來自台灣可替換為「台湾（たいわん）から来ました」。"
+        },
+        {
+          "id": "c02_l3",
+          "speaker": "B（日本友人）",
+          "jp": "リンさんですね。よろしくお願いします。",
+          "hira": "りんさんですね。よろしくおねがいします。",
+          "romaji": "Rin-san desu ne. Yoroshiku onegaishimasu.",
+          "zh": "是林先生/小姐呢。請多指教。",
+          "note": "稱呼對方時在姓氏後加上「さん (san)」。"
+        }
+      ],
+      "practiceQuestion": {
+        "prompt": "自我介紹說「我是陳（Chen）」時，下列哪個日文說法才是正確的？",
+        "options": [
+          "私はチェンです。",
+          "私はチェンさんです。",
+          "私はチェンさまです。",
+          "チェンは私さんですか。"
+        ],
+        "correctIndex": 0,
+        "explanation": "「さん (san)」與「さま (sama)」是對他人的敬稱，介紹自己時直接說「私は［名字］です」即可。"
+      }
+    },
+    {
+      "id": "conv_03_first_meeting",
+      "order": 3,
+      "title": "3. 初次見面與寒暄交流",
+      "category": "基礎社交",
+      "level": "入門 N5",
+      "situation": "在交流活動、民宿交誼廳或導覽團認識新朋友。",
+      "grammarNote": "初次見面黃金三部曲：① はじめまして（初次見面）→ ② 名字＋です → ③ どうぞよろしくお願いします（請多指教）。回應對方時說「こちらこそ、よろしくお願いします」（彼此彼此，也請您多指教）。",
+      "formalVsInformal": "正式：どうぞよろしくお願いいたします。\n一般：よろしくお願いします。",
+      "vocab": [
+        {
+          "jp": "こちらこそ",
+          "romaji": "kochira koso",
+          "zh": "彼此彼此／我才要"
+        },
+        {
+          "jp": "お名前（おなまえ）",
+          "romaji": "onamae",
+          "zh": "您的名字"
+        },
+        {
+          "jp": "日本語（にほんご）",
+          "romaji": "nihongo",
+          "zh": "日語"
+        },
+        {
+          "jp": "少し（すこし）",
+          "romaji": "sukoshi",
+          "zh": "一點點"
+        }
+      ],
+      "lines": [
+        {
+          "id": "c03_l1",
+          "speaker": "A（日本導遊）",
+          "jp": "はじめまして、田中です。お名前は何ですか。",
+          "hira": "はじめまして、たなかです。おなまえはなんですか。",
+          "romaji": "Hajimemashite, Tanaka desu. Onamae wa nan desu ka.",
+          "zh": "初次見面，我是田中。請問您的名字是什麼？",
+          "note": "「お名前」比單說「名前」更有禮貌。"
+        },
+        {
+          "id": "c03_l2",
+          "speaker": "B（旅客）",
+          "jp": "王（ワン）です。こちらこそ、どうぞよろしくお願いします。",
+          "hira": "わんです。こちらこそ、どうぞよろしくおねがいします。",
+          "romaji": "Wan desu. Kochira koso, douzo yoroshiku onegaishimasu.",
+          "zh": "我姓王。我才要請您多多指教。",
+          "note": "「こちらこそ」是回應對方客套話的萬用句。"
+        },
+        {
+          "id": "c03_l3",
+          "speaker": "B（旅客）",
+          "jp": "日本語は少ししか話せませんが、日本が大好きです。",
+          "hira": "にほんごはすこししかはなせませんが、にほんがだいすきです。",
+          "romaji": "Nihongo wa sukoshi shika hanasemasen ga, Nihon ga daisuki desu.",
+          "zh": "雖然我只會說一點點日語，但我非常喜歡日本。",
+          "note": "讓對方放慢語速並拉近距離的實用金句。"
+        }
+      ],
+      "practiceQuestion": {
+        "prompt": "當日本人對你說「よろしくお願いします（請多指教）」時，最自然的禮貌回應是？",
+        "options": [
+          "こちらこそ、よろしくお願いします。",
+          "どういたしまして。",
+          "ごちそうさまでした。",
+          "いってきます。"
+        ],
+        "correctIndex": 0,
+        "explanation": "「こちらこそ、よろしくお願いします」意為「我才要請您多指教」。"
+      }
+    },
+    {
+      "id": "conv_04_thanks_apology",
+      "order": 4,
+      "title": "4. 感謝及道歉（すみません的三大用法）",
+      "category": "基礎社交",
+      "level": "入門 N5",
+      "situation": "接受服務、不小心碰撞、搭話詢問或離開餐廳時。",
+      "grammarNote": "「すみません (Sumimasen)」是日本旅遊第一神句，兼具三個意思：① 不好意思（搭話／叫店員）、② 對不起（輕微道歉）、③ 謝謝（麻煩對方為自己做某事時的心懷感激）。正式賠罪則用「ごめんなさい」或「申し訳ございません」。",
+      "formalVsInformal": "正式感謝：ありがとうございます。\n朋友間感謝：ありがとう ／ どうも。",
+      "vocab": [
+        {
+          "jp": "ありがとうございます",
+          "romaji": "arigatou gozaimasu",
+          "zh": "非常謝謝您"
+        },
+        {
+          "jp": "すみません",
+          "romaji": "sumimasen",
+          "zh": "不好意思／對不起／謝謝"
+        },
+        {
+          "jp": "大丈夫（だいじょうぶ）",
+          "romaji": "daijoubu",
+          "zh": "沒問題／不要緊"
+        },
+        {
+          "jp": "いいえ",
+          "romaji": "iie",
+          "zh": "不客氣／哪裡"
+        }
+      ],
+      "lines": [
+        {
+          "id": "c04_l1",
+          "speaker": "A（旅客）",
+          "jp": "あっ、すみません！ぶつかってしまいました。",
+          "hira": "あっ、すみません！ぶつかってしまいました。",
+          "romaji": "A', sumimasen! Butsukatte shimaimashita.",
+          "zh": "啊，對不起！不小心撞到您了。",
+          "note": "在電車或街上不小心碰到人時立刻說「すみません」。"
+        },
+        {
+          "id": "c04_l2",
+          "speaker": "B（路人）",
+          "jp": "いいえ、大丈夫ですよ。お気になさらないでください。",
+          "hira": "いいえ、だいじょうぶですよ。おきになさらないでください。",
+          "romaji": "Iie, daijoubu desu yo. Oki ni nasaranaide kudasai.",
+          "zh": "不會，沒關係的。請別介意。",
+          "note": "「大丈夫です」可同時表示「我沒事」或「不用了，謝謝」。"
+        },
+        {
+          "id": "c04_l3",
+          "speaker": "A（旅客）",
+          "jp": "親切に教えてくださって、本当にありがとうございます。",
+          "hira": "しんせつにおしえてくださって、ほんとうにありがとうございます。",
+          "romaji": "Shinsetsu ni oshiete kudasatte, hontou ni arigatou gozaimasu.",
+          "zh": "非常感謝您親切地告訴我。",
+          "note": "「本当に (hontou ni)」表示「真心地、非常」。"
+        }
+      ],
+      "practiceQuestion": {
+        "prompt": "在電車上有人幫你撿起掉落的車票，除了說「ありがとうございます」，日本人也常說哪一句表達「不好意思麻煩您了」的感謝？",
+        "options": [
+          "すみません (Sumimasen)",
+          "さようなら (Sayounara)",
+          "いただきます (Itadakimasu)",
+          "おやすみなさい (Oyasuminasai)"
+        ],
+        "correctIndex": 0,
+        "explanation": "在日語文化中，麻煩別人幫忙時說「すみません」既有致歉也有感謝之意。"
+      }
+    },
+    {
+      "id": "conv_05_restaurant",
+      "order": 5,
+      "title": "5. 餐廳點餐與結帳",
+      "category": "美食餐飲",
+      "level": "旅遊核心 N5",
+      "situation": "從入座報人數、看菜單點餐、索取冰水到結帳買單的完整流程。",
+      "grammarNote": "點餐萬用公式：「［菜名］を［數量］お願いします (onegaishimasu)」或「ください (kudasai)」。用餐前合掌說「いただきます（我開動了）」，用餐完畢對店員說「ごちそうさまでした（多謝款待）」並說「お会計（かいけい）をお願いします（麻煩結帳）」。",
+      "formalVsInformal": "禮貌點餐：〜をお願いします。\n隨意點餐（居酒屋）：これ、一つちょうだい。",
+      "vocab": [
+        {
+          "jp": "メニュー",
+          "romaji": "menyuu",
+          "zh": "菜單"
+        },
+        {
+          "jp": "お水（おみず）",
+          "romaji": "omizu",
+          "zh": "水"
+        },
+        {
+          "jp": "おすすめ",
+          "romaji": "osusume",
+          "zh": "推薦餐點"
+        },
+        {
+          "jp": "お会計（おかいけい）",
+          "romaji": "okaikei",
+          "zh": "結帳買單"
+        }
+      ],
+      "lines": [
+        {
+          "id": "c05_l1",
+          "speaker": "店員",
+          "jp": "いらっしゃいませ。何名様ですか。",
+          "hira": "いらっしゃいませ。なんめいさまですか。",
+          "romaji": "Irasshaimase. Nanmeisama desu ka.",
+          "zh": "歡迎光臨。請問幾位？",
+          "note": "入店第一句必聽到的店員問候。"
+        },
+        {
+          "id": "c05_l2",
+          "speaker": "旅客",
+          "jp": "二人です。英語か中国語のメニューはありますか。",
+          "hira": "ふたりです。えいごかちゅうごくごのメニュー（めにゅー）はありますか。",
+          "romaji": "Futari desu. Eigo ka Chuugokugo no menyuu wa arimasu ka.",
+          "zh": "兩位。請問有英文或中文菜單嗎？",
+          "note": "「〜はありますか」＝「請問有〜嗎？」。"
+        },
+        {
+          "id": "c05_l3",
+          "speaker": "旅客",
+          "jp": "すみません、このラーメンを一つと、生ビールを二杯お願いします。",
+          "hira": "すみません、このラーメン（らーめん）をひとつと、なまビール（びーる）をにはいおねがいします。",
+          "romaji": "Sumimasen, kono raamen o hitotsu to, nama biiru o nihai onegaishimasu.",
+          "zh": "不好意思，請給我一碗這個拉麵，和兩杯生啤酒。",
+          "note": "結合模組C量詞：一つ (hitotsu) 與 二杯 (nihai)。"
+        },
+        {
+          "id": "c05_l4",
+          "speaker": "旅客",
+          "jp": "ごちそうさまでした。お会計をお願いします。カードは使えますか。",
+          "hira": "ごちそうさまでした。おかいけいをおねがいします。カード（かーど）はつかえますか。",
+          "romaji": "Gochisousama deshita. Okaikei o onegaishimasu. Kaado wa tsukaemasu ka.",
+          "zh": "多謝款待。麻煩結帳。請問可以刷卡嗎？",
+          "note": "「カードは使えますか」詢問可否使用信用卡。"
+        }
+      ],
+      "practiceQuestion": {
+        "prompt": "在餐廳吃完飯準備去櫃檯結帳時，應該對店員說什麼？",
+        "options": [
+          "お会計をお願いします (Okaikei o onegaishimasu)",
+          "いただきます (Itadakimasu)",
+          "お邪魔します (Ojama shimasu)",
+          "いってきます (Ittekimasu)"
+        ],
+        "correctIndex": 0,
+        "explanation": "「お会計をお願いします」意思是「麻煩結帳」。"
+      }
+    },
+    {
+      "id": "conv_06_shopping",
+      "order": 6,
+      "title": "6. 購物、試穿及詢問價格／免稅",
+      "category": "購物消費",
+      "level": "旅遊核心 N5",
+      "situation": "在百貨公司、藥妝店或服飾店詢問價格、試穿尺寸及辦理免稅。",
+      "grammarNote": "指示代名詞三劍客：「これ（這個，離自己近）」、「それ（那個，離對方近）」、「あれ（那個，離雙方都遠）」。詢問價格用「これはいくらですか」。決定購買時說「これをください（我要買這個）」。",
+      "formalVsInformal": "對店員詢問：見（み）てもいいですか（請問可以看一下嗎？）\n試穿詢問：試着（しちゃく）してもいいですか（請問可以試穿嗎？）",
+      "vocab": [
+        {
+          "jp": "いくら",
+          "romaji": "ikura",
+          "zh": "多少錢"
+        },
+        {
+          "jp": "免税（めんぜい）",
+          "romaji": "menzei",
+          "zh": "免稅"
+        },
+        {
+          "jp": "試着（しちゃく）",
+          "romaji": "shichaku",
+          "zh": "試穿"
+        },
+        {
+          "jp": "袋（ふくろ）",
+          "romaji": "fukuro",
+          "zh": "購物袋"
+        }
+      ],
+      "lines": [
+        {
+          "id": "c06_l1",
+          "speaker": "旅客",
+          "jp": "すみません、これはいくらですか。",
+          "hira": "すみません、これはいくらですか。",
+          "romaji": "Sumimasen, kore wa ikura desu ka.",
+          "zh": "不好意思，請問這個多少錢？",
+          "note": "購物最核心句型。"
+        },
+        {
+          "id": "c06_l2",
+          "speaker": "店員",
+          "jp": "こちらは税込で三千八百円です。",
+          "hira": "こちらはぜいこみでさんぜんはっぴゃくえんです。",
+          "romaji": "Kochira wa zeikomi de sanzen happyakuen desu.",
+          "zh": "這個含稅是 3,800 日圓。",
+          "note": "税込（ぜいこみ）＝含稅；税抜（ぜいぬき）＝未稅。"
+        },
+        {
+          "id": "c06_l3",
+          "speaker": "旅客",
+          "jp": "これを試着してもいいですか。もう少（すこ）し大きいサイズはありますか。",
+          "hira": "これをしちゃくしてもいいですか。もうすこしおおきいさいずはありますか。",
+          "romaji": "Kore o shichaku shite mo ii desu ka. Mou sukoshi ookii saizu wa arimasu ka.",
+          "zh": "請問可以試穿這件嗎？有再大一點的尺寸嗎？",
+          "note": "小一點則是「もう少し小さいサイズ (chiisai saizu)」。"
+        },
+        {
+          "id": "c06_l4",
+          "speaker": "旅客",
+          "jp": "これをください。免税（めんぜい）になりますか。",
+          "hira": "これをください。めんぜいになりますか。",
+          "romaji": "Kore o kudasai. Menzei ni narimasu ka.",
+          "zh": "請給我這個。請問可以辦理免稅嗎？",
+          "note": "通常未稅滿 5,000 日圓可憑護照辦理免稅。"
+        }
+      ],
+      "practiceQuestion": {
+        "prompt": "看到心儀的商品想問店員「這個多少錢？」，日文應該怎麼說？",
+        "options": [
+          "これはいくらですか (Kore wa ikura desu ka)",
+          "これはどこですか (Kore wa doko desu ka)",
+          "これはだれですか (Kore wa dare desu ka)",
+          "これはいつですか (Kore wa itsu desu ka)"
+        ],
+        "correctIndex": 0,
+        "explanation": "「いくら (ikura)」是「多少錢」，「どこ」是哪裡，「だれ」是誰，「いつ」是何時。"
+      }
+    },
+    {
+      "id": "conv_07_transport",
+      "order": 7,
+      "title": "7. 問路及乘搭交通工具（電車・巴士・計程車）",
+      "category": "交通移動",
+      "level": "旅遊核心 N5",
+      "situation": "在車站找月台、確認電車是否抵達目的地，或詢問洗手間位置。",
+      "grammarNote": "詢問地點萬用句：「［地點］はどこですか（〜在哪裡？）」。詢問某班電車有沒有去某站：「この電車は［地名］へ行きますか」。",
+      "formalVsInformal": "禮貌問路：〜はどこですか ／ 〜はどちらですか（更禮貌）。",
+      "vocab": [
+        {
+          "jp": "駅（えき）",
+          "romaji": "eki",
+          "zh": "車站"
+        },
+        {
+          "jp": "トイレ / お手洗い（おてあらい）",
+          "romaji": "toire / otearai",
+          "zh": "洗手間"
+        },
+        {
+          "jp": "乗り場（のりば）",
+          "romaji": "noriba",
+          "zh": "乘車處／月台"
+        },
+        {
+          "jp": "出口（でぐち）",
+          "romaji": "deguchi",
+          "zh": "出口"
+        }
+      ],
+      "lines": [
+        {
+          "id": "c07_l1",
+          "speaker": "旅客",
+          "jp": "すみません、東京駅はどこですか。",
+          "hira": "すみません、とうきょうえきはどこですか。",
+          "romaji": "Sumimasen, Toukyou-eki wa doko desu ka.",
+          "zh": "不好意思，請問東京車站在哪裡？",
+          "note": "可將「東京駅」替換為「トイレ（洗手間）」或「バス乗り場（公車乘車處）」。"
+        },
+        {
+          "id": "c07_l2",
+          "speaker": "站務員",
+          "jp": "この道をまっすぐ行って、二つ目の角を右に曲がってください。",
+          "hira": "このみちをまっすぐいって、ふたつめのかどをみぎにまがってください。",
+          "romaji": "Kono michi o massugu itte, futatsume no kado o migi ni magatte kudasai.",
+          "zh": "請沿這條路直走，在第二個轉角向右轉。",
+          "note": "まっすぐ（直走）、右（みぎ，右）、左（ひだり，左）。"
+        },
+        {
+          "id": "c07_l3",
+          "speaker": "旅客",
+          "jp": "すみません、この電車は浅草（あさくさ）へ行きますか。",
+          "hira": "すみません、このでんしゃはあさくさへいきますか。",
+          "romaji": "Sumimasen, kono densha wa Asakusa e ikimasu ka.",
+          "zh": "不好意思，請問這班電車有到淺草嗎？",
+          "note": "上車前向站務員或乘客確認方向最安心。"
+        },
+        {
+          "id": "c07_l4",
+          "speaker": "旅客（對司機）",
+          "jp": "この住所（じゅうしょ）までお願いします。",
+          "hira": "このじゅうしょまでおねがいします。",
+          "romaji": "Kono juusho made onegaishimasu.",
+          "zh": "麻煩載我到這個地址。",
+          "note": "搭計程車時一邊出示手機地圖一邊說這句即可。"
+        }
+      ],
+      "practiceQuestion": {
+        "prompt": "上電車前想確認「這班電車有到新宿（Shinjuku）嗎？」，應該怎麼問？",
+        "options": [
+          "この電車は新宿へ行きますか。",
+          "新宿はどこですか。",
+          "新宿はいくらですか。",
+          "この電車は新宿から来ましたか。"
+        ],
+        "correctIndex": 0,
+        "explanation": "「［目的地］へ行きますか」表示「會開往［目的地］嗎？」。"
+      }
+    },
+    {
+      "id": "conv_08_hotel",
+      "order": 8,
+      "title": "8. 酒店入住、寄放行李及退房",
+      "category": "住宿服務",
+      "level": "旅遊核心 N5",
+      "situation": "抵達飯店辦理 Check-in、提前寄放行李、詢問早餐時間與辦理 Check-out。",
+      "grammarNote": "辦理入住固定說「チェックインをお願いします。予約した［姓氏］です（我要辦理入住，我是有預約的〜）」。寄放行李說「荷物を預かってもらえますか（可以請您幫我寄放行李嗎？）」。",
+      "formalVsInformal": "對飯店櫃檯使用標準丁寧語（です・ます調）即可。",
+      "vocab": [
+        {
+          "jp": "チェックイン / チェックアウト",
+          "romaji": "chekku-in / chekku-auto",
+          "zh": "辦理入住 / 退房"
+        },
+        {
+          "jp": "予約（よやく）",
+          "romaji": "yoyaku",
+          "zh": "預約"
+        },
+        {
+          "jp": "荷物（にもつ）",
+          "romaji": "nimotsu",
+          "zh": "行李"
+        },
+        {
+          "jp": "朝食（ちょうしょく）",
+          "romaji": "choushoku",
+          "zh": "早餐"
+        }
+      ],
+      "lines": [
+        {
+          "id": "c08_l1",
+          "speaker": "旅客",
+          "jp": "すみません、チェックインをお願いします。予約したリンです。",
+          "hira": "すみません、チェックイン（ちぇっくいん）をおねがいします。よやくしたリン（りん）です。",
+          "romaji": "Sumimasen, chekku-in o onegaishimasu. Yoyaku shita Rin desu.",
+          "zh": "不好意思，麻煩辦理入住。我是有預約的林。",
+          "note": "同時遞上護照（パスポート）即可。"
+        },
+        {
+          "id": "c08_l2",
+          "speaker": "櫃檯人員",
+          "jp": "リン様ですね。二泊三日、禁煙ルームでございますね。",
+          "hira": "リン（りん）さまですね。にはくみっか、きんえんルーム（るーむ）でございますね。",
+          "romaji": "Rin-sama desu ne. Nihaku mikka, kin'en ruumu de gozaimasu ne.",
+          "zh": "是林貴賓呢。三天兩夜、禁菸房對嗎？",
+          "note": "禁煙（きんえん）＝禁菸。"
+        },
+        {
+          "id": "c08_l3",
+          "speaker": "旅客",
+          "jp": "はい。あのう、チェックアウトの後、荷物を預（あず）かってもらえますか。",
+          "hira": "はい。あのう、チェックアウト（ちぇっくあうと）のあと、にもつをあずかってもらえますか。",
+          "romaji": "Hai. Anou, chekku-auto no ato, nimotsu o azukatte moraemasu ka.",
+          "zh": "是的。請問退房之後，可以幫我寄放行李嗎？",
+          "note": "入住前或退房後寄放行李必背句。"
+        },
+        {
+          "id": "c08_l4",
+          "speaker": "旅客",
+          "jp": "お世話になりました。チェックアウトをお願いします。",
+          "hira": "おせわになりました。チェックアウト（ちぇっくあうと）をおねがいします。",
+          "romaji": "Osewa ni narimashita. Chekku-auto o onegaishimasu.",
+          "zh": "承蒙關照了。麻煩辦理退房。",
+          "note": "退房時加上「お世話になりました」非常得體。"
+        }
+      ],
+      "practiceQuestion": {
+        "prompt": "提早到達飯店，想問櫃檯「請問可以寄放行李嗎？」，日文怎麼說？",
+        "options": [
+          "荷物を預かってもらえますか。",
+          "荷物はいくらですか。",
+          "部屋を掃除してください。",
+          "朝食は何時からですか。"
+        ],
+        "correctIndex": 0,
+        "explanation": "「荷物を預かってもらえますか (Nimotsu o azukatte moraemasu ka)」意為「可以請您幫我保管/寄放行李嗎？」。"
+      }
+    },
+    {
+      "id": "conv_09_airport",
+      "order": 9,
+      "title": "9. 機場報到、海關入境及旅行常用語",
+      "category": "交通移動",
+      "level": "旅遊核心 N5",
+      "situation": "在機場辦理登機選位、入境審查回答目的與停留天數。",
+      "grammarNote": "靠窗座位是「窓側（まどがわ）の席」，靠走道座位是「通路側（つうろがわ）の席」。入境審查最常問：① 目的（観光 かんこう＝觀光）、② 滞在期間（たいざいきかん＝停留期間）。",
+      "formalVsInformal": "海關與地勤對話簡短明確即可（如：観光です。五日間です。）。",
+      "vocab": [
+        {
+          "jp": "パスポート",
+          "romaji": "pasupooto",
+          "zh": "護照"
+        },
+        {
+          "jp": "観光（かんこう）",
+          "romaji": "kankou",
+          "zh": "觀光旅遊"
+        },
+        {
+          "jp": "窓側（まどがわ）",
+          "romaji": "madogawa",
+          "zh": "靠窗側"
+        },
+        {
+          "jp": "通路側（つうろがわ）",
+          "romaji": "tsuurogawa",
+          "zh": "靠走道側"
+        }
+      ],
+      "lines": [
+        {
+          "id": "c09_l1",
+          "speaker": "入境審查官",
+          "jp": "日本へ来た目的は何ですか。何日間滞在しますか。",
+          "hira": "にほんへきたもくてきはなんですか。なんにちかんたいざいしますか。",
+          "romaji": "Nihon e kita mokuteki wa nan desu ka. Nannichikan taizai shimasu ka.",
+          "zh": "請問來日本的目的是什麼？預計停留幾天？",
+          "note": "入境時最常被問到的兩個問題。"
+        },
+        {
+          "id": "c09_l2",
+          "speaker": "旅客",
+          "jp": "観光（かんこう）です。五日間（いつかかん）です。",
+          "hira": "かんこうです。いつかかんです。",
+          "romaji": "Kankou desu. Itsukakan desu.",
+          "zh": "是觀光。預計停留五天。",
+          "note": "結合模組C天數讀法：五日間（いつかかん）。"
+        },
+        {
+          "id": "c09_l3",
+          "speaker": "旅客（報到櫃檯）",
+          "jp": "窓側（まどがわ）の席（せき）をお願いします。",
+          "hira": "まどがわのせきをおねがいします。",
+          "romaji": "Madogawa no seki o onegaishimasu.",
+          "zh": "麻煩給我靠窗的座位。",
+          "note": "想坐走道則說「通路側（つうろがわ）の席をお願いします」。"
+        }
+      ],
+      "practiceQuestion": {
+        "prompt": "在機場辦理登機時，想請地勤安排「靠走道的座位」，應該選擇哪個詞？",
+        "options": [
+          "通路側の席 (Tsuurogawa no seki)",
+          "窓側の席 (Madogawa no seki)",
+          "禁煙の席 (Kin'en no seki)",
+          "自由席 (Jiyuuseki)"
+        ],
+        "correctIndex": 0,
+        "explanation": "「通路側 (tsuurogawa)」是靠走道側（注意「つうろ」有長音 u）；「窓側 (madogawa)」是靠窗側。"
+      }
+    },
+    {
+      "id": "conv_10_time_date",
+      "order": 10,
+      "title": "10. 詢問時間、營業時間及日期",
+      "category": "日常實用",
+      "level": "入門 N5",
+      "situation": "詢問現在幾點、商店幾點開門到幾點關門、末班車時間。",
+      "grammarNote": "「〜から（從〜）」、「〜まで（到〜）」。詢問營業時間：「何時から何時までですか（從幾點到幾點？）」。",
+      "formalVsInformal": "標準禮貌句：いま、何時（なんじ）ですか。",
+      "vocab": [
+        {
+          "jp": "今（いま）",
+          "romaji": "ima",
+          "zh": "現在"
+        },
+        {
+          "jp": "何時（なんじ）",
+          "romaji": "nanji",
+          "zh": "幾點"
+        },
+        {
+          "jp": "営業時間（えいぎょうじかん）",
+          "romaji": "eigyou jikan",
+          "zh": "營業時間"
+        },
+        {
+          "jp": "終電（しゅうでん）",
+          "romaji": "shuuden",
+          "zh": "末班電車"
+        }
+      ],
+      "lines": [
+        {
+          "id": "c10_l1",
+          "speaker": "旅客",
+          "jp": "すみません、営業時間は何時から何時までですか。",
+          "hira": "すみません、えいぎょうじかんはなんじからなんじまでですか。",
+          "romaji": "Sumimasen, eigyou jikan wa nanji kara nanji made desu ka.",
+          "zh": "不好意思，請問營業時間是從幾點到幾點？",
+          "note": "から＝起點（從），まで＝終點（到）。"
+        },
+        {
+          "id": "c10_l2",
+          "speaker": "店員",
+          "jp": "午前十時から午後八時までです。",
+          "hira": "ごぜんじゅうじからごごはちじまでです。",
+          "romaji": "Gozen juuji kara gogo hachiji made desu.",
+          "zh": "從上午十點到下午八點。",
+          "note": "午前（ごぜん）＝AM；午後（ごご）＝PM。"
+        },
+        {
+          "id": "c10_l3",
+          "speaker": "旅客",
+          "jp": "新宿行きの終電（しゅうでん）は何時ですか。",
+          "hira": "しんじゅくゆきのしゅうでんはなんじですか。",
+          "romaji": "Shinjuku-yuki no shuuden wa nanji desu ka.",
+          "zh": "請問開往新宿的末班車是幾點？",
+          "note": "日本電車無通宵營運，注意末班車時間非常重要。"
+        }
+      ],
+      "practiceQuestion": {
+        "prompt": "日文中表達「從十點到五點」的連接助詞組合是？",
+        "options": [
+          "十時から五時まで (Juuji kara goji made)",
+          "十時と五時で (Juuji to goji de)",
+          "十時や五時へ (Juuji ya goji e)",
+          "十時に五時を (Juuji ni goji o)"
+        ],
+        "correctIndex": 0,
+        "explanation": "「A から B まで」表示「從 A 到 B」。"
+      }
+    },
+    {
+      "id": "conv_11_preferences",
+      "order": 11,
+      "title": "11. 表達喜好、需求及飲食禁忌",
+      "category": "美食餐飲",
+      "level": "旅遊核心 N5",
+      "situation": "向店員或日本朋友表達喜歡什麼、想要什麼，或有食物過敏／不吃牛生食。",
+      "grammarNote": "表達喜歡：「［名詞］が好きです (ga suki desu)」。表達想要某物：「［名詞］が欲しいです (ga hoshii desu)」。表達飲食禁忌：「［食材］は食べられません（我不能吃〜）」或「［食材］を抜いてください（請不要加〜）」。",
+      "formalVsInformal": "禮貌請求去掉食材：わさびを抜（ぬ）いてください（請不要加芥末）。",
+      "vocab": [
+        {
+          "jp": "好き（すき）",
+          "romaji": "suki",
+          "zh": "喜歡"
+        },
+        {
+          "jp": "アレルギー",
+          "romaji": "arerugii",
+          "zh": "過敏"
+        },
+        {
+          "jp": "牛肉（ぎゅうにく）",
+          "romaji": "gyuuniku",
+          "zh": "牛肉"
+        },
+        {
+          "jp": "わさび抜き（わさびぬき）",
+          "romaji": "wasabi-nuki",
+          "zh": "不加山葵（芥末）"
+        }
+      ],
+      "lines": [
+        {
+          "id": "c11_l1",
+          "speaker": "旅客",
+          "jp": "私は抹茶（まっちゃ）のお菓子が大好きです。",
+          "hira": "わたしはまっちゃのおかしがだいすきです。",
+          "romaji": "Watashi wa matcha no okashi ga daisuki desu.",
+          "zh": "我非常喜歡抹茶甜點。",
+          "note": "「好き」前面的對象助詞用「が」。"
+        },
+        {
+          "id": "c11_l2",
+          "speaker": "旅客（在壽司店）",
+          "jp": "すみません、わさびを抜（ぬ）いてください。",
+          "hira": "すみません、わさびをぬいてください。",
+          "romaji": "Sumimasen, wasabi o nuite kudasai.",
+          "zh": "不好意思，請不要加山葵（芥末）。",
+          "note": "亦可簡稱「わさび抜き（ぬき）でお願いします」。"
+        },
+        {
+          "id": "c11_l3",
+          "speaker": "旅客",
+          "jp": "エビのアレルギーがあります。エビは入（はい）っていますか。",
+          "hira": "えびのアレルギー（あれるぎー）があります。えびははいっていますか。",
+          "romaji": "Ebi no arerugii ga arimasu. Ebi wa haitte imasu ka.",
+          "zh": "我對蝦子過敏。請問裡面有放蝦子嗎？",
+          "note": "飲食安全必備句！牛肉不能吃可說「牛肉は食べられません」。"
+        }
+      ],
+      "practiceQuestion": {
+        "prompt": "在壽司店點餐時，如果想請師傅「不要加芥末（わさび）」，應該怎麼說？",
+        "options": [
+          "わさびを抜いてください (Wasabi o nuite kudasai)",
+          "わさびをたくさん入れてください",
+          "わさびが一番好きです",
+          "わさびをおかわりお願いします"
+        ],
+        "correctIndex": 0,
+        "explanation": "「抜いてください (nuite kudasai)」或「わさび抜きで」意思是「請去掉／不要加芥末」。"
+      }
+    },
+    {
+      "id": "conv_12_clarification",
+      "order": 12,
+      "title": "12. 聽不懂日語時如何請對方重複或放慢",
+      "category": "溝通應變",
+      "level": "旅遊必備 N5",
+      "situation": "當店員或路人語速太快、使用敬語聽不懂時的救命溝通句。",
+      "grammarNote": "「もう一度（もういちど）＝再一次」、「ゆっくり＝慢慢地」、「〜てください＝請〜」。合起來「もう一度ゆっくり言ってください」就是「請再慢一點說一次」。",
+      "formalVsInformal": "禮貌請求：もう一度おっしゃっていただけますか ／ もう一度ゆっくり言ってください。",
+      "vocab": [
+        {
+          "jp": "もう一度（もういちど）",
+          "romaji": "mou ichido",
+          "zh": "再一次"
+        },
+        {
+          "jp": "ゆっくり",
+          "romaji": "yukkuri",
+          "zh": "慢慢地"
+        },
+        {
+          "jp": "わかります",
+          "romaji": "wakarimasu",
+          "zh": "明白／聽得懂"
+        },
+        {
+          "jp": "書（か）いてください",
+          "romaji": "kaite kudasai",
+          "zh": "請寫下來"
+        }
+      ],
+      "lines": [
+        {
+          "id": "c12_l1",
+          "speaker": "旅客",
+          "jp": "すみません、よくわかりません。もう一度ゆっくり言ってください。",
+          "hira": "すみません、よくわかりません。もういちどゆっくりいってください。",
+          "romaji": "Sumimasen, yoku wakarimasen. Mou ichido yukkuri itte kudasai.",
+          "zh": "不好意思，我不太明白。請再慢一點說一次。",
+          "note": "零基礎初學者到日本最重要的一句防護罩！"
+        },
+        {
+          "id": "c12_l2",
+          "speaker": "旅客",
+          "jp": "漢字（かんじ）でここに書いていただけますか。",
+          "hira": "かんじでここにかいていただけますか。",
+          "romaji": "Kanji de koko ni kaite itadakemasu ka.",
+          "zh": "可以請您用漢字寫在這裡嗎？",
+          "note": "我們熟悉繁體中文，請日本人寫出漢字往往能瞬間秒懂！"
+        },
+        {
+          "id": "c12_l3",
+          "speaker": "旅客",
+          "jp": "これは日本語で何（なん）と言いますか。",
+          "hira": "これはにほんごでなんといいますか。",
+          "romaji": "Kore wa Nihongo de nan to iimasu ka.",
+          "zh": "請問這個用日語怎麼說？",
+          "note": "邊指著物品邊學習新單字的好方法。"
+        }
+      ],
+      "practiceQuestion": {
+        "prompt": "當日本店員說話太快聽不懂，想請對方「請再慢一點說一次」，日文怎麼說？",
+        "options": [
+          "もう一度ゆっくり言ってください。",
+          "早く話してください。",
+          "日本語がペラペラです。",
+          "全部わかりました。"
+        ],
+        "correctIndex": 0,
+        "explanation": "「もう一度 (mou ichido)＝再一次」、「ゆっくり (yukkuri)＝慢慢地」、「言ってください (itte kudasai)＝請說」。"
+      }
+    },
+    {
+      "id": "conv_13_emergency",
+      "order": 13,
+      "title": "13. 緊急求助、遺失物品及就醫尋找協助",
+      "category": "緊急應變",
+      "level": "旅遊必備 N5",
+      "situation": "在旅途中遺失護照或錢包、身體不適需要去醫院或向警察局（交番）求助。",
+      "grammarNote": "「〜をなくしました（我把〜弄丟了）」、「気分（きぶん）が悪（わる）いです（我覺得身體不舒服）」。緊急呼救大喊「助（たす）けてください！（請救救我／幫幫我！）」。",
+      "formalVsInformal": "緊急時直接說重點詞彙（交番、病院、パスポートをなくしました）。",
+      "vocab": [
+        {
+          "jp": "助けて（たすけて）",
+          "romaji": "tasukete",
+          "zh": "救命／請幫幫我"
+        },
+        {
+          "jp": "交番（こうばん）",
+          "romaji": "kouban",
+          "zh": "派出所／警察崗亭"
+        },
+        {
+          "jp": "病院（びょういん）",
+          "romaji": "byouin",
+          "zh": "醫院"
+        },
+        {
+          "jp": "財布（さいふ）",
+          "romaji": "saifu",
+          "zh": "錢包"
+        }
+      ],
+      "lines": [
+        {
+          "id": "c13_l1",
+          "speaker": "旅客",
+          "jp": "すみません、助けてください！パスポートと財布をなくしました。",
+          "hira": "すみません、たすけてください！パスポート（ぱすぽーと）とさいふをなくしました。",
+          "romaji": "Sumimasen, tasukete kudasai! Pasupooto to saifu o nakushimashita.",
+          "zh": "不好意思，請幫幫我！我把護照和錢包弄丟了。",
+          "note": "「〜をなくしました」＝把〜弄丟了；若忘在車上則是「電車に忘れました」。"
+        },
+        {
+          "id": "c13_l2",
+          "speaker": "路人",
+          "jp": "大変ですね！近くの交番（こうばん）へ一緒に行きましょう。",
+          "hira": "たいへんですね！ちかくのこうばんへいっしょにいきましょう。",
+          "romaji": "Taihen desu ne! Chikaku no kouban e issho ni ikimashou.",
+          "zh": "那可糟了！我們一起去附近的派出所吧。",
+          "note": "日本街頭的派出所叫做「交番 (kouban)」。"
+        },
+        {
+          "id": "c13_l3",
+          "speaker": "旅客",
+          "jp": "具合（ぐあい）が悪いです。近くに病院か薬局（やっきょく）はありますか。",
+          "hira": "ぐあいがわるいです。ちかくにびょういんかやっきょくはありますか。",
+          "romaji": "Guai ga warui desu. Chikaku ni byouin ka yakkyoku wa arimasu ka.",
+          "zh": "我身體不舒服。請問附近有醫院或藥局嗎？",
+          "note": "日本救護車與火警電話為 119，警察電話為 110。"
+        }
+      ],
+      "practiceQuestion": {
+        "prompt": "在日本不小心弄丟了錢包（財布 さいふ），去派出所報案時應該說哪一句？",
+        "options": [
+          "財布をなくしました (Saifu o nakushimashita)",
+          "財布を買いました (Saifu o kaimashita)",
+          "財布をもらいました (Saifu o moraimashita)",
+          "財布をあげました (Saifu o agemashita)"
+        ],
+        "correctIndex": 0,
+        "explanation": "「財布をなくしました」意思是「我把錢包弄丟了」。"
+      }
+    }
+  ],
+  "quizQuestions": [
+    {
+      "id": "q01",
+      "type": "visual_to_reading",
+      "typeName": "看字選讀音",
+      "module": "五十音",
+      "prompt": "請選出平假名「あ」的正確羅馬拼音與讀音：",
+      "targetDisplay": "あ",
+      "targetAudio": "あ",
+      "options": [
+        "a（あ行母音）",
+        "o（お）",
+        "me（め）",
+        "nu（ぬ）"
+      ],
+      "correctIndex": 0,
+      "explanation": "「あ (a)」源自漢字「安」，是五十音的第一個字；「お (o)」則在右上角有一點。",
+      "reviewCourse": "五十音：あ行清音"
+    },
+    {
+      "id": "q02",
+      "type": "visual_to_reading",
+      "typeName": "看字選讀音",
+      "module": "五十音",
+      "prompt": "請分辨容易混淆的平假名：「ぬ」（右下角有打小圈）的正確讀音是？",
+      "targetDisplay": "ぬ",
+      "targetAudio": "ぬ",
+      "options": [
+        "nu（ぬ）",
+        "me（め）",
+        "ne（ね）",
+        "ro（ろ）"
+      ],
+      "correctIndex": 0,
+      "explanation": "「ぬ (nu)」源自漢字「奴」，右下角多打一個小圈；無圈的才是「め (me)」。",
+      "reviewCourse": "五十音：な行與易混淆假名"
+    },
+    {
+      "id": "q03",
+      "type": "visual_to_reading",
+      "typeName": "看字選讀音",
+      "module": "五十音",
+      "prompt": "外來語片假名「カフェ」（咖啡館）中間的「フェ」讀作什麼？",
+      "targetDisplay": "フェ",
+      "targetAudio": "カフェ",
+      "options": [
+        "fe",
+        "fu",
+        "he",
+        "te"
+      ],
+      "correctIndex": 0,
+      "explanation": "「フ (fu)」加上小「ェ (e)」組合成外來語音「フェ (fe)」，如 カフェ (Cafe)。",
+      "reviewCourse": "五十音：外來語常用片假名"
+    },
+    {
+      "id": "q04",
+      "type": "audio_to_kana",
+      "typeName": "聽音辨認假名",
+      "module": "五十音",
+      "prompt": "請點擊播放發音（ち / chi），並選出對應的正確平假名：",
+      "targetDisplay": "🔊 點擊聽音辨字",
+      "targetAudio": "ち",
+      "options": [
+        "ち",
+        "さ",
+        "ら",
+        "き"
+      ],
+      "correctIndex": 0,
+      "explanation": "發音為「chi（ち）」，字形像阿拉伯數字 5 朝右繞；「さ (sa)」則朝左收弧。",
+      "reviewCourse": "五十音：た行清音"
+    },
+    {
+      "id": "q05",
+      "type": "audio_to_kana",
+      "typeName": "聽音辨認假名",
+      "module": "五十音",
+      "prompt": "請點擊播放拗音發音（しゃ / sha），並選出正確的平假名組合：",
+      "targetDisplay": "🔊 點擊聽音辨字",
+      "targetAudio": "しゃ",
+      "options": [
+        "しゃ",
+        "しや",
+        "ちゃ",
+        "じゃ"
+      ],
+      "correctIndex": 0,
+      "explanation": "「しゃ (sha)」是由「し」加上縮小寫在右下角的「ゃ」合成一拍；若是大寫「しや」則會變成兩拍 shiya。",
+      "reviewCourse": "五十音：拗音規則"
+    },
+    {
+      "id": "q06",
+      "type": "kana_romaji_match",
+      "typeName": "假名與羅馬拼音配對",
+      "module": "五十音",
+      "prompt": "半濁音「ぱぴぷぺぽ」與濁音「ばびぶべぼ」的羅馬拼音子音分別是什麼？",
+      "targetDisplay": "ぱ行 vs ば行",
+      "targetAudio": "ぱん",
+      "options": [
+        "ぱ行是 p- (pa, pi...)；ば行是 b- (ba, bi...)",
+        "ぱ行是 b-；ば行是 p-",
+        "ぱ行是 h-；ば行是 f-",
+        "兩者都是 p-"
+      ],
+      "correctIndex": 0,
+      "explanation": "右上角加小圓圈「゜」的半濁音讀作 p- (pa, pi, pu, pe, po)；加兩點「゛」的濁音讀作 b- (ba, bi, bu, be, bo)。",
+      "reviewCourse": "五十音：濁音與半濁音"
+    },
+    {
+      "id": "q07",
+      "type": "kana_romaji_match",
+      "typeName": "假名與羅馬拼音配對",
+      "module": "五十音",
+      "prompt": "含有促音「っ」的單字「きっぷ（車票）」，正確的羅馬拼音拼法是？",
+      "targetDisplay": "きっぷ",
+      "targetAudio": "きっぷ",
+      "options": [
+        "kippu",
+        "kitsupu",
+        "kipu",
+        "kitupu"
+      ],
+      "correctIndex": 0,
+      "explanation": "促音「っ」佔一拍停頓，羅馬拼音規則是將後一個音節的子音重複寫兩次（p → pp），故為 kippu。",
+      "reviewCourse": "五十音：促音與長音"
+    },
+    {
+      "id": "q08",
+      "type": "hira_kata_match",
+      "typeName": "平假名與片假名配對",
+      "module": "五十音",
+      "prompt": "最容易混淆的片假名挑戰！平假名「し (shi)」與「つ (tsu)」對應的片假名分別是？",
+      "targetDisplay": "し ／ つ",
+      "targetAudio": "しんかんせん",
+      "options": [
+        "し＝シ（由下往上提）、つ＝ツ（由上往下撇）",
+        "し＝ツ、つ＝シ",
+        "し＝ソ、つ＝ン",
+        "し＝ン、つ＝ソ"
+      ],
+      "correctIndex": 0,
+      "explanation": "「シ (shi)」左邊兩點偏水平、最後一筆由左下往右上提；「ツ (tsu)」上面兩點偏垂直、最後一筆由右上往左下撇。",
+      "reviewCourse": "五十音：易混淆片假名比較"
+    },
+    {
+      "id": "q09",
+      "type": "hira_kata_match",
+      "typeName": "平假名與片假名配對",
+      "module": "五十音",
+      "prompt": "撥音平假名「ん (n)」與「そ (so)」對應的片假名分別是？",
+      "targetDisplay": "ん ／ そ",
+      "targetAudio": "にほん",
+      "options": [
+        "ん＝ン（由下往上提）、そ＝ソ（由上往下撇）",
+        "ん＝ソ、そ＝ン",
+        "ん＝ノ、そ＝レ",
+        "ん＝メ、そ＝ヌ"
+      ],
+      "correctIndex": 0,
+      "explanation": "「ン (n)」像單眼眨眼，第一點偏平、第二筆由左下往右上提；「ソ (so)」第一點偏直、第二筆由右上往左下撇。",
+      "reviewCourse": "五十音：易混淆片假名比較"
+    },
+    {
+      "id": "q10",
+      "type": "number_reading",
+      "typeName": "數字讀音測驗",
+      "module": "數字教學",
+      "prompt": "在日語數字百位數中，「300、600、800」三個特殊音變的正確讀音組合是？",
+      "targetDisplay": "300 / 600 / 800",
+      "targetAudio": "さんびゃく、ろっぴゃく、はっぴゃく",
+      "options": [
+        "さんびゃく / ろっぴゃく / はっぴゃく",
+        "さんひゃく / ろくひゃく / はちひゃく",
+        "さんぴゃく / ろくびゃく / はちびゃく",
+        "さんぜん / ろっせん / はっせん"
+      ],
+      "correctIndex": 0,
+      "explanation": "百（ひゃく）的三大特殊音變：300 連濁為「さんびゃく (sanbyaku)」，600 與 800 促音加半濁音化為「ろっぴゃく (roppyaku)」與「はっぴゃく (happyaku)」。",
+      "reviewCourse": "數字教學：百千萬特殊音變"
+    },
+    {
+      "id": "q11",
+      "type": "number_reading",
+      "typeName": "數字讀音測驗",
+      "module": "數字教學",
+      "prompt": "請問「3,000（三千）」與「8,000（八千）」的正確日文讀音是？",
+      "targetDisplay": "3,000 / 8,000",
+      "targetAudio": "さんぜん、はっせん",
+      "options": [
+        "3,000＝さんぜん (sanzen)、8,000＝はっせん (hassen)",
+        "3,000＝さんせん、8,000＝はちせん",
+        "3,000＝さんびゃく、8,000＝はっぴゃく",
+        "3,000＝みっつせん、8,000＝やっつせん"
+      ],
+      "correctIndex": 0,
+      "explanation": "千（せん）在 3,000 時連濁為「さんぜん (sanzen)」，在 8,000 時促音化為「はっせん (hassen)」。",
+      "reviewCourse": "數字教學：百千萬特殊音變"
+    },
+    {
+      "id": "q12",
+      "type": "number_reading",
+      "typeName": "數字讀音測驗",
+      "module": "數字教學",
+      "prompt": "「4月4日 下午4點」當中的三個「4」，正確的日語讀法依序是？",
+      "targetDisplay": "4月 4日 4時",
+      "targetAudio": "しがつよっかよじ",
+      "options": [
+        "しがつ (shigatsu)・よっか (yokka)・よじ (yoji)",
+        "よんがつ・よんにち・よんじ",
+        "しがつ・しにち・しじ",
+        "よがつ・よっか・よんじ"
+      ],
+      "correctIndex": 0,
+      "explanation": "4月固定讀「しがつ」，4號固定讀訓讀「よっか」，4點鐘固定讀「よじ」（不加ん）。",
+      "reviewCourse": "數字教學：日期與時間例外"
+    },
+    {
+      "id": "q13",
+      "type": "counter_choice",
+      "typeName": "量詞選擇題",
+      "module": "量詞單位",
+      "prompt": "進入餐廳時店員問「何名様ですか（請問幾位？）」，若你們是「2個人」，應該回答：",
+      "targetDisplay": "2人",
+      "targetAudio": "ふたりです",
+      "options": [
+        "ふたりです (Futari desu)",
+        "ににんです (Ninin desu)",
+        "ふたつです (Futatsu desu)",
+        "にめいです (Nimei desu)"
+      ],
+      "correctIndex": 0,
+      "explanation": "1個人讀「ひとり (hitori)」，2個人讀「ふたり (futari)」，3人以上才用「〜にん（如さんにん）」。",
+      "reviewCourse": "量詞單位：人數（人）"
+    },
+    {
+      "id": "q14",
+      "type": "counter_choice",
+      "typeName": "量詞選擇題",
+      "module": "量詞單位",
+      "prompt": "在咖啡店想點「三杯咖啡」，「コーヒーを三杯（　　）お願いします」括號內的正確讀音是？",
+      "targetDisplay": "三杯",
+      "targetAudio": "コーヒーをさんばいお願いします",
+      "options": [
+        "さんばい (sanbai)",
+        "さんはい (sanhai)",
+        "さんぱい (sampai)",
+        "みっつはい (mittsuhai)"
+      ],
+      "correctIndex": 0,
+      "explanation": "「杯 (はい)」在 1、6、8、10 變半濁音「ぱい」，但在 3杯 與 何杯 時變為濁音「さんばい (sanbai) / なんばい (nanbai)」。",
+      "reviewCourse": "量詞單位：杯裝飲品（杯）"
+    },
+    {
+      "id": "q15",
+      "type": "counter_choice",
+      "typeName": "量詞選擇題",
+      "module": "量詞單位",
+      "prompt": "在車站買「3張車票」與便利商店買「1瓶綠茶」，正確的量詞搭配是？",
+      "targetDisplay": "車票3張 ＋ 綠茶1瓶",
+      "targetAudio": "きっぷをさんまいと、おちゃをいっぽん",
+      "options": [
+        "切符を三枚（さんまい）、お茶を一本（いっぽん）",
+        "切符を三本（さんぼん）、お茶を一枚（いちまい）",
+        "切符を三冊（さんさつ）、お茶を一杯（いっぱい）",
+        "切符を三台（さんだい）、お茶を一個（いっこ）"
+      ],
+      "correctIndex": 0,
+      "explanation": "薄片狀的車票用「枚（まい）」，細長瓶裝的飲料用「本（ほん，1瓶促音化為いっぽん）」。",
+      "reviewCourse": "量詞單位：枚與本"
+    },
+    {
+      "id": "q16",
+      "type": "conversation_blank",
+      "typeName": "日常會話填空",
+      "module": "日常會話",
+      "prompt": "在商店指著商品問店員「請問這個多少錢？」，請選出正確填入「これは（　　）ですか」的詞：",
+      "targetDisplay": "これは（ ＿ ）ですか。",
+      "targetAudio": "これはいくらですか",
+      "options": [
+        "いくら (ikura)",
+        "どこ (doko)",
+        "いつ (itsu)",
+        "だれ (dare)"
+      ],
+      "correctIndex": 0,
+      "explanation": "「これはいくらですか (Kore wa ikura desu ka)」＝「這個多少錢？」。",
+      "reviewCourse": "日常會話：購物及詢問價格"
+    },
+    {
+      "id": "q17",
+      "type": "conversation_blank",
+      "typeName": "日常會話填空",
+      "module": "日常會話",
+      "prompt": "在餐廳對蝦子或芥末有忌口時，「わさびを（　　）ください」（請不要加芥末），括號應填入：",
+      "targetDisplay": "わさびを（ ＿ ）ください。",
+      "targetAudio": "わさびをぬいてください",
+      "options": [
+        "抜いて (nuite)",
+        "入れて (irete)",
+        "食べて (tabete)",
+        "飲んで (nonde)"
+      ],
+      "correctIndex": 0,
+      "explanation": "「抜いてください (nuite kudasai)」代表「請拔除／不要加进去」。",
+      "reviewCourse": "日常會話：表達喜好及飲食禁忌"
+    },
+    {
+      "id": "q18",
+      "type": "translation_choice",
+      "typeName": "中日文互譯",
+      "module": "日常會話",
+      "prompt": "當日本人說話太快聽不懂時，想說「不好意思，請再慢一點說一次」，正確的日文是？",
+      "targetDisplay": "請再慢一點說一次",
+      "targetAudio": "すみません、もう一度ゆっくり言ってください",
+      "options": [
+        "すみません、もう一度ゆっくり言ってください。",
+        "すみません、お会計をお願いします。",
+        "すみません、荷物を預かってもらえますか。",
+        "すみません、この電車は東京へ行きますか。"
+      ],
+      "correctIndex": 0,
+      "explanation": "「もう一度 (再一次) ゆっくり (慢慢地) 言ってください (請說)」是初學者必備的溝通句。",
+      "reviewCourse": "日常會話：聽不懂時如何請對方重複"
+    },
+    {
+      "id": "q19",
+      "type": "translation_choice",
+      "typeName": "中日文互譯",
+      "module": "日常會話",
+      "prompt": "日文句子「チェックアウトの後、荷物を預かってもらえますか。」的繁體中文意思是？",
+      "targetDisplay": "チェックアウトの後、荷物を預かってもらえますか。",
+      "targetAudio": "チェックアウトの後、荷物を預かってもらえますか",
+      "options": [
+        "退房之後，可以請您幫我寄放行李嗎？",
+        "辦理入住之前，可以先吃早餐嗎？",
+        "請問房間裡有免費的無線網路嗎？",
+        "請幫我叫兩輛計程車到機場。"
+      ],
+      "correctIndex": 0,
+      "explanation": "「チェックアウトの後（退房後）」、「荷物（行李）」、「預かってもらえますか（可以請您保管/寄放嗎）」。",
+      "reviewCourse": "日常會話：酒店入住及退房"
+    },
+    {
+      "id": "q20",
+      "type": "translation_choice",
+      "typeName": "中日文互譯",
+      "module": "日常會話",
+      "prompt": "緊急狀況下說「パスポートと財布をなくしました。交番はどこですか。」，意思是？",
+      "targetDisplay": "パスポートと財布をなくしました。交番はどこですか。",
+      "targetAudio": "パスポートと財布をなくしました。交番はどこですか。",
+      "options": [
+        "我把護照和錢包弄丟了。請問派出所在哪裡？",
+        "我忘記帶護照和機票了。請問機場在哪裡？",
+        "我肚子痛不舒服。請問醫院在哪裡？",
+        "我想買錢包和伴手禮。請問免稅店在哪裡？"
+      ],
+      "correctIndex": 0,
+      "explanation": "「パスポート（護照）」、「財布（錢包）」、「なくしました（弄丟了）」、「交番（派出所）」。",
+      "reviewCourse": "日常會話：緊急求助及尋找協助"
+    }
+  ],
+  "irregularReadingRules": [
+    {
+      "id": "irr_num_4",
+      "domain": "number",
+      "targetKanji": "四",
+      "baseNumber": 4,
+      "mutationCategory": "contextual_reading",
+      "standardReading": "よん (yon)",
+      "alternativeReadings": [
+        "し (shi)",
+        "よ (yo)"
+      ],
+      "phoneticChangeFormula": "計數/電話/金額用「よん」；4月固定用「しがつ」；4點鐘固定用「よじ」；4人固定用「よにん」；4日用訓讀「よっか」",
+      "explanation": "因音讀「し (shi)」與「死」同音，現代日語多改用訓讀「よん (yon)」或「よ (yo)」，唯獨四月（しがつ）保留「し」。",
+      "examples": [
+        {
+          "kanji": "四月",
+          "hira": "しがつ",
+          "romaji": "shigatsu",
+          "zh": "四月（必讀 shi）"
+        },
+        {
+          "kanji": "四時",
+          "hira": "よじ",
+          "romaji": "yoji",
+          "zh": "四點鐘（必讀 yoji，不加ん）"
+        },
+        {
+          "kanji": "四人",
+          "hira": "よにん",
+          "romaji": "yonin",
+          "zh": "四個人（必讀 yonin，不加ん）"
+        },
+        {
+          "kanji": "四百",
+          "hira": "よんひゃく",
+          "romaji": "yonhyaku",
+          "zh": "四百（讀 yonhyaku）"
+        }
+      ]
+    },
+    {
+      "id": "irr_num_7",
+      "domain": "number",
+      "targetKanji": "七",
+      "baseNumber": 7,
+      "mutationCategory": "contextual_reading",
+      "standardReading": "なな (nana)",
+      "alternativeReadings": [
+        "しち (shichi)"
+      ],
+      "phoneticChangeFormula": "計數/金額/電話用「なな」；7月固定用「しちがつ」；7點鐘常讀「しちじ」；7日用訓讀「なのか」",
+      "explanation": "音讀「しち (shichi)」在電話與報價中極易與「いち (1)」或「はち (8)」混淆，因此計數與金額優先使用訓讀「なな (nana)」。",
+      "examples": [
+        {
+          "kanji": "七月",
+          "hira": "しちがつ",
+          "romaji": "shichigatsu",
+          "zh": "七月（必讀 shichigatsu）"
+        },
+        {
+          "kanji": "七時",
+          "hira": "しちじ",
+          "romaji": "shichiji",
+          "zh": "七點鐘（讀 shichiji）"
+        },
+        {
+          "kanji": "七百",
+          "hira": "ななひゃく",
+          "romaji": "nanahyaku",
+          "zh": "七百（讀 nanahyaku，不讀 shichihyaku）"
+        }
+      ]
+    },
+    {
+      "id": "irr_num_9",
+      "domain": "number",
+      "targetKanji": "九",
+      "baseNumber": 9,
+      "mutationCategory": "contextual_reading",
+      "standardReading": "きゅう (kyuu)",
+      "alternativeReadings": [
+        "く (ku)"
+      ],
+      "phoneticChangeFormula": "計數/金額/電話用長音「きゅう」；9月固定用「くがつ」；9點鐘固定用「くじ」；9日用訓讀「ここのか」",
+      "explanation": "因「く (ku)」與「苦」同音，一般計數皆讀作長音「きゅう (kyuu)」，但 9月 與 9點鐘 固定讀短音「く (ku)」。",
+      "examples": [
+        {
+          "kanji": "九月",
+          "hira": "くがつ",
+          "romaji": "kugatsu",
+          "zh": "九月（必讀 kugatsu）"
+        },
+        {
+          "kanji": "九時",
+          "hira": "くじ",
+          "romaji": "kuji",
+          "zh": "九點鐘（必讀 kuji）"
+        },
+        {
+          "kanji": "九百",
+          "hira": "きゅうひゃく",
+          "romaji": "kyuuhyaku",
+          "zh": "九百（讀 kyuuhyaku）"
+        }
+      ]
+    },
+    {
+      "id": "irr_num_300",
+      "domain": "number_hundreds",
+      "targetKanji": "三百",
+      "baseNumber": 300,
+      "mutationCategory": "rendaku_dakuon",
+      "standardReading": "さんびゃく (sanbyaku)",
+      "alternativeReadings": [],
+      "phoneticChangeFormula": "さん (san) + ひゃく (hyaku) → さんびゃく (sanbyaku)【連濁：h → b】",
+      "explanation": "受前字撥音「ん (n)」影響，後接清音「ひゃく」連濁變為濁音「びゃく (byaku)」。",
+      "examples": [
+        {
+          "kanji": "三百円",
+          "hira": "さんびゃくえん",
+          "romaji": "sanbyakuen",
+          "zh": "三百日圓"
+        }
+      ]
+    },
+    {
+      "id": "irr_num_600",
+      "domain": "number_hundreds",
+      "targetKanji": "六百",
+      "baseNumber": 600,
+      "mutationCategory": "sokuon_and_handakuon",
+      "standardReading": "ろっぴゃく (roppyaku)",
+      "alternativeReadings": [],
+      "phoneticChangeFormula": "ろく (roku) + ひゃく (hyaku) → ろっぴゃく (roppyaku)【促音化 ku→っ + 半濁音化 h→p】",
+      "explanation": "「ろく」尾音 ku 遇 h 行子音時促音化為「っ」，並將「ひゃく」推成半濁音爆破音「ぴゃく (pyaku)」。",
+      "examples": [
+        {
+          "kanji": "六百円",
+          "hira": "ろっぴゃくえん",
+          "romaji": "roppyakuen",
+          "zh": "六百日圓"
+        }
+      ]
+    },
+    {
+      "id": "irr_num_800",
+      "domain": "number_hundreds",
+      "targetKanji": "八百",
+      "baseNumber": 800,
+      "mutationCategory": "sokuon_and_handakuon",
+      "standardReading": "はっぴゃく (happyaku)",
+      "alternativeReadings": [],
+      "phoneticChangeFormula": "はち (hachi) + ひゃく (hyaku) → はっぴゃく (happyaku)【促音化 chi→っ + 半濁音化 h→p】",
+      "explanation": "「はち」尾音 chi 促音化為「っ」，同時使後接「ひゃく」半濁音化為「ぴゃく (pyaku)」。",
+      "examples": [
+        {
+          "kanji": "八百屋",
+          "hira": "やおや",
+          "romaji": "yaoya",
+          "zh": "蔬果店（特例熟字訓）"
+        },
+        {
+          "kanji": "八百円",
+          "hira": "はっぴゃくえん",
+          "romaji": "happyakuen",
+          "zh": "八百日圓"
+        }
+      ]
+    },
+    {
+      "id": "irr_num_3000",
+      "domain": "number_thousands",
+      "targetKanji": "三千",
+      "baseNumber": 3000,
+      "mutationCategory": "rendaku_dakuon",
+      "standardReading": "さんぜん (sanzen)",
+      "alternativeReadings": [],
+      "phoneticChangeFormula": "さん (san) + せん (sen) → さんぜん (sanzen)【連濁：s → z】",
+      "explanation": "受撥音「ん」影響，後接清擦音「せん (sen)」連濁變為有聲濁音「ぜん (zen)」。",
+      "examples": [
+        {
+          "kanji": "三千円",
+          "hira": "さんぜんえん",
+          "romaji": "sanzen'en",
+          "zh": "三千日圓"
+        }
+      ]
+    },
+    {
+      "id": "irr_num_8000",
+      "domain": "number_thousands",
+      "targetKanji": "八千",
+      "baseNumber": 8000,
+      "mutationCategory": "sokuon",
+      "standardReading": "はっせん (hassen)",
+      "alternativeReadings": [],
+      "phoneticChangeFormula": "はち (hachi) + せん (sen) → はっせん (hassen)【促音化：chi → っ】",
+      "explanation": "「はち」尾音 chi 遇到無聲擦音 s 時促音化為「っ」，讀作「はっせん (hassen)」。",
+      "examples": [
+        {
+          "kanji": "八千円",
+          "hira": "はっせんえん",
+          "romaji": "hassen'en",
+          "zh": "八千日圓"
+        }
+      ]
+    },
+    {
+      "id": "irr_date_wago",
+      "domain": "date_calendar",
+      "targetKanji": "一日〜十日・十四日・二十日・二十四日",
+      "baseNumber": 1,
+      "mutationCategory": "wago_kunyomi",
+      "standardReading": "ついたち・ふつか・みっか・よっか・いつか・むいか・なのか・ようか・ここのか・とおか・じゅうよっか・はつか・にじゅうよっか",
+      "alternativeReadings": [
+        "いちにち（指1天時間長度時）"
+      ],
+      "phoneticChangeFormula": "1號讀「ついたち（月立ち）」；2〜10號及20號（はつか）採固有訓讀；14號與24號採音訓混讀（〜よっか）",
+      "explanation": "每月1號至10號、14號、20號、24號為日本旅遊訂房與購票最高頻的不規則日期讀法，不可用音讀（いちにち僅表示「一天」的時間長度）。",
+      "examples": [
+        {
+          "kanji": "一日（1號 vs 1天）",
+          "hira": "ついたち vs いちにち",
+          "romaji": "tsuitachi vs ichinichi",
+          "zh": "每月1號 vs 一整天"
+        },
+        {
+          "kanji": "四日 vs 八日",
+          "hira": "よっか vs ようか",
+          "romaji": "yokka vs youka",
+          "zh": "4號（促音っ）vs 8號（長音う）"
+        },
+        {
+          "kanji": "二十日",
+          "hira": "はつか",
+          "romaji": "hatsuka",
+          "zh": "20號 / 二十天"
+        }
+      ]
+    },
+    {
+      "id": "irr_counter_h_row",
+      "domain": "counter_phonetics",
+      "targetKanji": "は行量詞（本・匹・杯・泊・分）",
+      "baseNumber": 0,
+      "mutationCategory": "sokuon_and_handakuon",
+      "standardReading": "1, 6, 8, 10 → 促音+半濁音 (p)；3, 何 → 濁音 (b)",
+      "alternativeReadings": [],
+      "phoneticChangeFormula": "1(いっp-)、3(さんb-)、4(よんh-/よんp-)、6(ろっp-)、8(はっp-)、10(じゅっp-)、何(なんb-)",
+      "explanation": "「は行」開頭的量詞（本 ほん、匹 ひき、杯 はい、泊 はく、分 ふん）是日語音變最核心的一群：遇到 1、6、8、10 一律促音加半濁音化（p）；遇到撥音結尾的 3 與 何 一律連濁化（b，唯獨「分」在4分讀よんぷん、何分讀なんぷん）。",
+      "examples": [
+        {
+          "kanji": "一本・三本・六本",
+          "hira": "いっぽん・さんぼん・ろっぽん",
+          "romaji": "ippon / sanbon / roppon",
+          "zh": "1支・3支・6支"
+        },
+        {
+          "kanji": "一杯・三杯・六杯",
+          "hira": "いっぱい・さんばい・ろっぱい",
+          "romaji": "ippai / sanbai / roppai",
+          "zh": "1杯・3杯・6杯"
+        },
+        {
+          "kanji": "一匹・三匹・六匹",
+          "hira": "いっぴき・さんびき・ろっぴき",
+          "romaji": "ippiki / sanbiki / roppiki",
+          "zh": "1隻・3隻・6隻"
+        }
+      ]
+    },
+    {
+      "id": "irr_counter_k_row",
+      "domain": "counter_phonetics",
+      "targetKanji": "か行量詞（個・回・階）",
+      "baseNumber": 0,
+      "mutationCategory": "sokuon",
+      "standardReading": "1, 6, 8, 10 → 促音化 (いっk-, ろっk-, はっk-, じゅっk-)；「三階/何階」連濁為 さんがい/なんがい",
+      "alternativeReadings": [],
+      "phoneticChangeFormula": "1(いっk-)、6(ろっk-)、8(はっk-)、10(じゅっk-)；「階」於 3 與 何 額外連濁為 がい (gai)",
+      "explanation": "無聲子音 /k/ 開頭的量詞在 1、6、8、10 時發生促音化。需特別區分：「三回（3次）」讀作 さんかい (sankai)，但「三階（3樓）」讀作 さんがい (sangai)。",
+      "examples": [
+        {
+          "kanji": "一個・六個・八個",
+          "hira": "いっこ・ろっこ・はっこ",
+          "romaji": "ikko / rokko / hakko",
+          "zh": "1個・6個・8個"
+        },
+        {
+          "kanji": "三階 vs 三回",
+          "hira": "さんがい vs さんかい",
+          "romaji": "sangai vs sankai",
+          "zh": "3樓（濁音）vs 3次（清音）"
+        }
+      ]
+    },
+    {
+      "id": "irr_counter_s_row",
+      "domain": "counter_phonetics",
+      "targetKanji": "さ行量詞（冊・歳・足）",
+      "baseNumber": 0,
+      "mutationCategory": "sokuon",
+      "standardReading": "1, 8, 10 → 促音化 (いっs-, はっs-, じゅっs-)；6 不促音化；「三足/何足」連濁為 さんぞく/なんぞく；20歳 讀 はたち",
+      "alternativeReadings": [],
+      "phoneticChangeFormula": "1(いっs-)、8(はっs-)、10(じゅっs-)；6 維持 ろくs-（無促音！）",
+      "explanation": "無聲擦音 /s/ 開頭的量詞只在 1、8、10 促音化，「6（ろく）」後接 s 行時不發生促音（如 6冊 ろくさつ、6歳 ろくさい）。此外 20歳 特殊訓讀為「はたち (hatachi)」。",
+      "examples": [
+        {
+          "kanji": "一冊・六冊・八冊",
+          "hira": "いっさつ・ろくさつ・はっさつ",
+          "romaji": "issatsu / rokusatsu / hassatsu",
+          "zh": "1本・6本（無促音）・8本"
+        },
+        {
+          "kanji": "一歳・八歳・二十歳",
+          "hira": "いっさい・はっさい・はたち",
+          "romaji": "issai / hassai / hatachi",
+          "zh": "1歲・8歲・20歲（特殊訓讀）"
+        },
+        {
+          "kanji": "一足・三足",
+          "hira": "いっそく・さんぞく",
+          "romaji": "issoku / sanzoku",
+          "zh": "1雙鞋（促音）・3雙鞋（連濁）"
+        }
+      ]
+    },
+    {
+      "id": "irr_counter_people_age",
+      "domain": "counter_phonetics",
+      "targetKanji": "人數與人份（人 vs 人前）",
+      "baseNumber": 1,
+      "mutationCategory": "wago_kunyomi",
+      "standardReading": "1人＝ひとり、2人＝ふたり、4人＝よにん；但餐點「1人份、2人份」讀作 いちにんまえ、ににんまえ",
+      "alternativeReadings": [],
+      "phoneticChangeFormula": "單純數人數：1, 2 用訓讀 (ひとり, ふたり)；計算餐點份數（〜人前）：1, 2 維持音讀 (いちにんまえ, ににんまえ)",
+      "explanation": "初學者最常犯的錯誤：進入餐廳報人數說「ふたりです（兩位）」，但點餐說「兩人份燒肉」時必須說「ににんまえ (nininmae)」。",
+      "examples": [
+        {
+          "kanji": "一人・二人・四人",
+          "hira": "ひとり・ふたり・よにん",
+          "romaji": "hitori / futari / yonin",
+          "zh": "1個人・2個人・4個人"
+        },
+        {
+          "kanji": "一人前・二人前",
+          "hira": "いちにんまえ・ににんまえ",
+          "romaji": "ichininmae / nininmae",
+          "zh": "1人份餐點・2人份餐點"
+        }
+      ]
+    }
+  ]
+}
