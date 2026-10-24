@@ -25,7 +25,7 @@ jobs:
           flutter-version: '3.22.3'
           channel: 'stable'
 
-      - name: 4. Auto-Heal Source Files, Generate Clean Android Scaffold & Build APK
+      - name: 4. Auto-Heal Source Files, Pin Plugin Versions & Build APK
         run: |
           set -e
           PUBSPEC_FILE=$(find . -maxdepth 3 -name "pubspec.yaml" | head -n 1)
@@ -43,9 +43,22 @@ jobs:
           # 移除 flutter create 自動產生且與本專案不相容的預設 widget_test.dart
           rm -f test/widget_test.dart
 
-          # 自動修補舊版儲存庫中的 Dart 檔案與 Android 設定（即使未重新上傳全部檔案也能 100% 通過測試並編譯 APK）
+          # 第一階段自動修補：鎖定 pubspec.yaml 相容套件版本（防止拉取到需要 SDK 36 與 Kotlin 2.2 的新版插件）並修補 Dart 檔案
           python3 - << 'PYEOF'
           import glob, os, re
+
+          # 0. 強制鎖定 pubspec.yaml 內套件版本（移除 ^ 符號，避免自動升級至 Kotlin 2.2.20 / SDK 36 的 flutter_tts 4.2.5）
+          if os.path.exists("pubspec.yaml"):
+              with open("pubspec.yaml", "r", encoding="utf-8") as f:
+                  pub = f.read()
+              pub = re.sub(r"flutter_tts:\s*\^?[\d\.\+]+", "flutter_tts: 4.0.2", pub)
+              pub = re.sub(r"shared_preferences:\s*\^?[\d\.\+]+", "shared_preferences: 2.2.3", pub)
+              pub = re.sub(r"path_provider:\s*\^?[\d\.\+]+", "path_provider: 2.1.3", pub)
+              pub = re.sub(r"permission_handler:\s*\^?[\d\.\+]+", "permission_handler: 11.3.1", pub)
+              pub = re.sub(r"speech_to_text:\s*\^?[\d\.\+]+", "speech_to_text: 6.6.2", pub)
+              pub = re.sub(r"sqflite:\s*\^?[\d\.\+]+", "sqflite: 2.3.3+1", pub)
+              with open("pubspec.yaml", "w", encoding="utf-8") as f:
+                  f.write(pub)
 
           # A. 自動修補 StudyProgressService（修正 Map<String, String> 型別轉換與單元測試非同步 SharedPreferences 例外）
           sps_path = "lib/services/study_progress_service.dart"
@@ -72,7 +85,7 @@ jobs:
               with open(sps_path, "w", encoding="utf-8") as f:
                   f.write(sps)
 
-          # B. 自動修補 test/curriculum_and_logic_test.dart（初始化 TestWidgetsFlutterBinding 與 SharedPreferences Mock）
+          # B. 自動修補 test/curriculum_and_logic_test.dart
           test_path = "test/curriculum_and_logic_test.dart"
           if os.path.exists(test_path):
               with open(test_path, "r", encoding="utf-8") as f:
@@ -86,7 +99,7 @@ jobs:
                   with open(test_path, "w", encoding="utf-8") as f:
                       f.write(tc)
 
-          # C. 自動修補 lib/ 內舊版 Dart 語法問題（Icons.TouchApp_outlined、跨行單引號字串、CardTheme、path 套件引用）
+          # C. 自動修補 lib/ 內舊版 Dart 語法問題
           for df in glob.glob("lib/**/*.dart", recursive=True):
               with open(df, "r", encoding="utf-8") as f:
                   src = f.read()
@@ -102,6 +115,16 @@ jobs:
               if src != orig:
                   with open(df, "w", encoding="utf-8") as f:
                       f.write(src)
+          PYEOF
+
+          # 移除舊的 pubspec.lock 後重新下載鎖定版本的套件並執行單元測試
+          rm -f pubspec.lock
+          flutter pub get
+          flutter test test/curriculum_and_logic_test.dart
+
+          # 第二階段自動修補：修補 Android 設定與 .pub-cache 所有插件的 Kotlin / compileSdk 版本衝突
+          python3 - << 'PYEOF'
+          import glob, os, re
 
           # D. 修補 AndroidManifest.xml（注入 RECORD_AUDIO 與 Android 11+ TTS/STT <queries>）
           manifest_path = "android/app/src/main/AndroidManifest.xml"
@@ -132,25 +155,59 @@ jobs:
                   with open(gp, "w", encoding="utf-8") as f:
                       f.write(g)
 
-          # F. 升級 Kotlin 至 1.9.22 並對齊所有插件的子專案 JVM Target（防止 speech_to_text 在 Gradle 8 + Java 17 下發生 JVM Target 1.8 vs 17 衝突）
+          # F. 統一升級 Kotlin 至 1.9.22，並強制鎖定所有子專案 kotlin-stdlib 為 1.9.22（徹底消除 Metadata 2.2.0 vs 1.9.0 錯誤）
           for sp in ["android/settings.gradle", "android/settings.gradle.kts", "android/build.gradle"]:
               if os.path.exists(sp):
                   with open(sp, "r", encoding="utf-8") as f:
                       s = f.read()
-                  s = re.sub(r'(org\.jetbrains\.kotlin\.android["\']?\s+version\s+["\'])1\.[78]\.\d+(["\'])', r"\g<1>1.9.22\g<2>", s)
-                  s = re.sub(r"(ext\.kotlin_version\s*=\s*['\"])1\.[78]\.\d+(['\"])", r"\g<1>1.9.22\g<2>", s)
+                  s = re.sub(r'(org\.jetbrains\.kotlin\.android["\']?\s+version\s+["\'])[\d\.]+(["\'])', r"\g<1>1.9.22\g<2>", s)
+                  s = re.sub(r"(ext\.kotlin_version\s*=\s*['\"])[\d\.]+(['\"])", r"\g<1>1.9.22\g<2>", s)
                   with open(sp, "w", encoding="utf-8") as f:
                       f.write(s)
+
+          # 掃描 .pub-cache 下所有插件的 build.gradle，將任何過高的 kotlin_version (如 2.2.20) 或 compileSdk (35/36) 統一對齊為 1.9.22 與 34
+          pub_cache = os.path.expanduser("~/.pub-cache")
+          for pbg in glob.glob(f"{pub_cache}/hosted/pub.dev/*/android/build.gradle"):
+              with open(pbg, "r", encoding="utf-8") as f:
+                  pc = f.read()
+              orig_pc = pc
+              pc = re.sub(r"(ext\.kotlin_version\s*=\s*['\"])[\d\.]+(['\"])", r"\g<1>1.9.22\g<2>", pc)
+              pc = re.sub(r"(kotlin-gradle-plugin:)[\d\.]+", r"\g<1>1.9.22", pc)
+              pc = re.sub(r"(kotlin-stdlib[a-z0-9\-]*:)[\d\.]+", r"\g<1>1.9.22", pc)
+              pc = re.sub(r"compileSdkVersion\s+3[356]", "compileSdkVersion 34", pc)
+              pc = re.sub(r"compileSdk\s*=?\s*3[356]", "compileSdk = 34", pc)
+              if pc != orig_pc:
+                  print(f"🔧 已自動對齊插件 Gradle 設定: {pbg}")
+                  with open(pbg, "w", encoding="utf-8") as f:
+                      f.write(pc)
 
           root_bg = "android/build.gradle"
           if os.path.exists(root_bg):
               with open(root_bg, "r", encoding="utf-8") as f:
                   rbg = f.read()
-              jvm_fix = """
+              gradle_fix = """
+          ext.kotlin_version = '1.9.22'
+
+          allprojects {
+              configurations.all {
+                  resolutionStrategy {
+                      force "org.jetbrains.kotlin:kotlin-stdlib:1.9.22"
+                      force "org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.9.22"
+                      force "org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.9.22"
+                      force "org.jetbrains.kotlin:kotlin-stdlib-common:1.9.22"
+                      eachDependency { details ->
+                          if (details.requested.group == 'org.jetbrains.kotlin') {
+                              details.useVersion '1.9.22'
+                          }
+                      }
+                  }
+              }
+          }
           subprojects {
               tasks.withType(org.jetbrains.kotlin.gradle.tasks.KotlinCompile).configureEach {
                   kotlinOptions {
                       jvmTarget = "1.8"
+                      freeCompilerArgs += ["-Xskip-metadata-version-check"]
                   }
               }
               tasks.withType(JavaCompile).configureEach {
@@ -159,15 +216,13 @@ jobs:
               }
           }
           """
-              if "org.jetbrains.kotlin.gradle.tasks.KotlinCompile" not in rbg:
-                  rbg = rbg + "\n" + jvm_fix
+              if "resolutionStrategy" not in rbg:
+                  rbg = gradle_fix + "\n" + rbg
                   with open(root_bg, "w", encoding="utf-8") as f:
                       f.write(rbg)
           PYEOF
 
-          # 下載套件、執行單元測試並編譯 Release APK
-          flutter pub get
-          flutter test test/curriculum_and_logic_test.dart
+          # 編譯 Release APK
           flutter build apk --release --no-tree-shake-icons
 
           mkdir -p "$GITHUB_WORKSPACE/apk_output"
